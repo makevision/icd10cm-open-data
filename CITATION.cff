@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+title: MedCoder ICD-10-CM open data
+message: If you use these files, please link to https://medcoder.ai and to this repository.
+type: dataset
+authors:
+  - name: MedCoder.ai
+    website: https://medcoder.ai
+license: CC0-1.0
+url: https://medcoder.ai/updates
+abstract: >-
+  Machine-readable derivatives of the public-domain CMS/CDC ICD-10-CM release files: the
+  FY2026-to-FY2027 change lists, every Excludes1 and Excludes2 note in the FY2027 tabular
+  with parsed code references, and per-fiscal-year code counts from FY2016 to FY2027.

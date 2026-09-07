@@ -1,0 +1,13 @@
+fiscalYear,effectiveFrom,totalEntries,billableCodes,nonBillableHeaders,addedVsPriorYear,deletedVsPriorYear,netChange,billableAdded,billableRemoved,sourceFile,sourceUrl
+2016,2015-10-01,91737,69823,21914,,,,,,icd10cm_order_2016.txt,https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Publications/ICD10CM/2016/icd10cm_order_2016.txt
+2017,2016-10-01,93830,71486,22344,2305,212,2093,1974,311,icd10cm_order_2017.txt,https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Publications/ICD10CM/2017/icd10cm_order_2017.txt
+2018,2017-10-01,94127,71704,22423,419,122,297,360,142,icd10cm_order_2018.txt,https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Publications/ICD10CM/2018/2018-ICD-10-Code-Order-Descriptions.zip
+2019,2018-10-01,94444,71932,22512,320,3,317,279,51,icd10cm_order_2019.txt,https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Publications/ICD10CM/2019/icd10cm_order_2019.txt
+2020,2019-10-01,94765,72184,22581,328,7,321,273,21,icd10cm_order_2020.txt,https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Publications/ICD10CM/2020/icd10cm_order_2020.txt
+2021,2020-10-01,95352,72616,22736,613,26,587,490,58,icd10cm_order_2021.txt,https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Publications/ICD10CM/2021/icd10cm_order_2021.txt
+2022,2021-10-01,95528,72750,22778,201,25,176,168,34,icd10cm_order_2022.txt,https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Publications/ICD10CM/2022/icd10cm_order_2022.txt
+2023,2022-10-01,96745,73639,23106,1468,251,1217,1176,287,icd10cm_order_2023.txt,https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Publications/ICD10CM/2023/icd10-Order-CodeFiles2023.zip
+2024,2023-10-01,97296,74044,23252,551,0,551,437,32,icd10cm_order_2024.txt,https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Publications/ICD10CM/2024/icd10cm-CodesDescriptions-2024.zip
+2025,2024-10-01,97584,74260,23324,291,3,288,252,36,icd10cm_order_2025.txt,https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Publications/ICD10CM/2025/ICD10-CM%20Code%20Descriptions%202025.zip
+2026,2025-10-01,98186,74719,23467,614,12,602,487,28,icd10cm_order_2026.txt,https://www.cms.gov/files/zip/2026-code-descriptions-tabular-order.zip
+2027,2026-10-01,98403,74879,23524,238,21,217,190,30,icd10cm_order_2027.txt,https://www.cms.gov/files/zip/2027-code-descriptions-tabular-order.zip

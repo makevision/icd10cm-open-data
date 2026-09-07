@@ -1,0 +1,239 @@
+code,codeDotted,billable,category,shortTitle,longTitle
+C7831,C78.31,true,C78,Secondary malignant neoplasm of larynx,Secondary malignant neoplasm of larynx
+C7832,C78.32,true,C78,Secondary malignant neoplasm of pharynx,Secondary malignant neoplasm of pharynx
+C7983,C79.83,true,C79,Secondary malignant neoplasm of oral cavity,Secondary malignant neoplasm of oral cavity
+D6911,D69.11,true,D69,Glanzmann thrombasthenia,Glanzmann thrombasthenia
+D6919,D69.19,true,D69,Other qualitative platelet defects,Other qualitative platelet defects
+E8983,E89.83,false,E89,Postprocedural hypoglycemia following a procedure,Postprocedural hypoglycemia following a procedure
+E89830,E89.830,true,E89,Post bariatric hypoglycemia,Post bariatric hypoglycemia
+E89838,E89.838,true,E89,Other postprocedural hypoglycemia,Other postprocedural hypoglycemia
+F64A,F64.A,true,F64,"Gender identity disorder, in remission","Gender identity disorder, in remission"
+I4200,I42.00,true,I42,"Dilated cardiomyopathy, unspecified","Dilated cardiomyopathy, unspecified"
+I4201,I42.01,true,I42,Familial-genetic dilated cardiomyopathy,Familial-genetic dilated cardiomyopathy
+I4209,I42.09,true,I42,Other dilated cardiomyopathy,Other dilated cardiomyopathy
+I4281,I42.81,true,I42,Arrhythmogenic cardiomyopathy,Arrhythmogenic cardiomyopathy
+I4289,I42.89,true,I42,Other cardiomyopathies not elsewhere classified,Other cardiomyopathies not elsewhere classified
+I4722,I47.22,true,I47,Catecholaminergic polymorphic ventricular tachycardia [CPVT],Catecholaminergic polymorphic ventricular tachycardia [CPVT]
+I4981,I49.81,true,I49,Brugada syndrome,Brugada syndrome
+I4982,I49.82,true,I49,Ventricular bigeminy,Ventricular bigeminy
+I4989,I49.89,true,I49,Other specified cardiac arrhythmias not elsewhere classified,Other specified cardiac arrhythmias not elsewhere classified
+J3483,J34.83,false,J34,Odontogenic sinusitis,Odontogenic sinusitis
+J34830,J34.830,true,J34,"Odontogenic sinusitis, maxillary sinus","Odontogenic sinusitis, maxillary sinus"
+J34831,J34.831,true,J34,"Odontogenic sinusitis, ethmoid sinus","Odontogenic sinusitis, ethmoid sinus"
+J34832,J34.832,true,J34,"Odontogenic sinusitis, frontal sinus","Odontogenic sinusitis, frontal sinus"
+J34833,J34.833,true,J34,"Odontogenic sinusitis, sphenoid sinus","Odontogenic sinusitis, sphenoid sinus"
+J34839,J34.839,true,J34,"Odontogenic sinusitis, unspecified","Odontogenic sinusitis, unspecified"
+J4B,J4B,true,J4B,Pulmonary mycetoma,Pulmonary mycetoma
+K31B,K31.B,true,K31,"Hypertrophic pyloric stenosis, in childhood","Hypertrophic pyloric stenosis, in childhood"
+K6A,K6A,false,K6A,"Diseases of the pelvis, not elsewhere classified","Diseases of the pelvis, not elsewhere classified"
+K6A0,K6A.0,false,K6A,Pelvic abscess,Pelvic abscess
+K6A01,K6A.01,true,K6A,Prevesical abscess,Prevesical abscess
+K6A09,K6A.09,true,K6A,Other pelvic abscess,Other pelvic abscess
+K6A8,K6A.8,true,K6A,"Other diseases of the pelvis, not elsewhere classified","Other diseases of the pelvis, not elsewhere classified"
+K740A,K74.0A,true,K74,"Hepatic fibrosis, moderate fibrosis","Hepatic fibrosis, moderate fibrosis"
+K7683,K76.83,true,K76,Intestinal failure-associated liver disease,Intestinal failure-associated liver disease
+L02237,L02.237,true,L02,Carbuncle of flank,Carbuncle of flank
+M043,M04.3,true,M04,VEXAS syndrome,VEXAS syndrome
+M67A,M67.A,false,M67,Plantar fasciitis,Plantar fasciitis
+M67A0,M67.A0,false,M67,"Plantar fasciitis, foot","Plantar fasciitis, foot"
+M67A01,M67.A01,true,M67,"Plantar fasciitis, right foot","Plantar fasciitis, right foot"
+M67A02,M67.A02,true,M67,"Plantar fasciitis, left foot","Plantar fasciitis, left foot"
+M67A09,M67.A09,true,M67,"Plantar fasciitis, unspecified foot","Plantar fasciitis, unspecified foot"
+M7220,M72.20,true,M72,"Plantar fascial fibromatosis, unspecified foot","Plantar fascial fibromatosis, unspecified foot"
+M7221,M72.21,true,M72,"Plantar fascial fibromatosis, right foot","Plantar fascial fibromatosis, right foot"
+M7222,M72.22,true,M72,"Plantar fascial fibromatosis, left foot","Plantar fascial fibromatosis, left foot"
+M868X11,M86.8X11,true,M86,"Other osteomyelitis, right shoulder","Other osteomyelitis, right shoulder"
+M868X12,M86.8X12,true,M86,"Other osteomyelitis, left shoulder","Other osteomyelitis, left shoulder"
+M868X19,M86.8X19,true,M86,"Other osteomyelitis, unspecified shoulder","Other osteomyelitis, unspecified shoulder"
+M868X21,M86.8X21,true,M86,"Other osteomyelitis, right upper arm","Other osteomyelitis, right upper arm"
+M868X22,M86.8X22,true,M86,"Other osteomyelitis, left upper arm","Other osteomyelitis, left upper arm"
+M868X29,M86.8X29,true,M86,"Other osteomyelitis, unspecified upper arm","Other osteomyelitis, unspecified upper arm"
+M868X31,M86.8X31,true,M86,"Other osteomyelitis, right forearm","Other osteomyelitis, right forearm"
+M868X32,M86.8X32,true,M86,"Other osteomyelitis, left forearm","Other osteomyelitis, left forearm"
+M868X39,M86.8X39,true,M86,"Other osteomyelitis, unspecified forearm","Other osteomyelitis, unspecified forearm"
+M868X41,M86.8X41,true,M86,"Other osteomyelitis, right hand","Other osteomyelitis, right hand"
+M868X42,M86.8X42,true,M86,"Other osteomyelitis, left hand","Other osteomyelitis, left hand"
+M868X49,M86.8X49,true,M86,"Other osteomyelitis, unspecified hand","Other osteomyelitis, unspecified hand"
+M868X51,M86.8X51,true,M86,"Other osteomyelitis, right thigh","Other osteomyelitis, right thigh"
+M868X52,M86.8X52,true,M86,"Other osteomyelitis, left thigh","Other osteomyelitis, left thigh"
+M868X59,M86.8X59,true,M86,"Other osteomyelitis, unspecified thigh","Other osteomyelitis, unspecified thigh"
+M868X61,M86.8X61,true,M86,"Other osteomyelitis, right lower leg","Other osteomyelitis, right lower leg"
+M868X62,M86.8X62,true,M86,"Other osteomyelitis, left lower leg","Other osteomyelitis, left lower leg"
+M868X69,M86.8X69,true,M86,"Other osteomyelitis, unspecified lower leg","Other osteomyelitis, unspecified lower leg"
+M868X71,M86.8X71,true,M86,"Other osteomyelitis, right ankle and foot","Other osteomyelitis, right ankle and foot"
+M868X72,M86.8X72,true,M86,"Other osteomyelitis, left ankle and foot","Other osteomyelitis, left ankle and foot"
+M868X79,M86.8X79,true,M86,"Other osteomyelitis, unspecified ankle and foot","Other osteomyelitis, unspecified ankle and foot"
+M868X80,M86.8X80,true,M86,"Other osteomyelitis, skull","Other osteomyelitis, skull"
+M868X81,M86.8X81,true,M86,"Other osteomyelitis, face and sinuses","Other osteomyelitis, face and sinuses"
+M868X89,M86.8X89,true,M86,"Other osteomyelitis, other site","Other osteomyelitis, other site"
+N9986,N99.86,false,N99,Intraop and postproc complications and disorders of breast,Intraoperative and postprocedural complications and disorders of breast
+N99860,N99.860,true,N99,Intraoperative and postprocedural nipple ischemia,Intraoperative and postprocedural nipple ischemia
+N99861,N99.861,true,N99,Intraoperative and postprocedural nipple necrosis,Intraoperative and postprocedural nipple necrosis
+O0012,O00.12,false,O00,Interstit ectopic pregnancy without intrauterine pregnancy,Interstitial ectopic pregnancy without intrauterine pregnancy
+O00121,O00.121,true,O00,Right interstit ectopic pregnancy without uterin pregnancy,Right interstitial ectopic pregnancy without intrauterine pregnancy
+O00122,O00.122,true,O00,Left interstit ectopic pregnancy without uterin pregnancy,Left interstitial ectopic pregnancy without intrauterine pregnancy
+O00129,O00.129,true,O00,Unsp interstit ectopic pregnancy without uterin pregnancy,Unspecified interstitial ectopic pregnancy without intrauterine pregnancy
+O0013,O00.13,false,O00,Interstitial ectopic pregnancy with intrauterine pregnancy,Interstitial ectopic pregnancy with intrauterine pregnancy
+O00131,O00.131,true,O00,Right interstit ectopic pregnancy with uterin pregnancy,Right interstitial ectopic pregnancy with intrauterine pregnancy
+O00132,O00.132,true,O00,Left interstit ectopic pregnancy with intrauterine pregnancy,Left interstitial ectopic pregnancy with intrauterine pregnancy
+O00139,O00.139,true,O00,Unsp interstit ectopic pregnancy with uterin pregnancy,Unspecified interstitial ectopic pregnancy with intrauterine pregnancy
+O003,O00.3,false,O00,Cesarean scar ectopic pregnancy,Cesarean scar ectopic pregnancy
+O0031,O00.31,true,O00,Cesarean scar ectopic pregnancy without uterin pregnancy,Cesarean scar ectopic pregnancy without intrauterine pregnancy
+O0032,O00.32,true,O00,Cesarean scar ectopic pregnancy with intrauterine pregnancy,Cesarean scar ectopic pregnancy with intrauterine pregnancy
+O004,O00.4,false,O00,Cervical ectopic pregnancy,Cervical ectopic pregnancy
+O0041,O00.41,true,O00,Cervical ectopic pregnancy without intrauterine pregnancy,Cervical ectopic pregnancy without intrauterine pregnancy
+O0042,O00.42,true,O00,Cervical ectopic pregnancy with intrauterine pregnancy,Cervical ectopic pregnancy with intrauterine pregnancy
+O005,O00.5,false,O00,Cornual ectopic pregnancy,Cornual ectopic pregnancy
+O0051,O00.51,false,O00,Cornual ectopic pregnancy without intrauterine pregnancy,Cornual ectopic pregnancy without intrauterine pregnancy
+O00511,O00.511,true,O00,Right cornual ectopic pregnancy without uterin pregnancy,Right cornual ectopic pregnancy without intrauterine pregnancy
+O00512,O00.512,true,O00,Left cornual ectopic pregnancy without uterin pregnancy,Left cornual ectopic pregnancy without intrauterine pregnancy
+O00519,O00.519,true,O00,Unsp cornual ectopic pregnancy without uterin pregnancy,Unspecified cornual ectopic pregnancy without intrauterine pregnancy
+O0052,O00.52,false,O00,Cornual ectopic pregnancy with intrauterine pregnancy,Cornual ectopic pregnancy with intrauterine pregnancy
+O00521,O00.521,true,O00,Right cornual ectopic pregnancy with intrauterine pregnancy,Right cornual ectopic pregnancy with intrauterine pregnancy
+O00522,O00.522,true,O00,Left cornual ectopic pregnancy with intrauterine pregnancy,Left cornual ectopic pregnancy with intrauterine pregnancy
+O00529,O00.529,true,O00,Unspecified cornual ectopic pregnancy with uterin pregnancy,Unspecified cornual ectopic pregnancy with intrauterine pregnancy
+O314,O31.4,false,O31,Cont preg after vanishing twin syndrome of one fetus or more,Continuing pregnancy after vanishing twin syndrome of one fetus or more
+O3140,O31.40,false,O31,"Cont preg aft vanishing twin syn one fts or more, unsp tri","Continuing pregnancy after vanishing twin syndrome of one fetus or more, unspecified trimester"
+O3140X0,O31.40X0,true,O31,"Cont preg aft vanishing twin syn 1 fts or more,unsp tri,unsp","Continuing pregnancy after vanishing twin syndrome of one fetus or more, unspecified trimester, not applicable or unspecified"
+O3140X1,O31.40X1,true,O31,"Cont preg aft vanishing twin syn 1 fts or more,unsp tri,fts1","Continuing pregnancy after vanishing twin syndrome of one fetus or more, unspecified trimester, fetus 1"
+O3140X2,O31.40X2,true,O31,"Cont preg aft vanishing twin syn 1 fts or more,unsp tri,fts2","Continuing pregnancy after vanishing twin syndrome of one fetus or more, unspecified trimester, fetus 2"
+O3140X3,O31.40X3,true,O31,"Cont preg aft vanishing twin syn 1 fts or more,unsp tri,fts3","Continuing pregnancy after vanishing twin syndrome of one fetus or more, unspecified trimester, fetus 3"
+O3140X4,O31.40X4,true,O31,"Cont preg aft vanishing twin syn 1 fts or more,unsp tri,fts4","Continuing pregnancy after vanishing twin syndrome of one fetus or more, unspecified trimester, fetus 4"
+O3140X5,O31.40X5,true,O31,"Cont preg aft vanishing twin syn 1 fts or more,unsp tri,fts5","Continuing pregnancy after vanishing twin syndrome of one fetus or more, unspecified trimester, fetus 5"
+O3140X9,O31.40X9,true,O31,"Cont preg aft vanishing twin syn 1 fts or more,unsp tri,oth","Continuing pregnancy after vanishing twin syndrome of one fetus or more, unspecified trimester, other fetus"
+O3141,O31.41,false,O31,"Cont preg aft vanishing twin syn of one fts or more, 1st tri","Continuing pregnancy after vanishing twin syndrome of one fetus or more, first trimester"
+O3141X0,O31.41X0,true,O31,"Cont preg aft vanishing twin syn 1 fts or more,1st tri,unsp","Continuing pregnancy after vanishing twin syndrome of one fetus or more, first trimester, not applicable or unspecified"
+O3141X1,O31.41X1,true,O31,"Cont preg aft vanishing twin syn 1 fts or more,1st tri,fts1","Continuing pregnancy after vanishing twin syndrome of one fetus or more, first trimester, fetus 1"
+O3141X2,O31.41X2,true,O31,"Cont preg aft vanishing twin syn 1 fts or more,1st tri,fts2","Continuing pregnancy after vanishing twin syndrome of one fetus or more, first trimester, fetus 2"
+O3141X3,O31.41X3,true,O31,"Cont preg aft vanishing twin syn 1 fts or more,1st tri,fts3","Continuing pregnancy after vanishing twin syndrome of one fetus or more, first trimester, fetus 3"
+O3141X4,O31.41X4,true,O31,"Cont preg aft vanishing twin syn 1 fts or more,1st tri,fts4","Continuing pregnancy after vanishing twin syndrome of one fetus or more, first trimester, fetus 4"
+O3141X5,O31.41X5,true,O31,"Cont preg aft vanishing twin syn 1 fts or more,1st tri,fts5","Continuing pregnancy after vanishing twin syndrome of one fetus or more, first trimester, fetus 5"
+O3141X9,O31.41X9,true,O31,"Cont preg aft vanishing twin syn 1 fts or more, 1st tri, oth","Continuing pregnancy after vanishing twin syndrome of one fetus or more, first trimester, other fetus"
+O3142,O31.42,false,O31,"Cont preg aft vanishing twin syn of one fts or more, 2nd tri","Continuing pregnancy after vanishing twin syndrome of one fetus or more, second trimester"
+O3142X0,O31.42X0,true,O31,"Cont preg aft vanishing twin syn 1 fts or more,2nd tri,unsp","Continuing pregnancy after vanishing twin syndrome of one fetus or more, second trimester, not applicable or unspecified"
+O3142X1,O31.42X1,true,O31,"Cont preg aft vanishing twin syn 1 fts or more,2nd tri,fts1","Continuing pregnancy after vanishing twin syndrome of one fetus or more, second trimester, fetus 1"
+O3142X2,O31.42X2,true,O31,"Cont preg aft vanishing twin syn 1 fts or more,2nd tri,fts2","Continuing pregnancy after vanishing twin syndrome of one fetus or more, second trimester, fetus 2"
+O3142X3,O31.42X3,true,O31,"Cont preg aft vanishing twin syn 1 fts or more,2nd tri,fts3","Continuing pregnancy after vanishing twin syndrome of one fetus or more, second trimester, fetus 3"
+O3142X4,O31.42X4,true,O31,"Cont preg aft vanishing twin syn 1 fts or more,2nd tri,fts4","Continuing pregnancy after vanishing twin syndrome of one fetus or more, second trimester, fetus 4"
+O3142X5,O31.42X5,true,O31,"Cont preg aft vanishing twin syn 1 fts or more,2nd tri,fts5","Continuing pregnancy after vanishing twin syndrome of one fetus or more, second trimester, fetus 5"
+O3142X9,O31.42X9,true,O31,"Cont preg aft vanishing twin syn 1 fts or more, 2nd tri, oth","Continuing pregnancy after vanishing twin syndrome of one fetus or more, second trimester, other fetus"
+O3143,O31.43,false,O31,"Cont preg aft vanishing twin syn of one fts or more, 3rd tri","Continuing pregnancy after vanishing twin syndrome of one fetus or more, third trimester"
+O3143X0,O31.43X0,true,O31,"Cont preg aft vanishing twin syn 1 fts or more,3rd tri,unsp","Continuing pregnancy after vanishing twin syndrome of one fetus or more, third trimester, not applicable or unspecified"
+O3143X1,O31.43X1,true,O31,"Cont preg aft vanishing twin syn 1 fts or more,3rd tri,fts1","Continuing pregnancy after vanishing twin syndrome of one fetus or more, third trimester, fetus 1"
+O3143X2,O31.43X2,true,O31,"Cont preg aft vanishing twin syn 1 fts or more,3rd tri,fts2","Continuing pregnancy after vanishing twin syndrome of one fetus or more, third trimester, fetus 2"
+O3143X3,O31.43X3,true,O31,"Cont preg aft vanishing twin syn 1 fts or more,3rd tri,fts3","Continuing pregnancy after vanishing twin syndrome of one fetus or more, third trimester, fetus 3"
+O3143X4,O31.43X4,true,O31,"Cont preg aft vanishing twin syn 1 fts or more,3rd tri,fts4","Continuing pregnancy after vanishing twin syndrome of one fetus or more, third trimester, fetus 4"
+O3143X5,O31.43X5,true,O31,"Cont preg aft vanishing twin syn 1 fts or more,3rd tri,fts5","Continuing pregnancy after vanishing twin syndrome of one fetus or more, third trimester, fetus 5"
+O3143X9,O31.43X9,true,O31,"Cont preg aft vanishing twin syn 1 fts or more, 3rd tri, oth","Continuing pregnancy after vanishing twin syndrome of one fetus or more, third trimester, other fetus"
+Q87A,Q87.A,true,Q87,Loeys-Dietz syndrome,Loeys-Dietz syndrome
+QA1,QA1,false,QA1,"Genetic disorders associated with neoplasms, NEC","Genetic disorders associated with neoplasms, not elsewhere classified"
+QA17,QA1.7,false,QA1,"Inherited neoplasm predisposition synd w mult systems, NEC","Inherited neoplasm predisposition syndromes involving multiple systems, not elsewhere classified"
+QA171,QA1.71,true,QA1,Lynch syndrome,Lynch syndrome
+QA179,QA1.79,false,QA1,Other inherited neoplm predisposition synd of mult systems,Other inherited neoplasm predisposition syndrome of multiple systems
+QA1790,QA1.790,true,QA1,Familial cancer syndrome with pathogenic BRCA1 mutation,Familial cancer syndrome with pathogenic BRCA1 mutation
+QA1791,QA1.791,true,QA1,Familial cancer syndrome with pathogenic BRCA2 mutation,Familial cancer syndrome with pathogenic BRCA2 mutation
+QA1792,QA1.792,true,QA1,Li Fraumeni syndrome,Li Fraumeni syndrome
+QA1798,QA1.798,true,QA1,Other inherited neoplm predisposition synd of mult systems,Other inherited neoplasm predisposition syndrome of multiple systems
+R7872,R78.72,true,R78,Abnormal gadolinium level in blood,Abnormal gadolinium level in blood
+T5281,T52.81,false,T52,Toxic effects of alkenes,Toxic effects of alkenes
+T52811,T52.811,false,T52,"Toxic effect of alkenes, accidental (unintentional)","Toxic effect of alkenes, accidental (unintentional)"
+T52811A,T52.811A,true,T52,"Toxic effect of alkenes, accidental (unintentional), init","Toxic effect of alkenes, accidental (unintentional), initial encounter"
+T52811D,T52.811D,true,T52,"Toxic effect of alkenes, accidental (unintentional), subs","Toxic effect of alkenes, accidental (unintentional), subsequent encounter"
+T52811S,T52.811S,true,T52,"Toxic effect of alkenes, accidental (unintentional), sequela","Toxic effect of alkenes, accidental (unintentional), sequela"
+T52812,T52.812,false,T52,"Toxic effect of alkenes, intentional self-harm","Toxic effect of alkenes, intentional self-harm"
+T52812A,T52.812A,true,T52,"Toxic effect of alkenes, self-harm, initial encounter","Toxic effect of alkenes, intentional self-harm, initial encounter"
+T52812D,T52.812D,true,T52,"Toxic effect of alkenes, self-harm, subsequent encounter","Toxic effect of alkenes, intentional self-harm, subsequent encounter"
+T52812S,T52.812S,true,T52,"Toxic effect of alkenes, intentional self-harm, sequela","Toxic effect of alkenes, intentional self-harm, sequela"
+T52813,T52.813,false,T52,"Toxic effect of alkenes, assault","Toxic effect of alkenes, assault"
+T52813A,T52.813A,true,T52,"Toxic effect of alkenes, assault, initial encounter","Toxic effect of alkenes, assault, initial encounter"
+T52813D,T52.813D,true,T52,"Toxic effect of alkenes, assault, subsequent encounter","Toxic effect of alkenes, assault, subsequent encounter"
+T52813S,T52.813S,true,T52,"Toxic effect of alkenes, assault, sequela","Toxic effect of alkenes, assault, sequela"
+T52814,T52.814,false,T52,"Toxic effect of alkenes, undetermined","Toxic effect of alkenes, undetermined"
+T52814A,T52.814A,true,T52,"Toxic effect of alkenes, undetermined, initial encounter","Toxic effect of alkenes, undetermined, initial encounter"
+T52814D,T52.814D,true,T52,"Toxic effect of alkenes, undetermined, subsequent encounter","Toxic effect of alkenes, undetermined, subsequent encounter"
+T52814S,T52.814S,true,T52,"Toxic effect of alkenes, undetermined, sequela","Toxic effect of alkenes, undetermined, sequela"
+T5282,T52.82,false,T52,Toxic effects of cycloparaffins,Toxic effects of cycloparaffins
+T52821,T52.821,false,T52,"Toxic effect of cycloparaffins, accidental (unintentional)","Toxic effect of cycloparaffins, accidental (unintentional)"
+T52821A,T52.821A,true,T52,"Toxic effect of cycloparaffins, accidental, init","Toxic effect of cycloparaffins, accidental (unintentional), initial encounter"
+T52821D,T52.821D,true,T52,"Toxic effect of cycloparaffins, accidental, subs","Toxic effect of cycloparaffins, accidental (unintentional), subsequent encounter"
+T52821S,T52.821S,true,T52,"Toxic effect of cycloparaffins, accidental, sequela","Toxic effect of cycloparaffins, accidental (unintentional), sequela"
+T52822,T52.822,false,T52,"Toxic effect of cycloparaffins, intentional self-harm","Toxic effect of cycloparaffins, intentional self-harm"
+T52822A,T52.822A,true,T52,"Toxic effect of cycloparaffins, self-harm, initial encounter","Toxic effect of cycloparaffins, intentional self-harm, initial encounter"
+T52822D,T52.822D,true,T52,"Toxic effect of cycloparaffins, self-harm, subs","Toxic effect of cycloparaffins, intentional self-harm, subsequent encounter"
+T52822S,T52.822S,true,T52,"Toxic effect of cycloparaffins, self-harm, sequela","Toxic effect of cycloparaffins, intentional self-harm, sequela"
+T52823,T52.823,false,T52,"Toxic effect of cycloparaffins, assault","Toxic effect of cycloparaffins, assault"
+T52823A,T52.823A,true,T52,"Toxic effect of cycloparaffins, assault, initial encounter","Toxic effect of cycloparaffins, assault, initial encounter"
+T52823D,T52.823D,true,T52,"Toxic effect of cycloparaffins, assault, subs","Toxic effect of cycloparaffins, assault, subsequent encounter"
+T52823S,T52.823S,true,T52,"Toxic effect of cycloparaffins, assault, sequela","Toxic effect of cycloparaffins, assault, sequela"
+T52824,T52.824,false,T52,"Toxic effect of cycloparaffins, undetermined","Toxic effect of cycloparaffins, undetermined"
+T52824A,T52.824A,true,T52,"Toxic effect of cycloparaffins, undetermined, init","Toxic effect of cycloparaffins, undetermined, initial encounter"
+T52824D,T52.824D,true,T52,"Toxic effect of cycloparaffins, undetermined, subs","Toxic effect of cycloparaffins, undetermined, subsequent encounter"
+T52824S,T52.824S,true,T52,"Toxic effect of cycloparaffins, undetermined, sequela","Toxic effect of cycloparaffins, undetermined, sequela"
+T5289,T52.89,false,T52,Toxic effects of other organic solvents,Toxic effects of other organic solvents
+T52891,T52.891,false,T52,"Toxic effect of other organic solvents, accidental","Toxic effect of other organic solvents, accidental (unintentional)"
+T52891A,T52.891A,true,T52,"Toxic effect of other organic solvents, accidental, init","Toxic effect of other organic solvents, accidental (unintentional), initial encounter"
+T52891D,T52.891D,true,T52,"Toxic effect of other organic solvents, accidental, subs","Toxic effect of other organic solvents, accidental (unintentional), subsequent encounter"
+T52891S,T52.891S,true,T52,"Toxic effect of other organic solvents, accidental, sequela","Toxic effect of other organic solvents, accidental (unintentional), sequela"
+T52892,T52.892,false,T52,"Toxic effect of other organic solvents, self-harm","Toxic effect of other organic solvents, intentional self-harm"
+T52892A,T52.892A,true,T52,"Toxic effect of other organic solvents, self-harm, init","Toxic effect of other organic solvents, intentional self-harm, initial encounter"
+T52892D,T52.892D,true,T52,"Toxic effect of other organic solvents, self-harm, subs","Toxic effect of other organic solvents, intentional self-harm, subsequent encounter"
+T52892S,T52.892S,true,T52,"Toxic effect of other organic solvents, self-harm, sequela","Toxic effect of other organic solvents, intentional self-harm, sequela"
+T52893,T52.893,false,T52,"Toxic effect of other organic solvents, assault","Toxic effect of other organic solvents, assault"
+T52893A,T52.893A,true,T52,"Toxic effect of other organic solvents, assault, init","Toxic effect of other organic solvents, assault, initial encounter"
+T52893D,T52.893D,true,T52,"Toxic effect of other organic solvents, assault, subs","Toxic effect of other organic solvents, assault, subsequent encounter"
+T52893S,T52.893S,true,T52,"Toxic effect of other organic solvents, assault, sequela","Toxic effect of other organic solvents, assault, sequela"
+T52894,T52.894,false,T52,"Toxic effect of other organic solvents, undetermined","Toxic effect of other organic solvents, undetermined"
+T52894A,T52.894A,true,T52,"Toxic effect of other organic solvents, undetermined, init","Toxic effect of other organic solvents, undetermined, initial encounter"
+T52894D,T52.894D,true,T52,"Toxic effect of other organic solvents, undetermined, subs","Toxic effect of other organic solvents, undetermined, subsequent encounter"
+T52894S,T52.894S,true,T52,"Toxic effect of other organic solvents, undet, sequela","Toxic effect of other organic solvents, undetermined, sequela"
+T5982,T59.82,false,T59,Toxic effects of hexamethylene diisocyanate,Toxic effects of hexamethylene diisocyanate
+T59821,T59.821,false,T59,"Toxic effect of hexamethylene diisocyanate, accidental","Toxic effect of hexamethylene diisocyanate, accidental (unintentional)"
+T59821A,T59.821A,true,T59,"Toxic effect of hexamethylene diisocyanate, acc, init","Toxic effect of hexamethylene diisocyanate, accidental (unintentional), initial encounter"
+T59821D,T59.821D,true,T59,"Toxic effect of hexamethylene diisocyanate, acc, subs","Toxic effect of hexamethylene diisocyanate, accidental (unintentional), subsequent encounter"
+T59821S,T59.821S,true,T59,"Toxic effect of hexamethylene diisocyanate, acc, sequela","Toxic effect of hexamethylene diisocyanate, accidental (unintentional), sequela"
+T59822,T59.822,false,T59,"Toxic effect of hexamethylene diisocyanate, self-harm","Toxic effect of hexamethylene diisocyanate, intentional self-harm"
+T59822A,T59.822A,true,T59,"Toxic effect of hexamethylene diisocyanate, self-harm, init","Toxic effect of hexamethylene diisocyanate, intentional self-harm, initial encounter"
+T59822D,T59.822D,true,T59,"Toxic effect of hexamethylene diisocyanate, self-harm, subs","Toxic effect of hexamethylene diisocyanate, intentional self-harm, subsequent encounter"
+T59822S,T59.822S,true,T59,"Toxic effect of hexamethylene diisocyanate, slf-hrm, sequela","Toxic effect of hexamethylene diisocyanate, intentional self-harm, sequela"
+T59823,T59.823,false,T59,"Toxic effect of hexamethylene diisocyanate, assault","Toxic effect of hexamethylene diisocyanate, assault"
+T59823A,T59.823A,true,T59,"Toxic effect of hexamethylene diisocyanate, assault, init","Toxic effect of hexamethylene diisocyanate, assault, initial encounter"
+T59823D,T59.823D,true,T59,"Toxic effect of hexamethylene diisocyanate, assault, subs","Toxic effect of hexamethylene diisocyanate, assault, subsequent encounter"
+T59823S,T59.823S,true,T59,"Toxic effect of hexamethylene diisocyanate, assault, sequela","Toxic effect of hexamethylene diisocyanate, assault, sequela"
+T59824,T59.824,false,T59,"Toxic effect of hexamethylene diisocyanate, undetermined","Toxic effect of hexamethylene diisocyanate, undetermined"
+T59824A,T59.824A,true,T59,"Toxic effect of hexamethylene diisocyanate, undet, init","Toxic effect of hexamethylene diisocyanate, undetermined, initial encounter"
+T59824D,T59.824D,true,T59,"Toxic effect of hexamethylene diisocyanate, undet, subs","Toxic effect of hexamethylene diisocyanate, undetermined, subsequent encounter"
+T59824S,T59.824S,true,T59,"Toxic effect of hexamethylene diisocyanate, undet, sequela","Toxic effect of hexamethylene diisocyanate, undetermined, sequela"
+T6585,T65.85,false,T65,Toxic effect of medetomidine,Toxic effect of medetomidine
+T65851,T65.851,false,T65,"Toxic effect of medetomidine, accidental (unintentional)","Toxic effect of medetomidine, accidental (unintentional)"
+T65851A,T65.851A,true,T65,"Toxic effect of medetomidine, accidental, init","Toxic effect of medetomidine, accidental (unintentional), initial encounter"
+T65851D,T65.851D,true,T65,"Toxic effect of medetomidine, accidental, subs","Toxic effect of medetomidine, accidental (unintentional), subsequent encounter"
+T65851S,T65.851S,true,T65,"Toxic effect of medetomidine, accidental, sequela","Toxic effect of medetomidine, accidental (unintentional), sequela"
+T65852,T65.852,false,T65,"Toxic effect of medetomidine, intentional self-harm","Toxic effect of medetomidine, intentional self-harm"
+T65852A,T65.852A,true,T65,"Toxic effect of medetomidine, self-harm, initial encounter","Toxic effect of medetomidine, intentional self-harm, initial encounter"
+T65852D,T65.852D,true,T65,"Toxic effect of medetomidine, self-harm, subs","Toxic effect of medetomidine, intentional self-harm, subsequent encounter"
+T65852S,T65.852S,true,T65,"Toxic effect of medetomidine, intentional self-harm, sequela","Toxic effect of medetomidine, intentional self-harm, sequela"
+T65853,T65.853,false,T65,"Toxic effect of medetomidine, assault","Toxic effect of medetomidine, assault"
+T65853A,T65.853A,true,T65,"Toxic effect of medetomidine, assault, initial encounter","Toxic effect of medetomidine, assault, initial encounter"
+T65853D,T65.853D,true,T65,"Toxic effect of medetomidine, assault, subsequent encounter","Toxic effect of medetomidine, assault, subsequent encounter"
+T65853S,T65.853S,true,T65,"Toxic effect of medetomidine, assault, sequela","Toxic effect of medetomidine, assault, sequela"
+T65854,T65.854,false,T65,"Toxic effect of medetomidine, undetermined","Toxic effect of medetomidine, undetermined"
+T65854A,T65.854A,true,T65,"Toxic effect of medetomidine, undetermined, init","Toxic effect of medetomidine, undetermined, initial encounter"
+T65854D,T65.854D,true,T65,"Toxic effect of medetomidine, undetermined, subs","Toxic effect of medetomidine, undetermined, subsequent encounter"
+T65854S,T65.854S,true,T65,"Toxic effect of medetomidine, undetermined, sequela","Toxic effect of medetomidine, undetermined, sequela"
+Z6818,Z68.18,true,Z68,"Body mass index [BMI] 18.4 or less, adult","Body mass index [BMI] 18.4 or less, adult"
+Z6819,Z68.19,true,Z68,"Body mass index [BMI] 18.5-19.9, adult","Body mass index [BMI] 18.5-19.9, adult"
+Z77013,Z77.013,true,Z77,Contact with and (suspected) exposure to gadolinium,Contact with and (suspected) exposure to gadolinium
+Z7732,Z77.32,true,Z77,Contact with and exposure to burn pits in war theater,Contact with and (suspected) exposure to burn pits in war theater
+Z7733,Z77.33,true,Z77,Contact with and (suspected) exposure to Agent Orange,Contact with and (suspected) exposure to Agent Orange
+Z774,Z77.4,false,Z77,Contact with and (suspected) exposure to blast overpressure,Contact with and (suspected) exposure to blast overpressure
+Z7740,Z77.40,true,Z77,Contact with and exposure to unspecified blast overpressure,Contact with and (suspected) exposure to unspecified blast overpressure
+Z7741,Z77.41,true,Z77,Contact with and exposure to low-level blast overpressure,Contact with and (suspected) exposure to low-level blast overpressure
+Z7742,Z77.42,true,Z77,Contact with and exposure to high-level blast overpressure,Contact with and (suspected) exposure to high-level blast overpressure
+Z7749,Z77.49,true,Z77,Contact with and exposure to other blast overpressure,Contact with and (suspected) exposure to other blast overpressure
+Z8617,Z86.17,true,Z86,Personal history of Clostridioides difficile infection,Personal history of Clostridioides difficile infection
+Z878901,Z87.8901,true,Z87,Personal history of social gender transition,Personal history of social gender transition
+Z878902,Z87.8902,true,Z87,Personal history of medical gender transition,Personal history of medical gender transition
+Z878903,Z87.8903,true,Z87,Personal history of surgical gender transition,Personal history of surgical gender transition
+Z878904,Z87.8904,true,Z87,Personal history of intersex surgery,Personal history of intersex surgery
+Z878909,Z87.8909,true,Z87,Personal history of unspecified gender transition,Personal history of unspecified gender transition
+Z87893,Z87.893,true,Z87,Personal history of gender detransition,Personal history of gender detransition

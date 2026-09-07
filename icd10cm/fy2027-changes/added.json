@@ -1,0 +1,1906 @@
+[
+  {
+    "code": "C7831",
+    "codeDotted": "C78.31",
+    "billable": true,
+    "shortTitle": "Secondary malignant neoplasm of larynx",
+    "longTitle": "Secondary malignant neoplasm of larynx",
+    "category": "C78"
+  },
+  {
+    "code": "C7832",
+    "codeDotted": "C78.32",
+    "billable": true,
+    "shortTitle": "Secondary malignant neoplasm of pharynx",
+    "longTitle": "Secondary malignant neoplasm of pharynx",
+    "category": "C78"
+  },
+  {
+    "code": "C7983",
+    "codeDotted": "C79.83",
+    "billable": true,
+    "shortTitle": "Secondary malignant neoplasm of oral cavity",
+    "longTitle": "Secondary malignant neoplasm of oral cavity",
+    "category": "C79"
+  },
+  {
+    "code": "D6911",
+    "codeDotted": "D69.11",
+    "billable": true,
+    "shortTitle": "Glanzmann thrombasthenia",
+    "longTitle": "Glanzmann thrombasthenia",
+    "category": "D69"
+  },
+  {
+    "code": "D6919",
+    "codeDotted": "D69.19",
+    "billable": true,
+    "shortTitle": "Other qualitative platelet defects",
+    "longTitle": "Other qualitative platelet defects",
+    "category": "D69"
+  },
+  {
+    "code": "E8983",
+    "codeDotted": "E89.83",
+    "billable": false,
+    "shortTitle": "Postprocedural hypoglycemia following a procedure",
+    "longTitle": "Postprocedural hypoglycemia following a procedure",
+    "category": "E89"
+  },
+  {
+    "code": "E89830",
+    "codeDotted": "E89.830",
+    "billable": true,
+    "shortTitle": "Post bariatric hypoglycemia",
+    "longTitle": "Post bariatric hypoglycemia",
+    "category": "E89"
+  },
+  {
+    "code": "E89838",
+    "codeDotted": "E89.838",
+    "billable": true,
+    "shortTitle": "Other postprocedural hypoglycemia",
+    "longTitle": "Other postprocedural hypoglycemia",
+    "category": "E89"
+  },
+  {
+    "code": "F64A",
+    "codeDotted": "F64.A",
+    "billable": true,
+    "shortTitle": "Gender identity disorder, in remission",
+    "longTitle": "Gender identity disorder, in remission",
+    "category": "F64"
+  },
+  {
+    "code": "I4200",
+    "codeDotted": "I42.00",
+    "billable": true,
+    "shortTitle": "Dilated cardiomyopathy, unspecified",
+    "longTitle": "Dilated cardiomyopathy, unspecified",
+    "category": "I42"
+  },
+  {
+    "code": "I4201",
+    "codeDotted": "I42.01",
+    "billable": true,
+    "shortTitle": "Familial-genetic dilated cardiomyopathy",
+    "longTitle": "Familial-genetic dilated cardiomyopathy",
+    "category": "I42"
+  },
+  {
+    "code": "I4209",
+    "codeDotted": "I42.09",
+    "billable": true,
+    "shortTitle": "Other dilated cardiomyopathy",
+    "longTitle": "Other dilated cardiomyopathy",
+    "category": "I42"
+  },
+  {
+    "code": "I4281",
+    "codeDotted": "I42.81",
+    "billable": true,
+    "shortTitle": "Arrhythmogenic cardiomyopathy",
+    "longTitle": "Arrhythmogenic cardiomyopathy",
+    "category": "I42"
+  },
+  {
+    "code": "I4289",
+    "codeDotted": "I42.89",
+    "billable": true,
+    "shortTitle": "Other cardiomyopathies not elsewhere classified",
+    "longTitle": "Other cardiomyopathies not elsewhere classified",
+    "category": "I42"
+  },
+  {
+    "code": "I4722",
+    "codeDotted": "I47.22",
+    "billable": true,
+    "shortTitle": "Catecholaminergic polymorphic ventricular tachycardia [CPVT]",
+    "longTitle": "Catecholaminergic polymorphic ventricular tachycardia [CPVT]",
+    "category": "I47"
+  },
+  {
+    "code": "I4981",
+    "codeDotted": "I49.81",
+    "billable": true,
+    "shortTitle": "Brugada syndrome",
+    "longTitle": "Brugada syndrome",
+    "category": "I49"
+  },
+  {
+    "code": "I4982",
+    "codeDotted": "I49.82",
+    "billable": true,
+    "shortTitle": "Ventricular bigeminy",
+    "longTitle": "Ventricular bigeminy",
+    "category": "I49"
+  },
+  {
+    "code": "I4989",
+    "codeDotted": "I49.89",
+    "billable": true,
+    "shortTitle": "Other specified cardiac arrhythmias not elsewhere classified",
+    "longTitle": "Other specified cardiac arrhythmias not elsewhere classified",
+    "category": "I49"
+  },
+  {
+    "code": "J3483",
+    "codeDotted": "J34.83",
+    "billable": false,
+    "shortTitle": "Odontogenic sinusitis",
+    "longTitle": "Odontogenic sinusitis",
+    "category": "J34"
+  },
+  {
+    "code": "J34830",
+    "codeDotted": "J34.830",
+    "billable": true,
+    "shortTitle": "Odontogenic sinusitis, maxillary sinus",
+    "longTitle": "Odontogenic sinusitis, maxillary sinus",
+    "category": "J34"
+  },
+  {
+    "code": "J34831",
+    "codeDotted": "J34.831",
+    "billable": true,
+    "shortTitle": "Odontogenic sinusitis, ethmoid sinus",
+    "longTitle": "Odontogenic sinusitis, ethmoid sinus",
+    "category": "J34"
+  },
+  {
+    "code": "J34832",
+    "codeDotted": "J34.832",
+    "billable": true,
+    "shortTitle": "Odontogenic sinusitis, frontal sinus",
+    "longTitle": "Odontogenic sinusitis, frontal sinus",
+    "category": "J34"
+  },
+  {
+    "code": "J34833",
+    "codeDotted": "J34.833",
+    "billable": true,
+    "shortTitle": "Odontogenic sinusitis, sphenoid sinus",
+    "longTitle": "Odontogenic sinusitis, sphenoid sinus",
+    "category": "J34"
+  },
+  {
+    "code": "J34839",
+    "codeDotted": "J34.839",
+    "billable": true,
+    "shortTitle": "Odontogenic sinusitis, unspecified",
+    "longTitle": "Odontogenic sinusitis, unspecified",
+    "category": "J34"
+  },
+  {
+    "code": "J4B",
+    "codeDotted": "J4B",
+    "billable": true,
+    "shortTitle": "Pulmonary mycetoma",
+    "longTitle": "Pulmonary mycetoma",
+    "category": "J4B"
+  },
+  {
+    "code": "K31B",
+    "codeDotted": "K31.B",
+    "billable": true,
+    "shortTitle": "Hypertrophic pyloric stenosis, in childhood",
+    "longTitle": "Hypertrophic pyloric stenosis, in childhood",
+    "category": "K31"
+  },
+  {
+    "code": "K6A",
+    "codeDotted": "K6A",
+    "billable": false,
+    "shortTitle": "Diseases of the pelvis, not elsewhere classified",
+    "longTitle": "Diseases of the pelvis, not elsewhere classified",
+    "category": "K6A"
+  },
+  {
+    "code": "K6A0",
+    "codeDotted": "K6A.0",
+    "billable": false,
+    "shortTitle": "Pelvic abscess",
+    "longTitle": "Pelvic abscess",
+    "category": "K6A"
+  },
+  {
+    "code": "K6A01",
+    "codeDotted": "K6A.01",
+    "billable": true,
+    "shortTitle": "Prevesical abscess",
+    "longTitle": "Prevesical abscess",
+    "category": "K6A"
+  },
+  {
+    "code": "K6A09",
+    "codeDotted": "K6A.09",
+    "billable": true,
+    "shortTitle": "Other pelvic abscess",
+    "longTitle": "Other pelvic abscess",
+    "category": "K6A"
+  },
+  {
+    "code": "K6A8",
+    "codeDotted": "K6A.8",
+    "billable": true,
+    "shortTitle": "Other diseases of the pelvis, not elsewhere classified",
+    "longTitle": "Other diseases of the pelvis, not elsewhere classified",
+    "category": "K6A"
+  },
+  {
+    "code": "K740A",
+    "codeDotted": "K74.0A",
+    "billable": true,
+    "shortTitle": "Hepatic fibrosis, moderate fibrosis",
+    "longTitle": "Hepatic fibrosis, moderate fibrosis",
+    "category": "K74"
+  },
+  {
+    "code": "K7683",
+    "codeDotted": "K76.83",
+    "billable": true,
+    "shortTitle": "Intestinal failure-associated liver disease",
+    "longTitle": "Intestinal failure-associated liver disease",
+    "category": "K76"
+  },
+  {
+    "code": "L02237",
+    "codeDotted": "L02.237",
+    "billable": true,
+    "shortTitle": "Carbuncle of flank",
+    "longTitle": "Carbuncle of flank",
+    "category": "L02"
+  },
+  {
+    "code": "M043",
+    "codeDotted": "M04.3",
+    "billable": true,
+    "shortTitle": "VEXAS syndrome",
+    "longTitle": "VEXAS syndrome",
+    "category": "M04"
+  },
+  {
+    "code": "M67A",
+    "codeDotted": "M67.A",
+    "billable": false,
+    "shortTitle": "Plantar fasciitis",
+    "longTitle": "Plantar fasciitis",
+    "category": "M67"
+  },
+  {
+    "code": "M67A0",
+    "codeDotted": "M67.A0",
+    "billable": false,
+    "shortTitle": "Plantar fasciitis, foot",
+    "longTitle": "Plantar fasciitis, foot",
+    "category": "M67"
+  },
+  {
+    "code": "M67A01",
+    "codeDotted": "M67.A01",
+    "billable": true,
+    "shortTitle": "Plantar fasciitis, right foot",
+    "longTitle": "Plantar fasciitis, right foot",
+    "category": "M67"
+  },
+  {
+    "code": "M67A02",
+    "codeDotted": "M67.A02",
+    "billable": true,
+    "shortTitle": "Plantar fasciitis, left foot",
+    "longTitle": "Plantar fasciitis, left foot",
+    "category": "M67"
+  },
+  {
+    "code": "M67A09",
+    "codeDotted": "M67.A09",
+    "billable": true,
+    "shortTitle": "Plantar fasciitis, unspecified foot",
+    "longTitle": "Plantar fasciitis, unspecified foot",
+    "category": "M67"
+  },
+  {
+    "code": "M7220",
+    "codeDotted": "M72.20",
+    "billable": true,
+    "shortTitle": "Plantar fascial fibromatosis, unspecified foot",
+    "longTitle": "Plantar fascial fibromatosis, unspecified foot",
+    "category": "M72"
+  },
+  {
+    "code": "M7221",
+    "codeDotted": "M72.21",
+    "billable": true,
+    "shortTitle": "Plantar fascial fibromatosis, right foot",
+    "longTitle": "Plantar fascial fibromatosis, right foot",
+    "category": "M72"
+  },
+  {
+    "code": "M7222",
+    "codeDotted": "M72.22",
+    "billable": true,
+    "shortTitle": "Plantar fascial fibromatosis, left foot",
+    "longTitle": "Plantar fascial fibromatosis, left foot",
+    "category": "M72"
+  },
+  {
+    "code": "M868X11",
+    "codeDotted": "M86.8X11",
+    "billable": true,
+    "shortTitle": "Other osteomyelitis, right shoulder",
+    "longTitle": "Other osteomyelitis, right shoulder",
+    "category": "M86"
+  },
+  {
+    "code": "M868X12",
+    "codeDotted": "M86.8X12",
+    "billable": true,
+    "shortTitle": "Other osteomyelitis, left shoulder",
+    "longTitle": "Other osteomyelitis, left shoulder",
+    "category": "M86"
+  },
+  {
+    "code": "M868X19",
+    "codeDotted": "M86.8X19",
+    "billable": true,
+    "shortTitle": "Other osteomyelitis, unspecified shoulder",
+    "longTitle": "Other osteomyelitis, unspecified shoulder",
+    "category": "M86"
+  },
+  {
+    "code": "M868X21",
+    "codeDotted": "M86.8X21",
+    "billable": true,
+    "shortTitle": "Other osteomyelitis, right upper arm",
+    "longTitle": "Other osteomyelitis, right upper arm",
+    "category": "M86"
+  },
+  {
+    "code": "M868X22",
+    "codeDotted": "M86.8X22",
+    "billable": true,
+    "shortTitle": "Other osteomyelitis, left upper arm",
+    "longTitle": "Other osteomyelitis, left upper arm",
+    "category": "M86"
+  },
+  {
+    "code": "M868X29",
+    "codeDotted": "M86.8X29",
+    "billable": true,
+    "shortTitle": "Other osteomyelitis, unspecified upper arm",
+    "longTitle": "Other osteomyelitis, unspecified upper arm",
+    "category": "M86"
+  },
+  {
+    "code": "M868X31",
+    "codeDotted": "M86.8X31",
+    "billable": true,
+    "shortTitle": "Other osteomyelitis, right forearm",
+    "longTitle": "Other osteomyelitis, right forearm",
+    "category": "M86"
+  },
+  {
+    "code": "M868X32",
+    "codeDotted": "M86.8X32",
+    "billable": true,
+    "shortTitle": "Other osteomyelitis, left forearm",
+    "longTitle": "Other osteomyelitis, left forearm",
+    "category": "M86"
+  },
+  {
+    "code": "M868X39",
+    "codeDotted": "M86.8X39",
+    "billable": true,
+    "shortTitle": "Other osteomyelitis, unspecified forearm",
+    "longTitle": "Other osteomyelitis, unspecified forearm",
+    "category": "M86"
+  },
+  {
+    "code": "M868X41",
+    "codeDotted": "M86.8X41",
+    "billable": true,
+    "shortTitle": "Other osteomyelitis, right hand",
+    "longTitle": "Other osteomyelitis, right hand",
+    "category": "M86"
+  },
+  {
+    "code": "M868X42",
+    "codeDotted": "M86.8X42",
+    "billable": true,
+    "shortTitle": "Other osteomyelitis, left hand",
+    "longTitle": "Other osteomyelitis, left hand",
+    "category": "M86"
+  },
+  {
+    "code": "M868X49",
+    "codeDotted": "M86.8X49",
+    "billable": true,
+    "shortTitle": "Other osteomyelitis, unspecified hand",
+    "longTitle": "Other osteomyelitis, unspecified hand",
+    "category": "M86"
+  },
+  {
+    "code": "M868X51",
+    "codeDotted": "M86.8X51",
+    "billable": true,
+    "shortTitle": "Other osteomyelitis, right thigh",
+    "longTitle": "Other osteomyelitis, right thigh",
+    "category": "M86"
+  },
+  {
+    "code": "M868X52",
+    "codeDotted": "M86.8X52",
+    "billable": true,
+    "shortTitle": "Other osteomyelitis, left thigh",
+    "longTitle": "Other osteomyelitis, left thigh",
+    "category": "M86"
+  },
+  {
+    "code": "M868X59",
+    "codeDotted": "M86.8X59",
+    "billable": true,
+    "shortTitle": "Other osteomyelitis, unspecified thigh",
+    "longTitle": "Other osteomyelitis, unspecified thigh",
+    "category": "M86"
+  },
+  {
+    "code": "M868X61",
+    "codeDotted": "M86.8X61",
+    "billable": true,
+    "shortTitle": "Other osteomyelitis, right lower leg",
+    "longTitle": "Other osteomyelitis, right lower leg",
+    "category": "M86"
+  },
+  {
+    "code": "M868X62",
+    "codeDotted": "M86.8X62",
+    "billable": true,
+    "shortTitle": "Other osteomyelitis, left lower leg",
+    "longTitle": "Other osteomyelitis, left lower leg",
+    "category": "M86"
+  },
+  {
+    "code": "M868X69",
+    "codeDotted": "M86.8X69",
+    "billable": true,
+    "shortTitle": "Other osteomyelitis, unspecified lower leg",
+    "longTitle": "Other osteomyelitis, unspecified lower leg",
+    "category": "M86"
+  },
+  {
+    "code": "M868X71",
+    "codeDotted": "M86.8X71",
+    "billable": true,
+    "shortTitle": "Other osteomyelitis, right ankle and foot",
+    "longTitle": "Other osteomyelitis, right ankle and foot",
+    "category": "M86"
+  },
+  {
+    "code": "M868X72",
+    "codeDotted": "M86.8X72",
+    "billable": true,
+    "shortTitle": "Other osteomyelitis, left ankle and foot",
+    "longTitle": "Other osteomyelitis, left ankle and foot",
+    "category": "M86"
+  },
+  {
+    "code": "M868X79",
+    "codeDotted": "M86.8X79",
+    "billable": true,
+    "shortTitle": "Other osteomyelitis, unspecified ankle and foot",
+    "longTitle": "Other osteomyelitis, unspecified ankle and foot",
+    "category": "M86"
+  },
+  {
+    "code": "M868X80",
+    "codeDotted": "M86.8X80",
+    "billable": true,
+    "shortTitle": "Other osteomyelitis, skull",
+    "longTitle": "Other osteomyelitis, skull",
+    "category": "M86"
+  },
+  {
+    "code": "M868X81",
+    "codeDotted": "M86.8X81",
+    "billable": true,
+    "shortTitle": "Other osteomyelitis, face and sinuses",
+    "longTitle": "Other osteomyelitis, face and sinuses",
+    "category": "M86"
+  },
+  {
+    "code": "M868X89",
+    "codeDotted": "M86.8X89",
+    "billable": true,
+    "shortTitle": "Other osteomyelitis, other site",
+    "longTitle": "Other osteomyelitis, other site",
+    "category": "M86"
+  },
+  {
+    "code": "N9986",
+    "codeDotted": "N99.86",
+    "billable": false,
+    "shortTitle": "Intraop and postproc complications and disorders of breast",
+    "longTitle": "Intraoperative and postprocedural complications and disorders of breast",
+    "category": "N99"
+  },
+  {
+    "code": "N99860",
+    "codeDotted": "N99.860",
+    "billable": true,
+    "shortTitle": "Intraoperative and postprocedural nipple ischemia",
+    "longTitle": "Intraoperative and postprocedural nipple ischemia",
+    "category": "N99"
+  },
+  {
+    "code": "N99861",
+    "codeDotted": "N99.861",
+    "billable": true,
+    "shortTitle": "Intraoperative and postprocedural nipple necrosis",
+    "longTitle": "Intraoperative and postprocedural nipple necrosis",
+    "category": "N99"
+  },
+  {
+    "code": "O0012",
+    "codeDotted": "O00.12",
+    "billable": false,
+    "shortTitle": "Interstit ectopic pregnancy without intrauterine pregnancy",
+    "longTitle": "Interstitial ectopic pregnancy without intrauterine pregnancy",
+    "category": "O00"
+  },
+  {
+    "code": "O00121",
+    "codeDotted": "O00.121",
+    "billable": true,
+    "shortTitle": "Right interstit ectopic pregnancy without uterin pregnancy",
+    "longTitle": "Right interstitial ectopic pregnancy without intrauterine pregnancy",
+    "category": "O00"
+  },
+  {
+    "code": "O00122",
+    "codeDotted": "O00.122",
+    "billable": true,
+    "shortTitle": "Left interstit ectopic pregnancy without uterin pregnancy",
+    "longTitle": "Left interstitial ectopic pregnancy without intrauterine pregnancy",
+    "category": "O00"
+  },
+  {
+    "code": "O00129",
+    "codeDotted": "O00.129",
+    "billable": true,
+    "shortTitle": "Unsp interstit ectopic pregnancy without uterin pregnancy",
+    "longTitle": "Unspecified interstitial ectopic pregnancy without intrauterine pregnancy",
+    "category": "O00"
+  },
+  {
+    "code": "O0013",
+    "codeDotted": "O00.13",
+    "billable": false,
+    "shortTitle": "Interstitial ectopic pregnancy with intrauterine pregnancy",
+    "longTitle": "Interstitial ectopic pregnancy with intrauterine pregnancy",
+    "category": "O00"
+  },
+  {
+    "code": "O00131",
+    "codeDotted": "O00.131",
+    "billable": true,
+    "shortTitle": "Right interstit ectopic pregnancy with uterin pregnancy",
+    "longTitle": "Right interstitial ectopic pregnancy with intrauterine pregnancy",
+    "category": "O00"
+  },
+  {
+    "code": "O00132",
+    "codeDotted": "O00.132",
+    "billable": true,
+    "shortTitle": "Left interstit ectopic pregnancy with intrauterine pregnancy",
+    "longTitle": "Left interstitial ectopic pregnancy with intrauterine pregnancy",
+    "category": "O00"
+  },
+  {
+    "code": "O00139",
+    "codeDotted": "O00.139",
+    "billable": true,
+    "shortTitle": "Unsp interstit ectopic pregnancy with uterin pregnancy",
+    "longTitle": "Unspecified interstitial ectopic pregnancy with intrauterine pregnancy",
+    "category": "O00"
+  },
+  {
+    "code": "O003",
+    "codeDotted": "O00.3",
+    "billable": false,
+    "shortTitle": "Cesarean scar ectopic pregnancy",
+    "longTitle": "Cesarean scar ectopic pregnancy",
+    "category": "O00"
+  },
+  {
+    "code": "O0031",
+    "codeDotted": "O00.31",
+    "billable": true,
+    "shortTitle": "Cesarean scar ectopic pregnancy without uterin pregnancy",
+    "longTitle": "Cesarean scar ectopic pregnancy without intrauterine pregnancy",
+    "category": "O00"
+  },
+  {
+    "code": "O0032",
+    "codeDotted": "O00.32",
+    "billable": true,
+    "shortTitle": "Cesarean scar ectopic pregnancy with intrauterine pregnancy",
+    "longTitle": "Cesarean scar ectopic pregnancy with intrauterine pregnancy",
+    "category": "O00"
+  },
+  {
+    "code": "O004",
+    "codeDotted": "O00.4",
+    "billable": false,
+    "shortTitle": "Cervical ectopic pregnancy",
+    "longTitle": "Cervical ectopic pregnancy",
+    "category": "O00"
+  },
+  {
+    "code": "O0041",
+    "codeDotted": "O00.41",
+    "billable": true,
+    "shortTitle": "Cervical ectopic pregnancy without intrauterine pregnancy",
+    "longTitle": "Cervical ectopic pregnancy without intrauterine pregnancy",
+    "category": "O00"
+  },
+  {
+    "code": "O0042",
+    "codeDotted": "O00.42",
+    "billable": true,
+    "shortTitle": "Cervical ectopic pregnancy with intrauterine pregnancy",
+    "longTitle": "Cervical ectopic pregnancy with intrauterine pregnancy",
+    "category": "O00"
+  },
+  {
+    "code": "O005",
+    "codeDotted": "O00.5",
+    "billable": false,
+    "shortTitle": "Cornual ectopic pregnancy",
+    "longTitle": "Cornual ectopic pregnancy",
+    "category": "O00"
+  },
+  {
+    "code": "O0051",
+    "codeDotted": "O00.51",
+    "billable": false,
+    "shortTitle": "Cornual ectopic pregnancy without intrauterine pregnancy",
+    "longTitle": "Cornual ectopic pregnancy without intrauterine pregnancy",
+    "category": "O00"
+  },
+  {
+    "code": "O00511",
+    "codeDotted": "O00.511",
+    "billable": true,
+    "shortTitle": "Right cornual ectopic pregnancy without uterin pregnancy",
+    "longTitle": "Right cornual ectopic pregnancy without intrauterine pregnancy",
+    "category": "O00"
+  },
+  {
+    "code": "O00512",
+    "codeDotted": "O00.512",
+    "billable": true,
+    "shortTitle": "Left cornual ectopic pregnancy without uterin pregnancy",
+    "longTitle": "Left cornual ectopic pregnancy without intrauterine pregnancy",
+    "category": "O00"
+  },
+  {
+    "code": "O00519",
+    "codeDotted": "O00.519",
+    "billable": true,
+    "shortTitle": "Unsp cornual ectopic pregnancy without uterin pregnancy",
+    "longTitle": "Unspecified cornual ectopic pregnancy without intrauterine pregnancy",
+    "category": "O00"
+  },
+  {
+    "code": "O0052",
+    "codeDotted": "O00.52",
+    "billable": false,
+    "shortTitle": "Cornual ectopic pregnancy with intrauterine pregnancy",
+    "longTitle": "Cornual ectopic pregnancy with intrauterine pregnancy",
+    "category": "O00"
+  },
+  {
+    "code": "O00521",
+    "codeDotted": "O00.521",
+    "billable": true,
+    "shortTitle": "Right cornual ectopic pregnancy with intrauterine pregnancy",
+    "longTitle": "Right cornual ectopic pregnancy with intrauterine pregnancy",
+    "category": "O00"
+  },
+  {
+    "code": "O00522",
+    "codeDotted": "O00.522",
+    "billable": true,
+    "shortTitle": "Left cornual ectopic pregnancy with intrauterine pregnancy",
+    "longTitle": "Left cornual ectopic pregnancy with intrauterine pregnancy",
+    "category": "O00"
+  },
+  {
+    "code": "O00529",
+    "codeDotted": "O00.529",
+    "billable": true,
+    "shortTitle": "Unspecified cornual ectopic pregnancy with uterin pregnancy",
+    "longTitle": "Unspecified cornual ectopic pregnancy with intrauterine pregnancy",
+    "category": "O00"
+  },
+  {
+    "code": "O314",
+    "codeDotted": "O31.4",
+    "billable": false,
+    "shortTitle": "Cont preg after vanishing twin syndrome of one fetus or more",
+    "longTitle": "Continuing pregnancy after vanishing twin syndrome of one fetus or more",
+    "category": "O31"
+  },
+  {
+    "code": "O3140",
+    "codeDotted": "O31.40",
+    "billable": false,
+    "shortTitle": "Cont preg aft vanishing twin syn one fts or more, unsp tri",
+    "longTitle": "Continuing pregnancy after vanishing twin syndrome of one fetus or more, unspecified trimester",
+    "category": "O31"
+  },
+  {
+    "code": "O3140X0",
+    "codeDotted": "O31.40X0",
+    "billable": true,
+    "shortTitle": "Cont preg aft vanishing twin syn 1 fts or more,unsp tri,unsp",
+    "longTitle": "Continuing pregnancy after vanishing twin syndrome of one fetus or more, unspecified trimester, not applicable or unspecified",
+    "category": "O31"
+  },
+  {
+    "code": "O3140X1",
+    "codeDotted": "O31.40X1",
+    "billable": true,
+    "shortTitle": "Cont preg aft vanishing twin syn 1 fts or more,unsp tri,fts1",
+    "longTitle": "Continuing pregnancy after vanishing twin syndrome of one fetus or more, unspecified trimester, fetus 1",
+    "category": "O31"
+  },
+  {
+    "code": "O3140X2",
+    "codeDotted": "O31.40X2",
+    "billable": true,
+    "shortTitle": "Cont preg aft vanishing twin syn 1 fts or more,unsp tri,fts2",
+    "longTitle": "Continuing pregnancy after vanishing twin syndrome of one fetus or more, unspecified trimester, fetus 2",
+    "category": "O31"
+  },
+  {
+    "code": "O3140X3",
+    "codeDotted": "O31.40X3",
+    "billable": true,
+    "shortTitle": "Cont preg aft vanishing twin syn 1 fts or more,unsp tri,fts3",
+    "longTitle": "Continuing pregnancy after vanishing twin syndrome of one fetus or more, unspecified trimester, fetus 3",
+    "category": "O31"
+  },
+  {
+    "code": "O3140X4",
+    "codeDotted": "O31.40X4",
+    "billable": true,
+    "shortTitle": "Cont preg aft vanishing twin syn 1 fts or more,unsp tri,fts4",
+    "longTitle": "Continuing pregnancy after vanishing twin syndrome of one fetus or more, unspecified trimester, fetus 4",
+    "category": "O31"
+  },
+  {
+    "code": "O3140X5",
+    "codeDotted": "O31.40X5",
+    "billable": true,
+    "shortTitle": "Cont preg aft vanishing twin syn 1 fts or more,unsp tri,fts5",
+    "longTitle": "Continuing pregnancy after vanishing twin syndrome of one fetus or more, unspecified trimester, fetus 5",
+    "category": "O31"
+  },
+  {
+    "code": "O3140X9",
+    "codeDotted": "O31.40X9",
+    "billable": true,
+    "shortTitle": "Cont preg aft vanishing twin syn 1 fts or more,unsp tri,oth",
+    "longTitle": "Continuing pregnancy after vanishing twin syndrome of one fetus or more, unspecified trimester, other fetus",
+    "category": "O31"
+  },
+  {
+    "code": "O3141",
+    "codeDotted": "O31.41",
+    "billable": false,
+    "shortTitle": "Cont preg aft vanishing twin syn of one fts or more, 1st tri",
+    "longTitle": "Continuing pregnancy after vanishing twin syndrome of one fetus or more, first trimester",
+    "category": "O31"
+  },
+  {
+    "code": "O3141X0",
+    "codeDotted": "O31.41X0",
+    "billable": true,
+    "shortTitle": "Cont preg aft vanishing twin syn 1 fts or more,1st tri,unsp",
+    "longTitle": "Continuing pregnancy after vanishing twin syndrome of one fetus or more, first trimester, not applicable or unspecified",
+    "category": "O31"
+  },
+  {
+    "code": "O3141X1",
+    "codeDotted": "O31.41X1",
+    "billable": true,
+    "shortTitle": "Cont preg aft vanishing twin syn 1 fts or more,1st tri,fts1",
+    "longTitle": "Continuing pregnancy after vanishing twin syndrome of one fetus or more, first trimester, fetus 1",
+    "category": "O31"
+  },
+  {
+    "code": "O3141X2",
+    "codeDotted": "O31.41X2",
+    "billable": true,
+    "shortTitle": "Cont preg aft vanishing twin syn 1 fts or more,1st tri,fts2",
+    "longTitle": "Continuing pregnancy after vanishing twin syndrome of one fetus or more, first trimester, fetus 2",
+    "category": "O31"
+  },
+  {
+    "code": "O3141X3",
+    "codeDotted": "O31.41X3",
+    "billable": true,
+    "shortTitle": "Cont preg aft vanishing twin syn 1 fts or more,1st tri,fts3",
+    "longTitle": "Continuing pregnancy after vanishing twin syndrome of one fetus or more, first trimester, fetus 3",
+    "category": "O31"
+  },
+  {
+    "code": "O3141X4",
+    "codeDotted": "O31.41X4",
+    "billable": true,
+    "shortTitle": "Cont preg aft vanishing twin syn 1 fts or more,1st tri,fts4",
+    "longTitle": "Continuing pregnancy after vanishing twin syndrome of one fetus or more, first trimester, fetus 4",
+    "category": "O31"
+  },
+  {
+    "code": "O3141X5",
+    "codeDotted": "O31.41X5",
+    "billable": true,
+    "shortTitle": "Cont preg aft vanishing twin syn 1 fts or more,1st tri,fts5",
+    "longTitle": "Continuing pregnancy after vanishing twin syndrome of one fetus or more, first trimester, fetus 5",
+    "category": "O31"
+  },
+  {
+    "code": "O3141X9",
+    "codeDotted": "O31.41X9",
+    "billable": true,
+    "shortTitle": "Cont preg aft vanishing twin syn 1 fts or more, 1st tri, oth",
+    "longTitle": "Continuing pregnancy after vanishing twin syndrome of one fetus or more, first trimester, other fetus",
+    "category": "O31"
+  },
+  {
+    "code": "O3142",
+    "codeDotted": "O31.42",
+    "billable": false,
+    "shortTitle": "Cont preg aft vanishing twin syn of one fts or more, 2nd tri",
+    "longTitle": "Continuing pregnancy after vanishing twin syndrome of one fetus or more, second trimester",
+    "category": "O31"
+  },
+  {
+    "code": "O3142X0",
+    "codeDotted": "O31.42X0",
+    "billable": true,
+    "shortTitle": "Cont preg aft vanishing twin syn 1 fts or more,2nd tri,unsp",
+    "longTitle": "Continuing pregnancy after vanishing twin syndrome of one fetus or more, second trimester, not applicable or unspecified",
+    "category": "O31"
+  },
+  {
+    "code": "O3142X1",
+    "codeDotted": "O31.42X1",
+    "billable": true,
+    "shortTitle": "Cont preg aft vanishing twin syn 1 fts or more,2nd tri,fts1",
+    "longTitle": "Continuing pregnancy after vanishing twin syndrome of one fetus or more, second trimester, fetus 1",
+    "category": "O31"
+  },
+  {
+    "code": "O3142X2",
+    "codeDotted": "O31.42X2",
+    "billable": true,
+    "shortTitle": "Cont preg aft vanishing twin syn 1 fts or more,2nd tri,fts2",
+    "longTitle": "Continuing pregnancy after vanishing twin syndrome of one fetus or more, second trimester, fetus 2",
+    "category": "O31"
+  },
+  {
+    "code": "O3142X3",
+    "codeDotted": "O31.42X3",
+    "billable": true,
+    "shortTitle": "Cont preg aft vanishing twin syn 1 fts or more,2nd tri,fts3",
+    "longTitle": "Continuing pregnancy after vanishing twin syndrome of one fetus or more, second trimester, fetus 3",
+    "category": "O31"
+  },
+  {
+    "code": "O3142X4",
+    "codeDotted": "O31.42X4",
+    "billable": true,
+    "shortTitle": "Cont preg aft vanishing twin syn 1 fts or more,2nd tri,fts4",
+    "longTitle": "Continuing pregnancy after vanishing twin syndrome of one fetus or more, second trimester, fetus 4",
+    "category": "O31"
+  },
+  {
+    "code": "O3142X5",
+    "codeDotted": "O31.42X5",
+    "billable": true,
+    "shortTitle": "Cont preg aft vanishing twin syn 1 fts or more,2nd tri,fts5",
+    "longTitle": "Continuing pregnancy after vanishing twin syndrome of one fetus or more, second trimester, fetus 5",
+    "category": "O31"
+  },
+  {
+    "code": "O3142X9",
+    "codeDotted": "O31.42X9",
+    "billable": true,
+    "shortTitle": "Cont preg aft vanishing twin syn 1 fts or more, 2nd tri, oth",
+    "longTitle": "Continuing pregnancy after vanishing twin syndrome of one fetus or more, second trimester, other fetus",
+    "category": "O31"
+  },
+  {
+    "code": "O3143",
+    "codeDotted": "O31.43",
+    "billable": false,
+    "shortTitle": "Cont preg aft vanishing twin syn of one fts or more, 3rd tri",
+    "longTitle": "Continuing pregnancy after vanishing twin syndrome of one fetus or more, third trimester",
+    "category": "O31"
+  },
+  {
+    "code": "O3143X0",
+    "codeDotted": "O31.43X0",
+    "billable": true,
+    "shortTitle": "Cont preg aft vanishing twin syn 1 fts or more,3rd tri,unsp",
+    "longTitle": "Continuing pregnancy after vanishing twin syndrome of one fetus or more, third trimester, not applicable or unspecified",
+    "category": "O31"
+  },
+  {
+    "code": "O3143X1",
+    "codeDotted": "O31.43X1",
+    "billable": true,
+    "shortTitle": "Cont preg aft vanishing twin syn 1 fts or more,3rd tri,fts1",
+    "longTitle": "Continuing pregnancy after vanishing twin syndrome of one fetus or more, third trimester, fetus 1",
+    "category": "O31"
+  },
+  {
+    "code": "O3143X2",
+    "codeDotted": "O31.43X2",
+    "billable": true,
+    "shortTitle": "Cont preg aft vanishing twin syn 1 fts or more,3rd tri,fts2",
+    "longTitle": "Continuing pregnancy after vanishing twin syndrome of one fetus or more, third trimester, fetus 2",
+    "category": "O31"
+  },
+  {
+    "code": "O3143X3",
+    "codeDotted": "O31.43X3",
+    "billable": true,
+    "shortTitle": "Cont preg aft vanishing twin syn 1 fts or more,3rd tri,fts3",
+    "longTitle": "Continuing pregnancy after vanishing twin syndrome of one fetus or more, third trimester, fetus 3",
+    "category": "O31"
+  },
+  {
+    "code": "O3143X4",
+    "codeDotted": "O31.43X4",
+    "billable": true,
+    "shortTitle": "Cont preg aft vanishing twin syn 1 fts or more,3rd tri,fts4",
+    "longTitle": "Continuing pregnancy after vanishing twin syndrome of one fetus or more, third trimester, fetus 4",
+    "category": "O31"
+  },
+  {
+    "code": "O3143X5",
+    "codeDotted": "O31.43X5",
+    "billable": true,
+    "shortTitle": "Cont preg aft vanishing twin syn 1 fts or more,3rd tri,fts5",
+    "longTitle": "Continuing pregnancy after vanishing twin syndrome of one fetus or more, third trimester, fetus 5",
+    "category": "O31"
+  },
+  {
+    "code": "O3143X9",
+    "codeDotted": "O31.43X9",
+    "billable": true,
+    "shortTitle": "Cont preg aft vanishing twin syn 1 fts or more, 3rd tri, oth",
+    "longTitle": "Continuing pregnancy after vanishing twin syndrome of one fetus or more, third trimester, other fetus",
+    "category": "O31"
+  },
+  {
+    "code": "Q87A",
+    "codeDotted": "Q87.A",
+    "billable": true,
+    "shortTitle": "Loeys-Dietz syndrome",
+    "longTitle": "Loeys-Dietz syndrome",
+    "category": "Q87"
+  },
+  {
+    "code": "QA1",
+    "codeDotted": "QA1",
+    "billable": false,
+    "shortTitle": "Genetic disorders associated with neoplasms, NEC",
+    "longTitle": "Genetic disorders associated with neoplasms, not elsewhere classified",
+    "category": "QA1"
+  },
+  {
+    "code": "QA17",
+    "codeDotted": "QA1.7",
+    "billable": false,
+    "shortTitle": "Inherited neoplasm predisposition synd w mult systems, NEC",
+    "longTitle": "Inherited neoplasm predisposition syndromes involving multiple systems, not elsewhere classified",
+    "category": "QA1"
+  },
+  {
+    "code": "QA171",
+    "codeDotted": "QA1.71",
+    "billable": true,
+    "shortTitle": "Lynch syndrome",
+    "longTitle": "Lynch syndrome",
+    "category": "QA1"
+  },
+  {
+    "code": "QA179",
+    "codeDotted": "QA1.79",
+    "billable": false,
+    "shortTitle": "Other inherited neoplm predisposition synd of mult systems",
+    "longTitle": "Other inherited neoplasm predisposition syndrome of multiple systems",
+    "category": "QA1"
+  },
+  {
+    "code": "QA1790",
+    "codeDotted": "QA1.790",
+    "billable": true,
+    "shortTitle": "Familial cancer syndrome with pathogenic BRCA1 mutation",
+    "longTitle": "Familial cancer syndrome with pathogenic BRCA1 mutation",
+    "category": "QA1"
+  },
+  {
+    "code": "QA1791",
+    "codeDotted": "QA1.791",
+    "billable": true,
+    "shortTitle": "Familial cancer syndrome with pathogenic BRCA2 mutation",
+    "longTitle": "Familial cancer syndrome with pathogenic BRCA2 mutation",
+    "category": "QA1"
+  },
+  {
+    "code": "QA1792",
+    "codeDotted": "QA1.792",
+    "billable": true,
+    "shortTitle": "Li Fraumeni syndrome",
+    "longTitle": "Li Fraumeni syndrome",
+    "category": "QA1"
+  },
+  {
+    "code": "QA1798",
+    "codeDotted": "QA1.798",
+    "billable": true,
+    "shortTitle": "Other inherited neoplm predisposition synd of mult systems",
+    "longTitle": "Other inherited neoplasm predisposition syndrome of multiple systems",
+    "category": "QA1"
+  },
+  {
+    "code": "R7872",
+    "codeDotted": "R78.72",
+    "billable": true,
+    "shortTitle": "Abnormal gadolinium level in blood",
+    "longTitle": "Abnormal gadolinium level in blood",
+    "category": "R78"
+  },
+  {
+    "code": "T5281",
+    "codeDotted": "T52.81",
+    "billable": false,
+    "shortTitle": "Toxic effects of alkenes",
+    "longTitle": "Toxic effects of alkenes",
+    "category": "T52"
+  },
+  {
+    "code": "T52811",
+    "codeDotted": "T52.811",
+    "billable": false,
+    "shortTitle": "Toxic effect of alkenes, accidental (unintentional)",
+    "longTitle": "Toxic effect of alkenes, accidental (unintentional)",
+    "category": "T52"
+  },
+  {
+    "code": "T52811A",
+    "codeDotted": "T52.811A",
+    "billable": true,
+    "shortTitle": "Toxic effect of alkenes, accidental (unintentional), init",
+    "longTitle": "Toxic effect of alkenes, accidental (unintentional), initial encounter",
+    "category": "T52"
+  },
+  {
+    "code": "T52811D",
+    "codeDotted": "T52.811D",
+    "billable": true,
+    "shortTitle": "Toxic effect of alkenes, accidental (unintentional), subs",
+    "longTitle": "Toxic effect of alkenes, accidental (unintentional), subsequent encounter",
+    "category": "T52"
+  },
+  {
+    "code": "T52811S",
+    "codeDotted": "T52.811S",
+    "billable": true,
+    "shortTitle": "Toxic effect of alkenes, accidental (unintentional), sequela",
+    "longTitle": "Toxic effect of alkenes, accidental (unintentional), sequela",
+    "category": "T52"
+  },
+  {
+    "code": "T52812",
+    "codeDotted": "T52.812",
+    "billable": false,
+    "shortTitle": "Toxic effect of alkenes, intentional self-harm",
+    "longTitle": "Toxic effect of alkenes, intentional self-harm",
+    "category": "T52"
+  },
+  {
+    "code": "T52812A",
+    "codeDotted": "T52.812A",
+    "billable": true,
+    "shortTitle": "Toxic effect of alkenes, self-harm, initial encounter",
+    "longTitle": "Toxic effect of alkenes, intentional self-harm, initial encounter",
+    "category": "T52"
+  },
+  {
+    "code": "T52812D",
+    "codeDotted": "T52.812D",
+    "billable": true,
+    "shortTitle": "Toxic effect of alkenes, self-harm, subsequent encounter",
+    "longTitle": "Toxic effect of alkenes, intentional self-harm, subsequent encounter",
+    "category": "T52"
+  },
+  {
+    "code": "T52812S",
+    "codeDotted": "T52.812S",
+    "billable": true,
+    "shortTitle": "Toxic effect of alkenes, intentional self-harm, sequela",
+    "longTitle": "Toxic effect of alkenes, intentional self-harm, sequela",
+    "category": "T52"
+  },
+  {
+    "code": "T52813",
+    "codeDotted": "T52.813",
+    "billable": false,
+    "shortTitle": "Toxic effect of alkenes, assault",
+    "longTitle": "Toxic effect of alkenes, assault",
+    "category": "T52"
+  },
+  {
+    "code": "T52813A",
+    "codeDotted": "T52.813A",
+    "billable": true,
+    "shortTitle": "Toxic effect of alkenes, assault, initial encounter",
+    "longTitle": "Toxic effect of alkenes, assault, initial encounter",
+    "category": "T52"
+  },
+  {
+    "code": "T52813D",
+    "codeDotted": "T52.813D",
+    "billable": true,
+    "shortTitle": "Toxic effect of alkenes, assault, subsequent encounter",
+    "longTitle": "Toxic effect of alkenes, assault, subsequent encounter",
+    "category": "T52"
+  },
+  {
+    "code": "T52813S",
+    "codeDotted": "T52.813S",
+    "billable": true,
+    "shortTitle": "Toxic effect of alkenes, assault, sequela",
+    "longTitle": "Toxic effect of alkenes, assault, sequela",
+    "category": "T52"
+  },
+  {
+    "code": "T52814",
+    "codeDotted": "T52.814",
+    "billable": false,
+    "shortTitle": "Toxic effect of alkenes, undetermined",
+    "longTitle": "Toxic effect of alkenes, undetermined",
+    "category": "T52"
+  },
+  {
+    "code": "T52814A",
+    "codeDotted": "T52.814A",
+    "billable": true,
+    "shortTitle": "Toxic effect of alkenes, undetermined, initial encounter",
+    "longTitle": "Toxic effect of alkenes, undetermined, initial encounter",
+    "category": "T52"
+  },
+  {
+    "code": "T52814D",
+    "codeDotted": "T52.814D",
+    "billable": true,
+    "shortTitle": "Toxic effect of alkenes, undetermined, subsequent encounter",
+    "longTitle": "Toxic effect of alkenes, undetermined, subsequent encounter",
+    "category": "T52"
+  },
+  {
+    "code": "T52814S",
+    "codeDotted": "T52.814S",
+    "billable": true,
+    "shortTitle": "Toxic effect of alkenes, undetermined, sequela",
+    "longTitle": "Toxic effect of alkenes, undetermined, sequela",
+    "category": "T52"
+  },
+  {
+    "code": "T5282",
+    "codeDotted": "T52.82",
+    "billable": false,
+    "shortTitle": "Toxic effects of cycloparaffins",
+    "longTitle": "Toxic effects of cycloparaffins",
+    "category": "T52"
+  },
+  {
+    "code": "T52821",
+    "codeDotted": "T52.821",
+    "billable": false,
+    "shortTitle": "Toxic effect of cycloparaffins, accidental (unintentional)",
+    "longTitle": "Toxic effect of cycloparaffins, accidental (unintentional)",
+    "category": "T52"
+  },
+  {
+    "code": "T52821A",
+    "codeDotted": "T52.821A",
+    "billable": true,
+    "shortTitle": "Toxic effect of cycloparaffins, accidental, init",
+    "longTitle": "Toxic effect of cycloparaffins, accidental (unintentional), initial encounter",
+    "category": "T52"
+  },
+  {
+    "code": "T52821D",
+    "codeDotted": "T52.821D",
+    "billable": true,
+    "shortTitle": "Toxic effect of cycloparaffins, accidental, subs",
+    "longTitle": "Toxic effect of cycloparaffins, accidental (unintentional), subsequent encounter",
+    "category": "T52"
+  },
+  {
+    "code": "T52821S",
+    "codeDotted": "T52.821S",
+    "billable": true,
+    "shortTitle": "Toxic effect of cycloparaffins, accidental, sequela",
+    "longTitle": "Toxic effect of cycloparaffins, accidental (unintentional), sequela",
+    "category": "T52"
+  },
+  {
+    "code": "T52822",
+    "codeDotted": "T52.822",
+    "billable": false,
+    "shortTitle": "Toxic effect of cycloparaffins, intentional self-harm",
+    "longTitle": "Toxic effect of cycloparaffins, intentional self-harm",
+    "category": "T52"
+  },
+  {
+    "code": "T52822A",
+    "codeDotted": "T52.822A",
+    "billable": true,
+    "shortTitle": "Toxic effect of cycloparaffins, self-harm, initial encounter",
+    "longTitle": "Toxic effect of cycloparaffins, intentional self-harm, initial encounter",
+    "category": "T52"
+  },
+  {
+    "code": "T52822D",
+    "codeDotted": "T52.822D",
+    "billable": true,
+    "shortTitle": "Toxic effect of cycloparaffins, self-harm, subs",
+    "longTitle": "Toxic effect of cycloparaffins, intentional self-harm, subsequent encounter",
+    "category": "T52"
+  },
+  {
+    "code": "T52822S",
+    "codeDotted": "T52.822S",
+    "billable": true,
+    "shortTitle": "Toxic effect of cycloparaffins, self-harm, sequela",
+    "longTitle": "Toxic effect of cycloparaffins, intentional self-harm, sequela",
+    "category": "T52"
+  },
+  {
+    "code": "T52823",
+    "codeDotted": "T52.823",
+    "billable": false,
+    "shortTitle": "Toxic effect of cycloparaffins, assault",
+    "longTitle": "Toxic effect of cycloparaffins, assault",
+    "category": "T52"
+  },
+  {
+    "code": "T52823A",
+    "codeDotted": "T52.823A",
+    "billable": true,
+    "shortTitle": "Toxic effect of cycloparaffins, assault, initial encounter",
+    "longTitle": "Toxic effect of cycloparaffins, assault, initial encounter",
+    "category": "T52"
+  },
+  {
+    "code": "T52823D",
+    "codeDotted": "T52.823D",
+    "billable": true,
+    "shortTitle": "Toxic effect of cycloparaffins, assault, subs",
+    "longTitle": "Toxic effect of cycloparaffins, assault, subsequent encounter",
+    "category": "T52"
+  },
+  {
+    "code": "T52823S",
+    "codeDotted": "T52.823S",
+    "billable": true,
+    "shortTitle": "Toxic effect of cycloparaffins, assault, sequela",
+    "longTitle": "Toxic effect of cycloparaffins, assault, sequela",
+    "category": "T52"
+  },
+  {
+    "code": "T52824",
+    "codeDotted": "T52.824",
+    "billable": false,
+    "shortTitle": "Toxic effect of cycloparaffins, undetermined",
+    "longTitle": "Toxic effect of cycloparaffins, undetermined",
+    "category": "T52"
+  },
+  {
+    "code": "T52824A",
+    "codeDotted": "T52.824A",
+    "billable": true,
+    "shortTitle": "Toxic effect of cycloparaffins, undetermined, init",
+    "longTitle": "Toxic effect of cycloparaffins, undetermined, initial encounter",
+    "category": "T52"
+  },
+  {
+    "code": "T52824D",
+    "codeDotted": "T52.824D",
+    "billable": true,
+    "shortTitle": "Toxic effect of cycloparaffins, undetermined, subs",
+    "longTitle": "Toxic effect of cycloparaffins, undetermined, subsequent encounter",
+    "category": "T52"
+  },
+  {
+    "code": "T52824S",
+    "codeDotted": "T52.824S",
+    "billable": true,
+    "shortTitle": "Toxic effect of cycloparaffins, undetermined, sequela",
+    "longTitle": "Toxic effect of cycloparaffins, undetermined, sequela",
+    "category": "T52"
+  },
+  {
+    "code": "T5289",
+    "codeDotted": "T52.89",
+    "billable": false,
+    "shortTitle": "Toxic effects of other organic solvents",
+    "longTitle": "Toxic effects of other organic solvents",
+    "category": "T52"
+  },
+  {
+    "code": "T52891",
+    "codeDotted": "T52.891",
+    "billable": false,
+    "shortTitle": "Toxic effect of other organic solvents, accidental",
+    "longTitle": "Toxic effect of other organic solvents, accidental (unintentional)",
+    "category": "T52"
+  },
+  {
+    "code": "T52891A",
+    "codeDotted": "T52.891A",
+    "billable": true,
+    "shortTitle": "Toxic effect of other organic solvents, accidental, init",
+    "longTitle": "Toxic effect of other organic solvents, accidental (unintentional), initial encounter",
+    "category": "T52"
+  },
+  {
+    "code": "T52891D",
+    "codeDotted": "T52.891D",
+    "billable": true,
+    "shortTitle": "Toxic effect of other organic solvents, accidental, subs",
+    "longTitle": "Toxic effect of other organic solvents, accidental (unintentional), subsequent encounter",
+    "category": "T52"
+  },
+  {
+    "code": "T52891S",
+    "codeDotted": "T52.891S",
+    "billable": true,
+    "shortTitle": "Toxic effect of other organic solvents, accidental, sequela",
+    "longTitle": "Toxic effect of other organic solvents, accidental (unintentional), sequela",
+    "category": "T52"
+  },
+  {
+    "code": "T52892",
+    "codeDotted": "T52.892",
+    "billable": false,
+    "shortTitle": "Toxic effect of other organic solvents, self-harm",
+    "longTitle": "Toxic effect of other organic solvents, intentional self-harm",
+    "category": "T52"
+  },
+  {
+    "code": "T52892A",
+    "codeDotted": "T52.892A",
+    "billable": true,
+    "shortTitle": "Toxic effect of other organic solvents, self-harm, init",
+    "longTitle": "Toxic effect of other organic solvents, intentional self-harm, initial encounter",
+    "category": "T52"
+  },
+  {
+    "code": "T52892D",
+    "codeDotted": "T52.892D",
+    "billable": true,
+    "shortTitle": "Toxic effect of other organic solvents, self-harm, subs",
+    "longTitle": "Toxic effect of other organic solvents, intentional self-harm, subsequent encounter",
+    "category": "T52"
+  },
+  {
+    "code": "T52892S",
+    "codeDotted": "T52.892S",
+    "billable": true,
+    "shortTitle": "Toxic effect of other organic solvents, self-harm, sequela",
+    "longTitle": "Toxic effect of other organic solvents, intentional self-harm, sequela",
+    "category": "T52"
+  },
+  {
+    "code": "T52893",
+    "codeDotted": "T52.893",
+    "billable": false,
+    "shortTitle": "Toxic effect of other organic solvents, assault",
+    "longTitle": "Toxic effect of other organic solvents, assault",
+    "category": "T52"
+  },
+  {
+    "code": "T52893A",
+    "codeDotted": "T52.893A",
+    "billable": true,
+    "shortTitle": "Toxic effect of other organic solvents, assault, init",
+    "longTitle": "Toxic effect of other organic solvents, assault, initial encounter",
+    "category": "T52"
+  },
+  {
+    "code": "T52893D",
+    "codeDotted": "T52.893D",
+    "billable": true,
+    "shortTitle": "Toxic effect of other organic solvents, assault, subs",
+    "longTitle": "Toxic effect of other organic solvents, assault, subsequent encounter",
+    "category": "T52"
+  },
+  {
+    "code": "T52893S",
+    "codeDotted": "T52.893S",
+    "billable": true,
+    "shortTitle": "Toxic effect of other organic solvents, assault, sequela",
+    "longTitle": "Toxic effect of other organic solvents, assault, sequela",
+    "category": "T52"
+  },
+  {
+    "code": "T52894",
+    "codeDotted": "T52.894",
+    "billable": false,
+    "shortTitle": "Toxic effect of other organic solvents, undetermined",
+    "longTitle": "Toxic effect of other organic solvents, undetermined",
+    "category": "T52"
+  },
+  {
+    "code": "T52894A",
+    "codeDotted": "T52.894A",
+    "billable": true,
+    "shortTitle": "Toxic effect of other organic solvents, undetermined, init",
+    "longTitle": "Toxic effect of other organic solvents, undetermined, initial encounter",
+    "category": "T52"
+  },
+  {
+    "code": "T52894D",
+    "codeDotted": "T52.894D",
+    "billable": true,
+    "shortTitle": "Toxic effect of other organic solvents, undetermined, subs",
+    "longTitle": "Toxic effect of other organic solvents, undetermined, subsequent encounter",
+    "category": "T52"
+  },
+  {
+    "code": "T52894S",
+    "codeDotted": "T52.894S",
+    "billable": true,
+    "shortTitle": "Toxic effect of other organic solvents, undet, sequela",
+    "longTitle": "Toxic effect of other organic solvents, undetermined, sequela",
+    "category": "T52"
+  },
+  {
+    "code": "T5982",
+    "codeDotted": "T59.82",
+    "billable": false,
+    "shortTitle": "Toxic effects of hexamethylene diisocyanate",
+    "longTitle": "Toxic effects of hexamethylene diisocyanate",
+    "category": "T59"
+  },
+  {
+    "code": "T59821",
+    "codeDotted": "T59.821",
+    "billable": false,
+    "shortTitle": "Toxic effect of hexamethylene diisocyanate, accidental",
+    "longTitle": "Toxic effect of hexamethylene diisocyanate, accidental (unintentional)",
+    "category": "T59"
+  },
+  {
+    "code": "T59821A",
+    "codeDotted": "T59.821A",
+    "billable": true,
+    "shortTitle": "Toxic effect of hexamethylene diisocyanate, acc, init",
+    "longTitle": "Toxic effect of hexamethylene diisocyanate, accidental (unintentional), initial encounter",
+    "category": "T59"
+  },
+  {
+    "code": "T59821D",
+    "codeDotted": "T59.821D",
+    "billable": true,
+    "shortTitle": "Toxic effect of hexamethylene diisocyanate, acc, subs",
+    "longTitle": "Toxic effect of hexamethylene diisocyanate, accidental (unintentional), subsequent encounter",
+    "category": "T59"
+  },
+  {
+    "code": "T59821S",
+    "codeDotted": "T59.821S",
+    "billable": true,
+    "shortTitle": "Toxic effect of hexamethylene diisocyanate, acc, sequela",
+    "longTitle": "Toxic effect of hexamethylene diisocyanate, accidental (unintentional), sequela",
+    "category": "T59"
+  },
+  {
+    "code": "T59822",
+    "codeDotted": "T59.822",
+    "billable": false,
+    "shortTitle": "Toxic effect of hexamethylene diisocyanate, self-harm",
+    "longTitle": "Toxic effect of hexamethylene diisocyanate, intentional self-harm",
+    "category": "T59"
+  },
+  {
+    "code": "T59822A",
+    "codeDotted": "T59.822A",
+    "billable": true,
+    "shortTitle": "Toxic effect of hexamethylene diisocyanate, self-harm, init",
+    "longTitle": "Toxic effect of hexamethylene diisocyanate, intentional self-harm, initial encounter",
+    "category": "T59"
+  },
+  {
+    "code": "T59822D",
+    "codeDotted": "T59.822D",
+    "billable": true,
+    "shortTitle": "Toxic effect of hexamethylene diisocyanate, self-harm, subs",
+    "longTitle": "Toxic effect of hexamethylene diisocyanate, intentional self-harm, subsequent encounter",
+    "category": "T59"
+  },
+  {
+    "code": "T59822S",
+    "codeDotted": "T59.822S",
+    "billable": true,
+    "shortTitle": "Toxic effect of hexamethylene diisocyanate, slf-hrm, sequela",
+    "longTitle": "Toxic effect of hexamethylene diisocyanate, intentional self-harm, sequela",
+    "category": "T59"
+  },
+  {
+    "code": "T59823",
+    "codeDotted": "T59.823",
+    "billable": false,
+    "shortTitle": "Toxic effect of hexamethylene diisocyanate, assault",
+    "longTitle": "Toxic effect of hexamethylene diisocyanate, assault",
+    "category": "T59"
+  },
+  {
+    "code": "T59823A",
+    "codeDotted": "T59.823A",
+    "billable": true,
+    "shortTitle": "Toxic effect of hexamethylene diisocyanate, assault, init",
+    "longTitle": "Toxic effect of hexamethylene diisocyanate, assault, initial encounter",
+    "category": "T59"
+  },
+  {
+    "code": "T59823D",
+    "codeDotted": "T59.823D",
+    "billable": true,
+    "shortTitle": "Toxic effect of hexamethylene diisocyanate, assault, subs",
+    "longTitle": "Toxic effect of hexamethylene diisocyanate, assault, subsequent encounter",
+    "category": "T59"
+  },
+  {
+    "code": "T59823S",
+    "codeDotted": "T59.823S",
+    "billable": true,
+    "shortTitle": "Toxic effect of hexamethylene diisocyanate, assault, sequela",
+    "longTitle": "Toxic effect of hexamethylene diisocyanate, assault, sequela",
+    "category": "T59"
+  },
+  {
+    "code": "T59824",
+    "codeDotted": "T59.824",
+    "billable": false,
+    "shortTitle": "Toxic effect of hexamethylene diisocyanate, undetermined",
+    "longTitle": "Toxic effect of hexamethylene diisocyanate, undetermined",
+    "category": "T59"
+  },
+  {
+    "code": "T59824A",
+    "codeDotted": "T59.824A",
+    "billable": true,
+    "shortTitle": "Toxic effect of hexamethylene diisocyanate, undet, init",
+    "longTitle": "Toxic effect of hexamethylene diisocyanate, undetermined, initial encounter",
+    "category": "T59"
+  },
+  {
+    "code": "T59824D",
+    "codeDotted": "T59.824D",
+    "billable": true,
+    "shortTitle": "Toxic effect of hexamethylene diisocyanate, undet, subs",
+    "longTitle": "Toxic effect of hexamethylene diisocyanate, undetermined, subsequent encounter",
+    "category": "T59"
+  },
+  {
+    "code": "T59824S",
+    "codeDotted": "T59.824S",
+    "billable": true,
+    "shortTitle": "Toxic effect of hexamethylene diisocyanate, undet, sequela",
+    "longTitle": "Toxic effect of hexamethylene diisocyanate, undetermined, sequela",
+    "category": "T59"
+  },
+  {
+    "code": "T6585",
+    "codeDotted": "T65.85",
+    "billable": false,
+    "shortTitle": "Toxic effect of medetomidine",
+    "longTitle": "Toxic effect of medetomidine",
+    "category": "T65"
+  },
+  {
+    "code": "T65851",
+    "codeDotted": "T65.851",
+    "billable": false,
+    "shortTitle": "Toxic effect of medetomidine, accidental (unintentional)",
+    "longTitle": "Toxic effect of medetomidine, accidental (unintentional)",
+    "category": "T65"
+  },
+  {
+    "code": "T65851A",
+    "codeDotted": "T65.851A",
+    "billable": true,
+    "shortTitle": "Toxic effect of medetomidine, accidental, init",
+    "longTitle": "Toxic effect of medetomidine, accidental (unintentional), initial encounter",
+    "category": "T65"
+  },
+  {
+    "code": "T65851D",
+    "codeDotted": "T65.851D",
+    "billable": true,
+    "shortTitle": "Toxic effect of medetomidine, accidental, subs",
+    "longTitle": "Toxic effect of medetomidine, accidental (unintentional), subsequent encounter",
+    "category": "T65"
+  },
+  {
+    "code": "T65851S",
+    "codeDotted": "T65.851S",
+    "billable": true,
+    "shortTitle": "Toxic effect of medetomidine, accidental, sequela",
+    "longTitle": "Toxic effect of medetomidine, accidental (unintentional), sequela",
+    "category": "T65"
+  },
+  {
+    "code": "T65852",
+    "codeDotted": "T65.852",
+    "billable": false,
+    "shortTitle": "Toxic effect of medetomidine, intentional self-harm",
+    "longTitle": "Toxic effect of medetomidine, intentional self-harm",
+    "category": "T65"
+  },
+  {
+    "code": "T65852A",
+    "codeDotted": "T65.852A",
+    "billable": true,
+    "shortTitle": "Toxic effect of medetomidine, self-harm, initial encounter",
+    "longTitle": "Toxic effect of medetomidine, intentional self-harm, initial encounter",
+    "category": "T65"
+  },
+  {
+    "code": "T65852D",
+    "codeDotted": "T65.852D",
+    "billable": true,
+    "shortTitle": "Toxic effect of medetomidine, self-harm, subs",
+    "longTitle": "Toxic effect of medetomidine, intentional self-harm, subsequent encounter",
+    "category": "T65"
+  },
+  {
+    "code": "T65852S",
+    "codeDotted": "T65.852S",
+    "billable": true,
+    "shortTitle": "Toxic effect of medetomidine, intentional self-harm, sequela",
+    "longTitle": "Toxic effect of medetomidine, intentional self-harm, sequela",
+    "category": "T65"
+  },
+  {
+    "code": "T65853",
+    "codeDotted": "T65.853",
+    "billable": false,
+    "shortTitle": "Toxic effect of medetomidine, assault",
+    "longTitle": "Toxic effect of medetomidine, assault",
+    "category": "T65"
+  },
+  {
+    "code": "T65853A",
+    "codeDotted": "T65.853A",
+    "billable": true,
+    "shortTitle": "Toxic effect of medetomidine, assault, initial encounter",
+    "longTitle": "Toxic effect of medetomidine, assault, initial encounter",
+    "category": "T65"
+  },
+  {
+    "code": "T65853D",
+    "codeDotted": "T65.853D",
+    "billable": true,
+    "shortTitle": "Toxic effect of medetomidine, assault, subsequent encounter",
+    "longTitle": "Toxic effect of medetomidine, assault, subsequent encounter",
+    "category": "T65"
+  },
+  {
+    "code": "T65853S",
+    "codeDotted": "T65.853S",
+    "billable": true,
+    "shortTitle": "Toxic effect of medetomidine, assault, sequela",
+    "longTitle": "Toxic effect of medetomidine, assault, sequela",
+    "category": "T65"
+  },
+  {
+    "code": "T65854",
+    "codeDotted": "T65.854",
+    "billable": false,
+    "shortTitle": "Toxic effect of medetomidine, undetermined",
+    "longTitle": "Toxic effect of medetomidine, undetermined",
+    "category": "T65"
+  },
+  {
+    "code": "T65854A",
+    "codeDotted": "T65.854A",
+    "billable": true,
+    "shortTitle": "Toxic effect of medetomidine, undetermined, init",
+    "longTitle": "Toxic effect of medetomidine, undetermined, initial encounter",
+    "category": "T65"
+  },
+  {
+    "code": "T65854D",
+    "codeDotted": "T65.854D",
+    "billable": true,
+    "shortTitle": "Toxic effect of medetomidine, undetermined, subs",
+    "longTitle": "Toxic effect of medetomidine, undetermined, subsequent encounter",
+    "category": "T65"
+  },
+  {
+    "code": "T65854S",
+    "codeDotted": "T65.854S",
+    "billable": true,
+    "shortTitle": "Toxic effect of medetomidine, undetermined, sequela",
+    "longTitle": "Toxic effect of medetomidine, undetermined, sequela",
+    "category": "T65"
+  },
+  {
+    "code": "Z6818",
+    "codeDotted": "Z68.18",
+    "billable": true,
+    "shortTitle": "Body mass index [BMI] 18.4 or less, adult",
+    "longTitle": "Body mass index [BMI] 18.4 or less, adult",
+    "category": "Z68"
+  },
+  {
+    "code": "Z6819",
+    "codeDotted": "Z68.19",
+    "billable": true,
+    "shortTitle": "Body mass index [BMI] 18.5-19.9, adult",
+    "longTitle": "Body mass index [BMI] 18.5-19.9, adult",
+    "category": "Z68"
+  },
+  {
+    "code": "Z77013",
+    "codeDotted": "Z77.013",
+    "billable": true,
+    "shortTitle": "Contact with and (suspected) exposure to gadolinium",
+    "longTitle": "Contact with and (suspected) exposure to gadolinium",
+    "category": "Z77"
+  },
+  {
+    "code": "Z7732",
+    "codeDotted": "Z77.32",
+    "billable": true,
+    "shortTitle": "Contact with and exposure to burn pits in war theater",
+    "longTitle": "Contact with and (suspected) exposure to burn pits in war theater",
+    "category": "Z77"
+  },
+  {
+    "code": "Z7733",
+    "codeDotted": "Z77.33",
+    "billable": true,
+    "shortTitle": "Contact with and (suspected) exposure to Agent Orange",
+    "longTitle": "Contact with and (suspected) exposure to Agent Orange",
+    "category": "Z77"
+  },
+  {
+    "code": "Z774",
+    "codeDotted": "Z77.4",
+    "billable": false,
+    "shortTitle": "Contact with and (suspected) exposure to blast overpressure",
+    "longTitle": "Contact with and (suspected) exposure to blast overpressure",
+    "category": "Z77"
+  },
+  {
+    "code": "Z7740",
+    "codeDotted": "Z77.40",
+    "billable": true,
+    "shortTitle": "Contact with and exposure to unspecified blast overpressure",
+    "longTitle": "Contact with and (suspected) exposure to unspecified blast overpressure",
+    "category": "Z77"
+  },
+  {
+    "code": "Z7741",
+    "codeDotted": "Z77.41",
+    "billable": true,
+    "shortTitle": "Contact with and exposure to low-level blast overpressure",
+    "longTitle": "Contact with and (suspected) exposure to low-level blast overpressure",
+    "category": "Z77"
+  },
+  {
+    "code": "Z7742",
+    "codeDotted": "Z77.42",
+    "billable": true,
+    "shortTitle": "Contact with and exposure to high-level blast overpressure",
+    "longTitle": "Contact with and (suspected) exposure to high-level blast overpressure",
+    "category": "Z77"
+  },
+  {
+    "code": "Z7749",
+    "codeDotted": "Z77.49",
+    "billable": true,
+    "shortTitle": "Contact with and exposure to other blast overpressure",
+    "longTitle": "Contact with and (suspected) exposure to other blast overpressure",
+    "category": "Z77"
+  },
+  {
+    "code": "Z8617",
+    "codeDotted": "Z86.17",
+    "billable": true,
+    "shortTitle": "Personal history of Clostridioides difficile infection",
+    "longTitle": "Personal history of Clostridioides difficile infection",
+    "category": "Z86"
+  },
+  {
+    "code": "Z878901",
+    "codeDotted": "Z87.8901",
+    "billable": true,
+    "shortTitle": "Personal history of social gender transition",
+    "longTitle": "Personal history of social gender transition",
+    "category": "Z87"
+  },
+  {
+    "code": "Z878902",
+    "codeDotted": "Z87.8902",
+    "billable": true,
+    "shortTitle": "Personal history of medical gender transition",
+    "longTitle": "Personal history of medical gender transition",
+    "category": "Z87"
+  },
+  {
+    "code": "Z878903",
+    "codeDotted": "Z87.8903",
+    "billable": true,
+    "shortTitle": "Personal history of surgical gender transition",
+    "longTitle": "Personal history of surgical gender transition",
+    "category": "Z87"
+  },
+  {
+    "code": "Z878904",
+    "codeDotted": "Z87.8904",
+    "billable": true,
+    "shortTitle": "Personal history of intersex surgery",
+    "longTitle": "Personal history of intersex surgery",
+    "category": "Z87"
+  },
+  {
+    "code": "Z878909",
+    "codeDotted": "Z87.8909",
+    "billable": true,
+    "shortTitle": "Personal history of unspecified gender transition",
+    "longTitle": "Personal history of unspecified gender transition",
+    "category": "Z87"
+  },
+  {
+    "code": "Z87893",
+    "codeDotted": "Z87.893",
+    "billable": true,
+    "shortTitle": "Personal history of gender detransition",
+    "longTitle": "Personal history of gender detransition",
+    "category": "Z87"
+  }
+]

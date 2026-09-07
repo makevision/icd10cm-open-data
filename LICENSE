@@ -1,0 +1,13 @@
+CC0 1.0 Universal
+
+The underlying ICD-10-CM code set is a work of the United States Government (CMS and the CDC's
+National Center for Health Statistics) and is in the public domain.
+
+To the extent that the derivative files in this repository (the diffs, extracted note tables,
+counts, and their formatting) are subject to copyright, MedCoder.ai waives all copyright and
+related or neighboring rights to them worldwide under the CC0 1.0 Universal Public Domain
+Dedication. Full text: https://creativecommons.org/publicdomain/zero/1.0/legalcode
+
+No warranty. These files are provided as-is. They are reference data derived from official
+releases; they are not coding advice, and a coder must verify against the current official
+CMS/CDC files before use on a claim.

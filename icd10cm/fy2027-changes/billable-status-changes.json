@@ -1,0 +1,122 @@
+[
+  {
+    "code": "D691",
+    "codeDotted": "D69.1",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Qualitative platelet defects",
+    "direction": "billable-to-header"
+  },
+  {
+    "code": "I420",
+    "codeDotted": "I42.0",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Dilated cardiomyopathy",
+    "direction": "billable-to-header"
+  },
+  {
+    "code": "I428",
+    "codeDotted": "I42.8",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other cardiomyopathies",
+    "direction": "billable-to-header"
+  },
+  {
+    "code": "I498",
+    "codeDotted": "I49.8",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other specified cardiac arrhythmias",
+    "direction": "billable-to-header"
+  },
+  {
+    "code": "M722",
+    "codeDotted": "M72.2",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Plantar fascial fibromatosis",
+    "direction": "billable-to-header"
+  },
+  {
+    "code": "M868X1",
+    "codeDotted": "M86.8X1",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other osteomyelitis, shoulder",
+    "direction": "billable-to-header"
+  },
+  {
+    "code": "M868X2",
+    "codeDotted": "M86.8X2",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other osteomyelitis, upper arm",
+    "direction": "billable-to-header"
+  },
+  {
+    "code": "M868X3",
+    "codeDotted": "M86.8X3",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other osteomyelitis, forearm",
+    "direction": "billable-to-header"
+  },
+  {
+    "code": "M868X4",
+    "codeDotted": "M86.8X4",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other osteomyelitis, hand",
+    "direction": "billable-to-header"
+  },
+  {
+    "code": "M868X5",
+    "codeDotted": "M86.8X5",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other osteomyelitis, thigh",
+    "direction": "billable-to-header"
+  },
+  {
+    "code": "M868X6",
+    "codeDotted": "M86.8X6",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other osteomyelitis, lower leg",
+    "direction": "billable-to-header"
+  },
+  {
+    "code": "M868X7",
+    "codeDotted": "M86.8X7",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other osteomyelitis, ankle and foot",
+    "direction": "billable-to-header"
+  },
+  {
+    "code": "M868X8",
+    "codeDotted": "M86.8X8",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other osteomyelitis, other site",
+    "direction": "billable-to-header"
+  },
+  {
+    "code": "Z681",
+    "codeDotted": "Z68.1",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Body mass index [BMI] 19.9 or less, adult",
+    "direction": "billable-to-header"
+  },
+  {
+    "code": "Z87890",
+    "codeDotted": "Z87.890",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Personal history of sex reassignment",
+    "direction": "billable-to-header"
+  }
+]

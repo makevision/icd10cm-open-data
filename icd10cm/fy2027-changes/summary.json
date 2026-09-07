@@ -1,0 +1,160 @@
+{
+  "generatedAt": "2026-09-07",
+  "fromFiscalYear": 2026,
+  "toFiscalYear": 2027,
+  "effectiveDate": "2026-10-01",
+  "totalEntriesFrom": 98186,
+  "totalEntriesTo": 98403,
+  "added": 238,
+  "addedBillable": 190,
+  "deleted": 21,
+  "deletedBillable": 15,
+  "revisedTitles": 4,
+  "billableStatusChanges": 15,
+  "billableToHeader": 15,
+  "headerToBillable": 0,
+  "addedByCategory": [
+    {
+      "category": "T52",
+      "count": 51
+    },
+    {
+      "category": "O31",
+      "count": 33
+    },
+    {
+      "category": "M86",
+      "count": 24
+    },
+    {
+      "category": "O00",
+      "count": 23
+    },
+    {
+      "category": "T59",
+      "count": 17
+    },
+    {
+      "category": "T65",
+      "count": 17
+    },
+    {
+      "category": "QA1",
+      "count": 8
+    },
+    {
+      "category": "Z77",
+      "count": 8
+    },
+    {
+      "category": "J34",
+      "count": 6
+    },
+    {
+      "category": "Z87",
+      "count": 6
+    },
+    {
+      "category": "I42",
+      "count": 5
+    },
+    {
+      "category": "K6A",
+      "count": 5
+    },
+    {
+      "category": "M67",
+      "count": 5
+    },
+    {
+      "category": "E89",
+      "count": 3
+    },
+    {
+      "category": "I49",
+      "count": 3
+    },
+    {
+      "category": "M72",
+      "count": 3
+    },
+    {
+      "category": "N99",
+      "count": 3
+    },
+    {
+      "category": "C78",
+      "count": 2
+    },
+    {
+      "category": "D69",
+      "count": 2
+    },
+    {
+      "category": "Z68",
+      "count": 2
+    },
+    {
+      "category": "C79",
+      "count": 1
+    },
+    {
+      "category": "F64",
+      "count": 1
+    },
+    {
+      "category": "I47",
+      "count": 1
+    },
+    {
+      "category": "J4B",
+      "count": 1
+    },
+    {
+      "category": "K31",
+      "count": 1
+    },
+    {
+      "category": "K74",
+      "count": 1
+    },
+    {
+      "category": "K76",
+      "count": 1
+    },
+    {
+      "category": "L02",
+      "count": 1
+    },
+    {
+      "category": "M04",
+      "count": 1
+    },
+    {
+      "category": "Q87",
+      "count": 1
+    },
+    {
+      "category": "R78",
+      "count": 1
+    },
+    {
+      "category": "Z86",
+      "count": 1
+    }
+  ],
+  "deletedByCategory": [
+    {
+      "category": "T52",
+      "count": 17
+    },
+    {
+      "category": "S23",
+      "count": 4
+    }
+  ],
+  "sources": [
+    "https://www.cms.gov/files/zip/2026-code-descriptions-tabular-order.zip",
+    "https://www.cms.gov/files/zip/2027-code-descriptions-tabular-order.zip"
+  ]
+}

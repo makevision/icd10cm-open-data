@@ -1,0 +1,16 @@
+code,codeDotted,previousBillable,newBillable,direction,longTitle
+D691,D69.1,true,false,billable-to-header,Qualitative platelet defects
+I420,I42.0,true,false,billable-to-header,Dilated cardiomyopathy
+I428,I42.8,true,false,billable-to-header,Other cardiomyopathies
+I498,I49.8,true,false,billable-to-header,Other specified cardiac arrhythmias
+M722,M72.2,true,false,billable-to-header,Plantar fascial fibromatosis
+M868X1,M86.8X1,true,false,billable-to-header,"Other osteomyelitis, shoulder"
+M868X2,M86.8X2,true,false,billable-to-header,"Other osteomyelitis, upper arm"
+M868X3,M86.8X3,true,false,billable-to-header,"Other osteomyelitis, forearm"
+M868X4,M86.8X4,true,false,billable-to-header,"Other osteomyelitis, hand"
+M868X5,M86.8X5,true,false,billable-to-header,"Other osteomyelitis, thigh"
+M868X6,M86.8X6,true,false,billable-to-header,"Other osteomyelitis, lower leg"
+M868X7,M86.8X7,true,false,billable-to-header,"Other osteomyelitis, ankle and foot"
+M868X8,M86.8X8,true,false,billable-to-header,"Other osteomyelitis, other site"
+Z681,Z68.1,true,false,billable-to-header,"Body mass index [BMI] 19.9 or less, adult"
+Z87890,Z87.890,true,false,billable-to-header,Personal history of sex reassignment

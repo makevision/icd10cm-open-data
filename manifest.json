@@ -1,0 +1,39 @@
+{
+  "generatedAt": "2026-09-07",
+  "generator": "medcoder.ai scripts/build-open-data.ts",
+  "license": "CC0-1.0",
+  "datasets": [
+    {
+      "path": "icd10cm/code-counts/icd10cm-code-counts-fy2016-fy2027.csv",
+      "rows": 12
+    },
+    {
+      "path": "icd10cm/fy2027-changes/added.csv",
+      "rows": 238
+    },
+    {
+      "path": "icd10cm/fy2027-changes/deleted.csv",
+      "rows": 21
+    },
+    {
+      "path": "icd10cm/fy2027-changes/revised.csv",
+      "rows": 4
+    },
+    {
+      "path": "icd10cm/fy2027-changes/billable-status-changes.csv",
+      "rows": 15
+    },
+    {
+      "path": "icd10cm/excludes-notes/fy2027-excludes1.csv",
+      "rows": 5411
+    },
+    {
+      "path": "icd10cm/excludes-notes/fy2027-excludes2.csv",
+      "rows": 2529
+    },
+    {
+      "path": "icd10cm/excludes-notes/fy2027-excludes-by-chapter.csv",
+      "rows": 22
+    }
+  ]
+}

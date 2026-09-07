@@ -1,0 +1,38 @@
+[
+  {
+    "code": "L02232",
+    "codeDotted": "L02.232",
+    "billable": true,
+    "previousLongTitle": "Carbuncle of back [any part, except buttock]",
+    "newLongTitle": "Carbuncle of back [any part, except buttock and flank]",
+    "previousShortTitle": "Carbuncle of back [any part, except buttock]",
+    "newShortTitle": "Carbuncle of back [any part, except buttock and flank]"
+  },
+  {
+    "code": "L03312",
+    "codeDotted": "L03.312",
+    "billable": true,
+    "previousLongTitle": "Cellulitis of back [any part except buttock]",
+    "newLongTitle": "Cellulitis of back [any part except buttock and flank]",
+    "previousShortTitle": "Cellulitis of back [any part except buttock]",
+    "newShortTitle": "Cellulitis of back [any part except buttock and flank]"
+  },
+  {
+    "code": "L03322",
+    "codeDotted": "L03.322",
+    "billable": true,
+    "previousLongTitle": "Acute lymphangitis of back [any part except buttock]",
+    "newLongTitle": "Acute lymphangitis of back [any part except buttock and flank]",
+    "previousShortTitle": "Acute lymphangitis of back [any part except buttock]",
+    "newShortTitle": "Acute lymphangitis of back"
+  },
+  {
+    "code": "Z2914",
+    "codeDotted": "Z29.14",
+    "billable": true,
+    "previousLongTitle": "Encounter for prophylactic rabies immune globin",
+    "newLongTitle": "Encounter for prophylactic rabies immune globulin",
+    "previousShortTitle": "Encounter for prophylactic rabies immune globin",
+    "newShortTitle": "Encounter for prophylactic rabies immune globulin"
+  }
+]

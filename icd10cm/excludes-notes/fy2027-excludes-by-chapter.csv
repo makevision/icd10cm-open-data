@@ -1,0 +1,23 @@
+chapter,chapterTitle,codeRange,orderFileEntries,billableCodes,excludes1Notes,excludes2Notes,locationsWithExcludes1,locationsWithExcludes2,excludes1NotesPointingOutsideChapter,excludes2NotesPointingOutsideChapter
+1,Certain infectious and parasitic diseases,A00-B99,1309,1068,163,90,85,41,49,19
+2,Neoplasms,C00-D49,2181,1730,442,86,207,38,54,19
+3,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,403,324,186,51,71,23,96,28
+4,"Endocrine, nutritional and metabolic diseases",E00-E89,1270,973,286,31,119,22,126,14
+5,"Mental, Behavioral and Neurodevelopmental disorders",F01-F99,1113,872,207,195,115,78,57,37
+6,Diseases of the nervous system,G00-G99,932,700,284,106,104,28,179,62
+7,Diseases of the eye and adnexa,H00-H59,3466,2677,107,57,72,32,64,22
+8,Diseases of the ear and mastoid process,H60-H95,871,653,54,18,26,8,28,12
+9,Diseases of the circulatory system,I00-I99,1807,1433,285,167,152,62,110,77
+10,Diseases of the respiratory system,J00-J99,478,366,251,134,94,51,104,43
+11,Diseases of the digestive system,K00-K95,1117,863,281,163,130,77,142,64
+12,Diseases of the skin and subcutaneous tissue,L00-L99,1207,1001,113,179,53,54,63,93
+13,Diseases of the musculoskeletal system and connective tissue,M00-M99,8707,6687,350,137,137,75,154,47
+14,Diseases of the genitourinary system,N00-N99,1047,838,327,79,148,34,187,46
+15,"Pregnancy, childbirth and the puerperium",O00-O9A,3079,2481,146,95,86,43,18,13
+16,Certain conditions originating in the perinatal period,P00-P96,565,463,117,65,71,33,42,33
+17,"Congenital malformations, deformations, chromosomal abnormalities, and genetic disorders",Q00-QA1,1095,900,190,50,106,23,68,27
+18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,963,774,477,97,187,51,366,51
+19,"Injury, poisoning and certain other consequences of external causes",S00-T88,54325,41187,411,468,262,240,87,95
+20,External causes of morbidity,V00-Y99,10602,7461,460,62,245,40,11,4
+21,Factors influencing health status and contact with health services,Z00-Z99,1861,1425,274,197,178,118,90,42
+22,Codes for special purposes,U00-U85,5,3,0,2,0,1,0,2

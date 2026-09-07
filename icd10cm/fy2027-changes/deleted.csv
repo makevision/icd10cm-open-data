@@ -1,0 +1,22 @@
+code,codeDotted,wasBillable,category,shortTitle,longTitle
+S23420,S23.420,false,S23,Sprain of sternoclavicular (joint) (ligament),Sprain of sternoclavicular (joint) (ligament)
+S23420A,S23.420A,true,S23,"Sprain of sternoclavicular (joint) (ligament), init encntr","Sprain of sternoclavicular (joint) (ligament), initial encounter"
+S23420D,S23.420D,true,S23,"Sprain of sternoclavicular (joint) (ligament), subs encntr","Sprain of sternoclavicular (joint) (ligament), subsequent encounter"
+S23420S,S23.420S,true,S23,"Sprain of sternoclavicular (joint) (ligament), sequela","Sprain of sternoclavicular (joint) (ligament), sequela"
+T528X,T52.8X,false,T52,Toxic effects of other organic solvents,Toxic effects of other organic solvents
+T528X1,T52.8X1,false,T52,"Toxic effect of organic solvents, accidental (unintentional)","Toxic effect of other organic solvents, accidental (unintentional)"
+T528X1A,T52.8X1A,true,T52,"Toxic effect of organic solvents, accidental, init","Toxic effect of other organic solvents, accidental (unintentional), initial encounter"
+T528X1D,T52.8X1D,true,T52,"Toxic effect of organic solvents, accidental, subs","Toxic effect of other organic solvents, accidental (unintentional), subsequent encounter"
+T528X1S,T52.8X1S,true,T52,"Toxic effect of organic solvents, accidental, sequela","Toxic effect of other organic solvents, accidental (unintentional), sequela"
+T528X2,T52.8X2,false,T52,"Toxic effect of oth organic solvents, intentional self-harm","Toxic effect of other organic solvents, intentional self-harm"
+T528X2A,T52.8X2A,true,T52,"Toxic effect of organic solvents, self-harm, init","Toxic effect of other organic solvents, intentional self-harm, initial encounter"
+T528X2D,T52.8X2D,true,T52,"Toxic effect of organic solvents, self-harm, subs","Toxic effect of other organic solvents, intentional self-harm, subsequent encounter"
+T528X2S,T52.8X2S,true,T52,"Toxic effect of organic solvents, self-harm, sequela","Toxic effect of other organic solvents, intentional self-harm, sequela"
+T528X3,T52.8X3,false,T52,"Toxic effect of other organic solvents, assault","Toxic effect of other organic solvents, assault"
+T528X3A,T52.8X3A,true,T52,"Toxic effect of other organic solvents, assault, init encntr","Toxic effect of other organic solvents, assault, initial encounter"
+T528X3D,T52.8X3D,true,T52,"Toxic effect of other organic solvents, assault, subs encntr","Toxic effect of other organic solvents, assault, subsequent encounter"
+T528X3S,T52.8X3S,true,T52,"Toxic effect of other organic solvents, assault, sequela","Toxic effect of other organic solvents, assault, sequela"
+T528X4,T52.8X4,false,T52,"Toxic effect of other organic solvents, undetermined","Toxic effect of other organic solvents, undetermined"
+T528X4A,T52.8X4A,true,T52,"Toxic effect of oth organic solvents, undetermined, init","Toxic effect of other organic solvents, undetermined, initial encounter"
+T528X4D,T52.8X4D,true,T52,"Toxic effect of oth organic solvents, undetermined, subs","Toxic effect of other organic solvents, undetermined, subsequent encounter"
+T528X4S,T52.8X4S,true,T52,"Toxic effect of oth organic solvents, undetermined, sequela","Toxic effect of other organic solvents, undetermined, sequela"

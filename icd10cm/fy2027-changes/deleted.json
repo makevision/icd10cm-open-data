@@ -1,0 +1,170 @@
+[
+  {
+    "code": "S23420",
+    "codeDotted": "S23.420",
+    "wasBillable": false,
+    "shortTitle": "Sprain of sternoclavicular (joint) (ligament)",
+    "longTitle": "Sprain of sternoclavicular (joint) (ligament)",
+    "category": "S23"
+  },
+  {
+    "code": "S23420A",
+    "codeDotted": "S23.420A",
+    "wasBillable": true,
+    "shortTitle": "Sprain of sternoclavicular (joint) (ligament), init encntr",
+    "longTitle": "Sprain of sternoclavicular (joint) (ligament), initial encounter",
+    "category": "S23"
+  },
+  {
+    "code": "S23420D",
+    "codeDotted": "S23.420D",
+    "wasBillable": true,
+    "shortTitle": "Sprain of sternoclavicular (joint) (ligament), subs encntr",
+    "longTitle": "Sprain of sternoclavicular (joint) (ligament), subsequent encounter",
+    "category": "S23"
+  },
+  {
+    "code": "S23420S",
+    "codeDotted": "S23.420S",
+    "wasBillable": true,
+    "shortTitle": "Sprain of sternoclavicular (joint) (ligament), sequela",
+    "longTitle": "Sprain of sternoclavicular (joint) (ligament), sequela",
+    "category": "S23"
+  },
+  {
+    "code": "T528X",
+    "codeDotted": "T52.8X",
+    "wasBillable": false,
+    "shortTitle": "Toxic effects of other organic solvents",
+    "longTitle": "Toxic effects of other organic solvents",
+    "category": "T52"
+  },
+  {
+    "code": "T528X1",
+    "codeDotted": "T52.8X1",
+    "wasBillable": false,
+    "shortTitle": "Toxic effect of organic solvents, accidental (unintentional)",
+    "longTitle": "Toxic effect of other organic solvents, accidental (unintentional)",
+    "category": "T52"
+  },
+  {
+    "code": "T528X1A",
+    "codeDotted": "T52.8X1A",
+    "wasBillable": true,
+    "shortTitle": "Toxic effect of organic solvents, accidental, init",
+    "longTitle": "Toxic effect of other organic solvents, accidental (unintentional), initial encounter",
+    "category": "T52"
+  },
+  {
+    "code": "T528X1D",
+    "codeDotted": "T52.8X1D",
+    "wasBillable": true,
+    "shortTitle": "Toxic effect of organic solvents, accidental, subs",
+    "longTitle": "Toxic effect of other organic solvents, accidental (unintentional), subsequent encounter",
+    "category": "T52"
+  },
+  {
+    "code": "T528X1S",
+    "codeDotted": "T52.8X1S",
+    "wasBillable": true,
+    "shortTitle": "Toxic effect of organic solvents, accidental, sequela",
+    "longTitle": "Toxic effect of other organic solvents, accidental (unintentional), sequela",
+    "category": "T52"
+  },
+  {
+    "code": "T528X2",
+    "codeDotted": "T52.8X2",
+    "wasBillable": false,
+    "shortTitle": "Toxic effect of oth organic solvents, intentional self-harm",
+    "longTitle": "Toxic effect of other organic solvents, intentional self-harm",
+    "category": "T52"
+  },
+  {
+    "code": "T528X2A",
+    "codeDotted": "T52.8X2A",
+    "wasBillable": true,
+    "shortTitle": "Toxic effect of organic solvents, self-harm, init",
+    "longTitle": "Toxic effect of other organic solvents, intentional self-harm, initial encounter",
+    "category": "T52"
+  },
+  {
+    "code": "T528X2D",
+    "codeDotted": "T52.8X2D",
+    "wasBillable": true,
+    "shortTitle": "Toxic effect of organic solvents, self-harm, subs",
+    "longTitle": "Toxic effect of other organic solvents, intentional self-harm, subsequent encounter",
+    "category": "T52"
+  },
+  {
+    "code": "T528X2S",
+    "codeDotted": "T52.8X2S",
+    "wasBillable": true,
+    "shortTitle": "Toxic effect of organic solvents, self-harm, sequela",
+    "longTitle": "Toxic effect of other organic solvents, intentional self-harm, sequela",
+    "category": "T52"
+  },
+  {
+    "code": "T528X3",
+    "codeDotted": "T52.8X3",
+    "wasBillable": false,
+    "shortTitle": "Toxic effect of other organic solvents, assault",
+    "longTitle": "Toxic effect of other organic solvents, assault",
+    "category": "T52"
+  },
+  {
+    "code": "T528X3A",
+    "codeDotted": "T52.8X3A",
+    "wasBillable": true,
+    "shortTitle": "Toxic effect of other organic solvents, assault, init encntr",
+    "longTitle": "Toxic effect of other organic solvents, assault, initial encounter",
+    "category": "T52"
+  },
+  {
+    "code": "T528X3D",
+    "codeDotted": "T52.8X3D",
+    "wasBillable": true,
+    "shortTitle": "Toxic effect of other organic solvents, assault, subs encntr",
+    "longTitle": "Toxic effect of other organic solvents, assault, subsequent encounter",
+    "category": "T52"
+  },
+  {
+    "code": "T528X3S",
+    "codeDotted": "T52.8X3S",
+    "wasBillable": true,
+    "shortTitle": "Toxic effect of other organic solvents, assault, sequela",
+    "longTitle": "Toxic effect of other organic solvents, assault, sequela",
+    "category": "T52"
+  },
+  {
+    "code": "T528X4",
+    "codeDotted": "T52.8X4",
+    "wasBillable": false,
+    "shortTitle": "Toxic effect of other organic solvents, undetermined",
+    "longTitle": "Toxic effect of other organic solvents, undetermined",
+    "category": "T52"
+  },
+  {
+    "code": "T528X4A",
+    "codeDotted": "T52.8X4A",
+    "wasBillable": true,
+    "shortTitle": "Toxic effect of oth organic solvents, undetermined, init",
+    "longTitle": "Toxic effect of other organic solvents, undetermined, initial encounter",
+    "category": "T52"
+  },
+  {
+    "code": "T528X4D",
+    "codeDotted": "T52.8X4D",
+    "wasBillable": true,
+    "shortTitle": "Toxic effect of oth organic solvents, undetermined, subs",
+    "longTitle": "Toxic effect of other organic solvents, undetermined, subsequent encounter",
+    "category": "T52"
+  },
+  {
+    "code": "T528X4S",
+    "codeDotted": "T52.8X4S",
+    "wasBillable": true,
+    "shortTitle": "Toxic effect of oth organic solvents, undetermined, sequela",
+    "longTitle": "Toxic effect of other organic solvents, undetermined, sequela",
+    "category": "T52"
+  }
+]

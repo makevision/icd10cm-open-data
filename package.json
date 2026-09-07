@@ -1,0 +1,16 @@
+{
+  "name": "icd10cm-open-data",
+  "version": "2027.0.0",
+  "description": "ICD-10-CM open data: FY2027 change lists, Excludes1/Excludes2 note tables, and code counts FY2016-FY2027, derived from the public-domain CMS/CDC files. Published by MedCoder.ai.",
+  "license": "CC0-1.0",
+  "homepage": "https://medcoder.ai/updates",
+  "repository": { "type": "git", "url": "https://github.com/makevision/icd10cm-open-data" },
+  "keywords": ["icd-10-cm", "icd10", "icd10cm", "medical-coding", "cms", "cdc", "excludes1", "fy2027", "healthcare", "dataset"],
+  "files": ["icd10cm", "manifest.json", "README.md", "LICENSE"],
+  "main": "index.js",
+  "exports": {
+    ".": "./index.js",
+    "./manifest.json": "./manifest.json",
+    "./icd10cm/*": "./icd10cm/*"
+  }
+}
