@@ -1,0 +1,3719 @@
+[
+  {
+    "code": "D495",
+    "codeDotted": "D49.5",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Neoplasm of unspecified behavior of other genitourinary organs",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "E08321",
+    "codeDotted": "E08.321",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Diabetes mellitus due to underlying condition with mild nonproliferative diabetic retinopathy with macular edema",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "E08329",
+    "codeDotted": "E08.329",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Diabetes mellitus due to underlying condition with mild nonproliferative diabetic retinopathy without macular edema",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "E08331",
+    "codeDotted": "E08.331",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Diabetes mellitus due to underlying condition with moderate nonproliferative diabetic retinopathy with macular edema",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "E08339",
+    "codeDotted": "E08.339",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Diabetes mellitus due to underlying condition with moderate nonproliferative diabetic retinopathy without macular edema",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "E08341",
+    "codeDotted": "E08.341",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Diabetes mellitus due to underlying condition with severe nonproliferative diabetic retinopathy with macular edema",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "E08349",
+    "codeDotted": "E08.349",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Diabetes mellitus due to underlying condition with severe nonproliferative diabetic retinopathy without macular edema",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "E08351",
+    "codeDotted": "E08.351",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Diabetes mellitus due to underlying condition with proliferative diabetic retinopathy with macular edema",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "E08359",
+    "codeDotted": "E08.359",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Diabetes mellitus due to underlying condition with proliferative diabetic retinopathy without macular edema",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "E09321",
+    "codeDotted": "E09.321",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Drug or chemical induced diabetes mellitus with mild nonproliferative diabetic retinopathy with macular edema",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "E09329",
+    "codeDotted": "E09.329",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Drug or chemical induced diabetes mellitus with mild nonproliferative diabetic retinopathy without macular edema",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "E09331",
+    "codeDotted": "E09.331",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Drug or chemical induced diabetes mellitus with moderate nonproliferative diabetic retinopathy with macular edema",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "E09339",
+    "codeDotted": "E09.339",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Drug or chemical induced diabetes mellitus with moderate nonproliferative diabetic retinopathy without macular edema",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "E09341",
+    "codeDotted": "E09.341",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Drug or chemical induced diabetes mellitus with severe nonproliferative diabetic retinopathy with macular edema",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "E09349",
+    "codeDotted": "E09.349",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Drug or chemical induced diabetes mellitus with severe nonproliferative diabetic retinopathy without macular edema",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "E09351",
+    "codeDotted": "E09.351",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Drug or chemical induced diabetes mellitus with proliferative diabetic retinopathy with macular edema",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "E09359",
+    "codeDotted": "E09.359",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Drug or chemical induced diabetes mellitus with proliferative diabetic retinopathy without macular edema",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "E10321",
+    "codeDotted": "E10.321",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Type 1 diabetes mellitus with mild nonproliferative diabetic retinopathy with macular edema",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "E10329",
+    "codeDotted": "E10.329",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Type 1 diabetes mellitus with mild nonproliferative diabetic retinopathy without macular edema",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "E10331",
+    "codeDotted": "E10.331",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Type 1 diabetes mellitus with moderate nonproliferative diabetic retinopathy with macular edema",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "E10339",
+    "codeDotted": "E10.339",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Type 1 diabetes mellitus with moderate nonproliferative diabetic retinopathy without macular edema",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "E10341",
+    "codeDotted": "E10.341",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Type 1 diabetes mellitus with severe nonproliferative diabetic retinopathy with macular edema",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "E10349",
+    "codeDotted": "E10.349",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Type 1 diabetes mellitus with severe nonproliferative diabetic retinopathy without macular edema",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "E10351",
+    "codeDotted": "E10.351",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Type 1 diabetes mellitus with proliferative diabetic retinopathy with macular edema",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "E10359",
+    "codeDotted": "E10.359",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Type 1 diabetes mellitus with proliferative diabetic retinopathy without macular edema",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "E11321",
+    "codeDotted": "E11.321",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Type 2 diabetes mellitus with mild nonproliferative diabetic retinopathy with macular edema",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "E11329",
+    "codeDotted": "E11.329",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Type 2 diabetes mellitus with mild nonproliferative diabetic retinopathy without macular edema",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "E11331",
+    "codeDotted": "E11.331",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Type 2 diabetes mellitus with moderate nonproliferative diabetic retinopathy with macular edema",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "E11339",
+    "codeDotted": "E11.339",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Type 2 diabetes mellitus with moderate nonproliferative diabetic retinopathy without macular edema",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "E11341",
+    "codeDotted": "E11.341",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Type 2 diabetes mellitus with severe nonproliferative diabetic retinopathy with macular edema",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "E11349",
+    "codeDotted": "E11.349",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Type 2 diabetes mellitus with severe nonproliferative diabetic retinopathy without macular edema",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "E11351",
+    "codeDotted": "E11.351",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Type 2 diabetes mellitus with proliferative diabetic retinopathy with macular edema",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "E11359",
+    "codeDotted": "E11.359",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Type 2 diabetes mellitus with proliferative diabetic retinopathy without macular edema",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "E13321",
+    "codeDotted": "E13.321",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other specified diabetes mellitus with mild nonproliferative diabetic retinopathy with macular edema",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "E13329",
+    "codeDotted": "E13.329",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other specified diabetes mellitus with mild nonproliferative diabetic retinopathy without macular edema",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "E13331",
+    "codeDotted": "E13.331",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other specified diabetes mellitus with moderate nonproliferative diabetic retinopathy with macular edema",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "E13339",
+    "codeDotted": "E13.339",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other specified diabetes mellitus with moderate nonproliferative diabetic retinopathy without macular edema",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "E13341",
+    "codeDotted": "E13.341",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other specified diabetes mellitus with severe nonproliferative diabetic retinopathy with macular edema",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "E13349",
+    "codeDotted": "E13.349",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other specified diabetes mellitus with severe nonproliferative diabetic retinopathy without macular edema",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "E13351",
+    "codeDotted": "E13.351",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other specified diabetes mellitus with proliferative diabetic retinopathy with macular edema",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "E13359",
+    "codeDotted": "E13.359",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other specified diabetes mellitus with proliferative diabetic retinopathy without macular edema",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "E780",
+    "codeDotted": "E78.0",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Pure hypercholesterolemia",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "F328",
+    "codeDotted": "F32.8",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other depressive episodes",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "F348",
+    "codeDotted": "F34.8",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other persistent mood [affective] disorders",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "F42",
+    "codeDotted": "F42",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Obsessive-compulsive disorder",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "F508",
+    "codeDotted": "F50.8",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other eating disorders",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "H34811",
+    "codeDotted": "H34.811",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Central retinal vein occlusion, right eye",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "H34812",
+    "codeDotted": "H34.812",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Central retinal vein occlusion, left eye",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "H34813",
+    "codeDotted": "H34.813",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Central retinal vein occlusion, bilateral",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "H34819",
+    "codeDotted": "H34.819",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Central retinal vein occlusion, unspecified eye",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "H34831",
+    "codeDotted": "H34.831",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Tributary (branch) retinal vein occlusion, right eye",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "H34832",
+    "codeDotted": "H34.832",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Tributary (branch) retinal vein occlusion, left eye",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "H34833",
+    "codeDotted": "H34.833",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Tributary (branch) retinal vein occlusion, bilateral",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "H34839",
+    "codeDotted": "H34.839",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Tributary (branch) retinal vein occlusion, unspecified eye",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "H3531",
+    "codeDotted": "H35.31",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Nonexudative age-related macular degeneration",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "H3532",
+    "codeDotted": "H35.32",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Exudative age-related macular degeneration",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "I602",
+    "codeDotted": "I60.2",
+    "previousBillable": false,
+    "newBillable": true,
+    "longTitle": "Nontraumatic subarachnoid hemorrhage from anterior communicating artery",
+    "direction": "header-to-billable",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "I6901",
+    "codeDotted": "I69.01",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Cognitive deficits following nontraumatic subarachnoid hemorrhage",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "I6911",
+    "codeDotted": "I69.11",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Cognitive deficits following nontraumatic intracerebral hemorrhage",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "I6921",
+    "codeDotted": "I69.21",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Cognitive deficits following other nontraumatic intracranial hemorrhage",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "I6931",
+    "codeDotted": "I69.31",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Cognitive deficits following cerebral infarction",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "I6981",
+    "codeDotted": "I69.81",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Cognitive deficits following other cerebrovascular disease",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "I6991",
+    "codeDotted": "I69.91",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Cognitive deficits following unspecified cerebrovascular disease",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "I9762",
+    "codeDotted": "I97.62",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Postprocedural hemorrhage, hematoma and seroma of a circulatory system organ or structure following other procedure",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "J985",
+    "codeDotted": "J98.5",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Diseases of mediastinum, not elsewhere classified",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "K040",
+    "codeDotted": "K04.0",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Pulpitis",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "K0521",
+    "codeDotted": "K05.21",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Aggressive periodontitis, localized",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "K0522",
+    "codeDotted": "K05.22",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Aggressive periodontitis, generalized",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "K0531",
+    "codeDotted": "K05.31",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Chronic periodontitis, localized",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "K0532",
+    "codeDotted": "K05.32",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Chronic periodontitis, generalized",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "K088",
+    "codeDotted": "K08.8",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other specified disorders of teeth and supporting structures",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "K522",
+    "codeDotted": "K52.2",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Allergic and dietetic gastroenteritis and colitis",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "K550",
+    "codeDotted": "K55.0",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Acute vascular disorders of intestine",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "K593",
+    "codeDotted": "K59.3",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Megacolon, not elsewhere classified",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "K850",
+    "codeDotted": "K85.0",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Idiopathic acute pancreatitis",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "K851",
+    "codeDotted": "K85.1",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Biliary acute pancreatitis",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "K852",
+    "codeDotted": "K85.2",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Alcohol induced acute pancreatitis",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "K853",
+    "codeDotted": "K85.3",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Drug induced acute pancreatitis",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "K858",
+    "codeDotted": "K85.8",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other acute pancreatitis",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "K859",
+    "codeDotted": "K85.9",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Acute pancreatitis, unspecified",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "K868",
+    "codeDotted": "K86.8",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other specified diseases of pancreas",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "K904",
+    "codeDotted": "K90.4",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other malabsorption due to intolerance",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "M2660",
+    "codeDotted": "M26.60",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Temporomandibular joint disorder, unspecified",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "M2661",
+    "codeDotted": "M26.61",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Adhesions and ankylosis of temporomandibular joint",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "M2662",
+    "codeDotted": "M26.62",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Arthralgia of temporomandibular joint",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "M2663",
+    "codeDotted": "M26.63",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Articular disc disorder of temporomandibular joint",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "M5002",
+    "codeDotted": "M50.02",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Cervical disc disorder with myelopathy, mid-cervical region",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "M5012",
+    "codeDotted": "M50.12",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Cervical disc disorder with radiculopathy, mid-cervical region",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "M5022",
+    "codeDotted": "M50.22",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other cervical disc displacement, mid-cervical region",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "M5032",
+    "codeDotted": "M50.32",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other cervical disc degeneration, mid-cervical region",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "M5082",
+    "codeDotted": "M50.82",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other cervical disc disorders, mid-cervical region",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "M5092",
+    "codeDotted": "M50.92",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Cervical disc disorder, unspecified, mid-cervical region",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "N423",
+    "codeDotted": "N42.3",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Dysplasia of prostate",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "N508",
+    "codeDotted": "N50.8",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other specified disorders of male genital organs",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "N61",
+    "codeDotted": "N61",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Inflammatory disorders of breast",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "N830",
+    "codeDotted": "N83.0",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Follicular cyst of ovary",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "N831",
+    "codeDotted": "N83.1",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Corpus luteum cyst",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "N8320",
+    "codeDotted": "N83.20",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Unspecified ovarian cysts",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "N8329",
+    "codeDotted": "N83.29",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other ovarian cysts",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "N8331",
+    "codeDotted": "N83.31",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Acquired atrophy of ovary",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "N8332",
+    "codeDotted": "N83.32",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Acquired atrophy of fallopian tube",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "N8333",
+    "codeDotted": "N83.33",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Acquired atrophy of ovary and fallopian tube",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "N834",
+    "codeDotted": "N83.4",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Prolapse and hernia of ovary and fallopian tube",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "N8351",
+    "codeDotted": "N83.51",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Torsion of ovary and ovarian pedicle",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "N8352",
+    "codeDotted": "N83.52",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Torsion of fallopian tube",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "N906",
+    "codeDotted": "N90.6",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Hypertrophy of vulva",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "N941",
+    "codeDotted": "N94.1",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Dyspareunia",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "O000",
+    "codeDotted": "O00.0",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Abdominal pregnancy",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "O001",
+    "codeDotted": "O00.1",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Tubal pregnancy",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "O002",
+    "codeDotted": "O00.2",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Ovarian pregnancy",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "O008",
+    "codeDotted": "O00.8",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other ectopic pregnancy",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "O009",
+    "codeDotted": "O00.9",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Ectopic pregnancy, unspecified",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "O337",
+    "codeDotted": "O33.7",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Maternal care for disproportion due to other fetal deformities",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "O3421",
+    "codeDotted": "O34.21",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Maternal care for scar from previous cesarean delivery",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "O702",
+    "codeDotted": "O70.2",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Third degree perineal laceration during delivery",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "Q252",
+    "codeDotted": "Q25.2",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Atresia of aorta",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "Q254",
+    "codeDotted": "Q25.4",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other congenital malformations of aorta",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "Q5212",
+    "codeDotted": "Q52.12",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Longitudinal vaginal septum",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "Q662",
+    "codeDotted": "Q66.2",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Congenital metatarsus (primus) varus",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "R312",
+    "codeDotted": "R31.2",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other microscopic hematuria",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "R3919",
+    "codeDotted": "R39.19",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other difficulties with micturition",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "R40241",
+    "codeDotted": "R40.241",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Glasgow coma scale score 13-15",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "R40242",
+    "codeDotted": "R40.242",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Glasgow coma scale score 9-12",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "R40243",
+    "codeDotted": "R40.243",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Glasgow coma scale score 3-8",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "R40244",
+    "codeDotted": "R40.244",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other coma, without documented Glasgow coma scale score, or with partial score reported",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "R827",
+    "codeDotted": "R82.7",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Abnormal findings on microbiological examination of urine",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "R934",
+    "codeDotted": "R93.4",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Abnormal findings on diagnostic imaging of urinary organs",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "R972",
+    "codeDotted": "R97.2",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Elevated prostate specific antigen [PSA]",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "Z9889",
+    "codeDotted": "Z98.89",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other specified postprocedural states",
+    "direction": "billable-to-header",
+    "fiscalYear": 2017
+  },
+  {
+    "code": "A047",
+    "codeDotted": "A04.7",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Enterocolitis due to Clostridium difficile",
+    "direction": "billable-to-header",
+    "fiscalYear": 2018
+  },
+  {
+    "code": "C962",
+    "codeDotted": "C96.2",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Malignant mast cell neoplasm",
+    "direction": "billable-to-header",
+    "fiscalYear": 2018
+  },
+  {
+    "code": "D470",
+    "codeDotted": "D47.0",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Mast cell neoplasms of uncertain behavior",
+    "direction": "billable-to-header",
+    "fiscalYear": 2018
+  },
+  {
+    "code": "E858",
+    "codeDotted": "E85.8",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other amyloidosis",
+    "direction": "billable-to-header",
+    "fiscalYear": 2018
+  },
+  {
+    "code": "H540",
+    "codeDotted": "H54.0",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Blindness, both eyes",
+    "direction": "billable-to-header",
+    "fiscalYear": 2018
+  },
+  {
+    "code": "H5411",
+    "codeDotted": "H54.11",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Blindness, right eye, low vision left eye",
+    "direction": "billable-to-header",
+    "fiscalYear": 2018
+  },
+  {
+    "code": "H5412",
+    "codeDotted": "H54.12",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Blindness, left eye, low vision right eye",
+    "direction": "billable-to-header",
+    "fiscalYear": 2018
+  },
+  {
+    "code": "H542",
+    "codeDotted": "H54.2",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Low vision, both eyes",
+    "direction": "billable-to-header",
+    "fiscalYear": 2018
+  },
+  {
+    "code": "H5441",
+    "codeDotted": "H54.41",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Blindness, right eye, normal vision left eye",
+    "direction": "billable-to-header",
+    "fiscalYear": 2018
+  },
+  {
+    "code": "H5442",
+    "codeDotted": "H54.42",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Blindness, left eye, normal vision right eye",
+    "direction": "billable-to-header",
+    "fiscalYear": 2018
+  },
+  {
+    "code": "H5451",
+    "codeDotted": "H54.51",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Low vision, right eye, normal vision left eye",
+    "direction": "billable-to-header",
+    "fiscalYear": 2018
+  },
+  {
+    "code": "H5452",
+    "codeDotted": "H54.52",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Low vision, left eye, normal vision right eye",
+    "direction": "billable-to-header",
+    "fiscalYear": 2018
+  },
+  {
+    "code": "I272",
+    "codeDotted": "I27.2",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other secondary pulmonary hypertension",
+    "direction": "billable-to-header",
+    "fiscalYear": 2018
+  },
+  {
+    "code": "K060",
+    "codeDotted": "K06.0",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Gingival recession",
+    "direction": "billable-to-header",
+    "fiscalYear": 2018
+  },
+  {
+    "code": "K565",
+    "codeDotted": "K56.5",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Intestinal adhesions [bands] with obstruction (postinfection)",
+    "direction": "billable-to-header",
+    "fiscalYear": 2018
+  },
+  {
+    "code": "K5660",
+    "codeDotted": "K56.60",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Unspecified intestinal obstruction",
+    "direction": "billable-to-header",
+    "fiscalYear": 2018
+  },
+  {
+    "code": "K5669",
+    "codeDotted": "K56.69",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other intestinal obstruction",
+    "direction": "billable-to-header",
+    "fiscalYear": 2018
+  },
+  {
+    "code": "K913",
+    "codeDotted": "K91.3",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Postprocedural intestinal obstruction",
+    "direction": "billable-to-header",
+    "fiscalYear": 2018
+  },
+  {
+    "code": "M4806",
+    "codeDotted": "M48.06",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Spinal stenosis, lumbar region",
+    "direction": "billable-to-header",
+    "fiscalYear": 2018
+  },
+  {
+    "code": "N63",
+    "codeDotted": "N63",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Unspecified lump in breast",
+    "direction": "billable-to-header",
+    "fiscalYear": 2018
+  },
+  {
+    "code": "O0010",
+    "codeDotted": "O00.10",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Tubal pregnancy without intrauterine pregnancy",
+    "direction": "billable-to-header",
+    "fiscalYear": 2018
+  },
+  {
+    "code": "O0011",
+    "codeDotted": "O00.11",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Tubal pregnancy with intrauterine pregnancy",
+    "direction": "billable-to-header",
+    "fiscalYear": 2018
+  },
+  {
+    "code": "O0020",
+    "codeDotted": "O00.20",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Ovarian pregnancy without intrauterine pregnancy",
+    "direction": "billable-to-header",
+    "fiscalYear": 2018
+  },
+  {
+    "code": "O0021",
+    "codeDotted": "O00.21",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Ovarian pregnancy with intrauterine pregnancy",
+    "direction": "billable-to-header",
+    "fiscalYear": 2018
+  },
+  {
+    "code": "P293",
+    "codeDotted": "P29.3",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Persistent fetal circulation",
+    "direction": "billable-to-header",
+    "fiscalYear": 2018
+  },
+  {
+    "code": "P838",
+    "codeDotted": "P83.8",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other specified conditions of integument specific to newborn",
+    "direction": "billable-to-header",
+    "fiscalYear": 2018
+  },
+  {
+    "code": "P918",
+    "codeDotted": "P91.8",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other specified disturbances of cerebral status of newborn",
+    "direction": "billable-to-header",
+    "fiscalYear": 2018
+  },
+  {
+    "code": "Q5311",
+    "codeDotted": "Q53.11",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Abdominal testis, unilateral",
+    "direction": "billable-to-header",
+    "fiscalYear": 2018
+  },
+  {
+    "code": "Q5321",
+    "codeDotted": "Q53.21",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Abdominal testis, bilateral",
+    "direction": "billable-to-header",
+    "fiscalYear": 2018
+  },
+  {
+    "code": "T07",
+    "codeDotted": "T07",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Unspecified multiple injuries",
+    "direction": "billable-to-header",
+    "fiscalYear": 2018
+  },
+  {
+    "code": "T148",
+    "codeDotted": "T14.8",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other injury of unspecified body region",
+    "direction": "billable-to-header",
+    "fiscalYear": 2018
+  },
+  {
+    "code": "T1490",
+    "codeDotted": "T14.90",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Injury, unspecified",
+    "direction": "billable-to-header",
+    "fiscalYear": 2018
+  },
+  {
+    "code": "T1491",
+    "codeDotted": "T14.91",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Suicide attempt",
+    "direction": "billable-to-header",
+    "fiscalYear": 2018
+  },
+  {
+    "code": "Z36",
+    "codeDotted": "Z36",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Encounter for antenatal screening of mother",
+    "direction": "billable-to-header",
+    "fiscalYear": 2018
+  },
+  {
+    "code": "C4311",
+    "codeDotted": "C43.11",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Malignant melanoma of right eyelid, including canthus",
+    "direction": "billable-to-header",
+    "fiscalYear": 2019
+  },
+  {
+    "code": "C4312",
+    "codeDotted": "C43.12",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Malignant melanoma of left eyelid, including canthus",
+    "direction": "billable-to-header",
+    "fiscalYear": 2019
+  },
+  {
+    "code": "C4A11",
+    "codeDotted": "C4A.11",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Merkel cell carcinoma of right eyelid, including canthus",
+    "direction": "billable-to-header",
+    "fiscalYear": 2019
+  },
+  {
+    "code": "C4A12",
+    "codeDotted": "C4A.12",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Merkel cell carcinoma of left eyelid, including canthus",
+    "direction": "billable-to-header",
+    "fiscalYear": 2019
+  },
+  {
+    "code": "C44102",
+    "codeDotted": "C44.102",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Unspecified malignant neoplasm of skin of right eyelid, including canthus",
+    "direction": "billable-to-header",
+    "fiscalYear": 2019
+  },
+  {
+    "code": "C44109",
+    "codeDotted": "C44.109",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Unspecified malignant neoplasm of skin of left eyelid, including canthus",
+    "direction": "billable-to-header",
+    "fiscalYear": 2019
+  },
+  {
+    "code": "C44112",
+    "codeDotted": "C44.112",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Basal cell carcinoma of skin of right eyelid, including canthus",
+    "direction": "billable-to-header",
+    "fiscalYear": 2019
+  },
+  {
+    "code": "C44119",
+    "codeDotted": "C44.119",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Basal cell carcinoma of skin of left eyelid, including canthus",
+    "direction": "billable-to-header",
+    "fiscalYear": 2019
+  },
+  {
+    "code": "C44122",
+    "codeDotted": "C44.122",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Squamous cell carcinoma of skin of right eyelid, including canthus",
+    "direction": "billable-to-header",
+    "fiscalYear": 2019
+  },
+  {
+    "code": "C44129",
+    "codeDotted": "C44.129",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Squamous cell carcinoma of skin of left eyelid, including canthus",
+    "direction": "billable-to-header",
+    "fiscalYear": 2019
+  },
+  {
+    "code": "C44192",
+    "codeDotted": "C44.192",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other specified malignant neoplasm of skin of right eyelid, including canthus",
+    "direction": "billable-to-header",
+    "fiscalYear": 2019
+  },
+  {
+    "code": "C44199",
+    "codeDotted": "C44.199",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other specified malignant neoplasm of skin of left eyelid, including canthus",
+    "direction": "billable-to-header",
+    "fiscalYear": 2019
+  },
+  {
+    "code": "D0311",
+    "codeDotted": "D03.11",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Melanoma in situ of right eyelid, including canthus",
+    "direction": "billable-to-header",
+    "fiscalYear": 2019
+  },
+  {
+    "code": "D0312",
+    "codeDotted": "D03.12",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Melanoma in situ of left eyelid, including canthus",
+    "direction": "billable-to-header",
+    "fiscalYear": 2019
+  },
+  {
+    "code": "D0411",
+    "codeDotted": "D04.11",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Carcinoma in situ of skin of right eyelid, including canthus",
+    "direction": "billable-to-header",
+    "fiscalYear": 2019
+  },
+  {
+    "code": "D0412",
+    "codeDotted": "D04.12",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Carcinoma in situ of skin of left eyelid, including canthus",
+    "direction": "billable-to-header",
+    "fiscalYear": 2019
+  },
+  {
+    "code": "D2211",
+    "codeDotted": "D22.11",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Melanocytic nevi of right eyelid, including canthus",
+    "direction": "billable-to-header",
+    "fiscalYear": 2019
+  },
+  {
+    "code": "D2212",
+    "codeDotted": "D22.12",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Melanocytic nevi of left eyelid, including canthus",
+    "direction": "billable-to-header",
+    "fiscalYear": 2019
+  },
+  {
+    "code": "D2311",
+    "codeDotted": "D23.11",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other benign neoplasm of skin of right eyelid, including canthus",
+    "direction": "billable-to-header",
+    "fiscalYear": 2019
+  },
+  {
+    "code": "D2312",
+    "codeDotted": "D23.12",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other benign neoplasm of skin of left eyelid, including canthus",
+    "direction": "billable-to-header",
+    "fiscalYear": 2019
+  },
+  {
+    "code": "E728",
+    "codeDotted": "E72.8",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other specified disorders of amino-acid metabolism",
+    "direction": "billable-to-header",
+    "fiscalYear": 2019
+  },
+  {
+    "code": "E784",
+    "codeDotted": "E78.4",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other hyperlipidemia",
+    "direction": "billable-to-header",
+    "fiscalYear": 2019
+  },
+  {
+    "code": "F53",
+    "codeDotted": "F53",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Mental and behavioral disorders associated with the puerperium, not elsewhere classified",
+    "direction": "billable-to-header",
+    "fiscalYear": 2019
+  },
+  {
+    "code": "G513",
+    "codeDotted": "G51.3",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Clonic hemifacial spasm",
+    "direction": "billable-to-header",
+    "fiscalYear": 2019
+  },
+  {
+    "code": "G710",
+    "codeDotted": "G71.0",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Muscular dystrophy",
+    "direction": "billable-to-header",
+    "fiscalYear": 2019
+  },
+  {
+    "code": "H578",
+    "codeDotted": "H57.8",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other specified disorders of eye and adnexa",
+    "direction": "billable-to-header",
+    "fiscalYear": 2019
+  },
+  {
+    "code": "I638",
+    "codeDotted": "I63.8",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other cerebral infarction",
+    "direction": "billable-to-header",
+    "fiscalYear": 2019
+  },
+  {
+    "code": "K352",
+    "codeDotted": "K35.2",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Acute appendicitis with generalized peritonitis",
+    "direction": "billable-to-header",
+    "fiscalYear": 2019
+  },
+  {
+    "code": "K353",
+    "codeDotted": "K35.3",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Acute appendicitis with localized peritonitis",
+    "direction": "billable-to-header",
+    "fiscalYear": 2019
+  },
+  {
+    "code": "K3589",
+    "codeDotted": "K35.89",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other acute appendicitis",
+    "direction": "billable-to-header",
+    "fiscalYear": 2019
+  },
+  {
+    "code": "K613",
+    "codeDotted": "K61.3",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Ischiorectal abscess",
+    "direction": "billable-to-header",
+    "fiscalYear": 2019
+  },
+  {
+    "code": "K830",
+    "codeDotted": "K83.0",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Cholangitis",
+    "direction": "billable-to-header",
+    "fiscalYear": 2019
+  },
+  {
+    "code": "M791",
+    "codeDotted": "M79.1",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Myalgia",
+    "direction": "billable-to-header",
+    "fiscalYear": 2019
+  },
+  {
+    "code": "N358",
+    "codeDotted": "N35.8",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other urethral stricture",
+    "direction": "billable-to-header",
+    "fiscalYear": 2019
+  },
+  {
+    "code": "N359",
+    "codeDotted": "N35.9",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Urethral stricture, unspecified",
+    "direction": "billable-to-header",
+    "fiscalYear": 2019
+  },
+  {
+    "code": "O860",
+    "codeDotted": "O86.0",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Infection of obstetric surgical wound",
+    "direction": "billable-to-header",
+    "fiscalYear": 2019
+  },
+  {
+    "code": "P027",
+    "codeDotted": "P02.7",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Newborn affected by chorioamnionitis",
+    "direction": "billable-to-header",
+    "fiscalYear": 2019
+  },
+  {
+    "code": "P041",
+    "codeDotted": "P04.1",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Newborn affected by other maternal medication",
+    "direction": "billable-to-header",
+    "fiscalYear": 2019
+  },
+  {
+    "code": "P048",
+    "codeDotted": "P04.8",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Newborn affected by other maternal noxious substances",
+    "direction": "billable-to-header",
+    "fiscalYear": 2019
+  },
+  {
+    "code": "P742",
+    "codeDotted": "P74.2",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Disturbances of sodium balance of newborn",
+    "direction": "billable-to-header",
+    "fiscalYear": 2019
+  },
+  {
+    "code": "P743",
+    "codeDotted": "P74.3",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Disturbances of potassium balance of newborn",
+    "direction": "billable-to-header",
+    "fiscalYear": 2019
+  },
+  {
+    "code": "P744",
+    "codeDotted": "P74.4",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other transitory electrolyte disturbances of newborn",
+    "direction": "billable-to-header",
+    "fiscalYear": 2019
+  },
+  {
+    "code": "Q512",
+    "codeDotted": "Q51.2",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other doubling of uterus",
+    "direction": "billable-to-header",
+    "fiscalYear": 2019
+  },
+  {
+    "code": "Q935",
+    "codeDotted": "Q93.5",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other deletions of part of a chromosome",
+    "direction": "billable-to-header",
+    "fiscalYear": 2019
+  },
+  {
+    "code": "R8299",
+    "codeDotted": "R82.99",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other abnormal findings in urine",
+    "direction": "billable-to-header",
+    "fiscalYear": 2019
+  },
+  {
+    "code": "R938",
+    "codeDotted": "R93.8",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Abnormal findings on diagnostic imaging of other specified body structures",
+    "direction": "billable-to-header",
+    "fiscalYear": 2019
+  },
+  {
+    "code": "Z048",
+    "codeDotted": "Z04.8",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Encounter for examination and observation for other specified reasons",
+    "direction": "billable-to-header",
+    "fiscalYear": 2019
+  },
+  {
+    "code": "Z134",
+    "codeDotted": "Z13.4",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Encounter for screening for certain developmental disorders in childhood",
+    "direction": "billable-to-header",
+    "fiscalYear": 2019
+  },
+  {
+    "code": "D813",
+    "codeDotted": "D81.3",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Adenosine deaminase [ADA] deficiency",
+    "direction": "billable-to-header",
+    "fiscalYear": 2020
+  },
+  {
+    "code": "H814",
+    "codeDotted": "H81.4",
+    "previousBillable": false,
+    "newBillable": true,
+    "longTitle": "Vertigo of central origin",
+    "direction": "header-to-billable",
+    "fiscalYear": 2020
+  },
+  {
+    "code": "I481",
+    "codeDotted": "I48.1",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Persistent atrial fibrillation",
+    "direction": "billable-to-header",
+    "fiscalYear": 2020
+  },
+  {
+    "code": "I482",
+    "codeDotted": "I48.2",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Chronic atrial fibrillation",
+    "direction": "billable-to-header",
+    "fiscalYear": 2020
+  },
+  {
+    "code": "Q660",
+    "codeDotted": "Q66.0",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Congenital talipes equinovarus",
+    "direction": "billable-to-header",
+    "fiscalYear": 2020
+  },
+  {
+    "code": "Q661",
+    "codeDotted": "Q66.1",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Congenital talipes calcaneovarus",
+    "direction": "billable-to-header",
+    "fiscalYear": 2020
+  },
+  {
+    "code": "Q6621",
+    "codeDotted": "Q66.21",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Congenital metatarsus primus varus",
+    "direction": "billable-to-header",
+    "fiscalYear": 2020
+  },
+  {
+    "code": "Q6622",
+    "codeDotted": "Q66.22",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Congenital metatarsus adductus",
+    "direction": "billable-to-header",
+    "fiscalYear": 2020
+  },
+  {
+    "code": "Q663",
+    "codeDotted": "Q66.3",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other congenital varus deformities of feet",
+    "direction": "billable-to-header",
+    "fiscalYear": 2020
+  },
+  {
+    "code": "Q664",
+    "codeDotted": "Q66.4",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Congenital talipes calcaneovalgus",
+    "direction": "billable-to-header",
+    "fiscalYear": 2020
+  },
+  {
+    "code": "Q667",
+    "codeDotted": "Q66.7",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Congenital pes cavus",
+    "direction": "billable-to-header",
+    "fiscalYear": 2020
+  },
+  {
+    "code": "Q669",
+    "codeDotted": "Q66.9",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Congenital deformity of feet, unspecified",
+    "direction": "billable-to-header",
+    "fiscalYear": 2020
+  },
+  {
+    "code": "Q796",
+    "codeDotted": "Q79.6",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Ehlers-Danlos syndromes",
+    "direction": "billable-to-header",
+    "fiscalYear": 2020
+  },
+  {
+    "code": "Q871",
+    "codeDotted": "Q87.1",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Congenital malformation syndromes predominantly associated with short stature",
+    "direction": "billable-to-header",
+    "fiscalYear": 2020
+  },
+  {
+    "code": "R828",
+    "codeDotted": "R82.8",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Abnormal findings on cytological and histological examination of urine",
+    "direction": "billable-to-header",
+    "fiscalYear": 2020
+  },
+  {
+    "code": "A848",
+    "codeDotted": "A84.8",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other tick-borne viral encephalitis",
+    "direction": "billable-to-header",
+    "fiscalYear": 2021
+  },
+  {
+    "code": "B600",
+    "codeDotted": "B60.0",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Babesiosis",
+    "direction": "billable-to-header",
+    "fiscalYear": 2021
+  },
+  {
+    "code": "D591",
+    "codeDotted": "D59.1",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other autoimmune hemolytic anemias",
+    "direction": "billable-to-header",
+    "fiscalYear": 2021
+  },
+  {
+    "code": "D721",
+    "codeDotted": "D72.1",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Eosinophilia",
+    "direction": "billable-to-header",
+    "fiscalYear": 2021
+  },
+  {
+    "code": "D848",
+    "codeDotted": "D84.8",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other specified immunodeficiencies",
+    "direction": "billable-to-header",
+    "fiscalYear": 2021
+  },
+  {
+    "code": "E708",
+    "codeDotted": "E70.8",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other disorders of aromatic amino-acid metabolism",
+    "direction": "billable-to-header",
+    "fiscalYear": 2021
+  },
+  {
+    "code": "E748",
+    "codeDotted": "E74.8",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other specified disorders of carbohydrate metabolism",
+    "direction": "billable-to-header",
+    "fiscalYear": 2021
+  },
+  {
+    "code": "G111",
+    "codeDotted": "G11.1",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Early-onset cerebellar ataxia",
+    "direction": "billable-to-header",
+    "fiscalYear": 2021
+  },
+  {
+    "code": "G712",
+    "codeDotted": "G71.2",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Congenital myopathies",
+    "direction": "billable-to-header",
+    "fiscalYear": 2021
+  },
+  {
+    "code": "G960",
+    "codeDotted": "G96.0",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Cerebrospinal fluid leak",
+    "direction": "billable-to-header",
+    "fiscalYear": 2021
+  },
+  {
+    "code": "G9619",
+    "codeDotted": "G96.19",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other disorders of meninges, not elsewhere classified",
+    "direction": "billable-to-header",
+    "fiscalYear": 2021
+  },
+  {
+    "code": "G968",
+    "codeDotted": "G96.8",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other specified disorders of central nervous system",
+    "direction": "billable-to-header",
+    "fiscalYear": 2021
+  },
+  {
+    "code": "H1850",
+    "codeDotted": "H18.50",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Unspecified hereditary corneal dystrophies",
+    "direction": "billable-to-header",
+    "fiscalYear": 2021
+  },
+  {
+    "code": "H1851",
+    "codeDotted": "H18.51",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Endothelial corneal dystrophy",
+    "direction": "billable-to-header",
+    "fiscalYear": 2021
+  },
+  {
+    "code": "H1852",
+    "codeDotted": "H18.52",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Epithelial (juvenile) corneal dystrophy",
+    "direction": "billable-to-header",
+    "fiscalYear": 2021
+  },
+  {
+    "code": "H1853",
+    "codeDotted": "H18.53",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Granular corneal dystrophy",
+    "direction": "billable-to-header",
+    "fiscalYear": 2021
+  },
+  {
+    "code": "H1854",
+    "codeDotted": "H18.54",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Lattice corneal dystrophy",
+    "direction": "billable-to-header",
+    "fiscalYear": 2021
+  },
+  {
+    "code": "H1855",
+    "codeDotted": "H18.55",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Macular corneal dystrophy",
+    "direction": "billable-to-header",
+    "fiscalYear": 2021
+  },
+  {
+    "code": "H1859",
+    "codeDotted": "H18.59",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other hereditary corneal dystrophies",
+    "direction": "billable-to-header",
+    "fiscalYear": 2021
+  },
+  {
+    "code": "J82",
+    "codeDotted": "J82",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Pulmonary eosinophilia, not elsewhere classified",
+    "direction": "billable-to-header",
+    "fiscalYear": 2021
+  },
+  {
+    "code": "J8417",
+    "codeDotted": "J84.17",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other interstitial pulmonary diseases with fibrosis in diseases classified elsewhere",
+    "direction": "billable-to-header",
+    "fiscalYear": 2021
+  },
+  {
+    "code": "K208",
+    "codeDotted": "K20.8",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other esophagitis",
+    "direction": "billable-to-header",
+    "fiscalYear": 2021
+  },
+  {
+    "code": "K209",
+    "codeDotted": "K20.9",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Esophagitis, unspecified",
+    "direction": "billable-to-header",
+    "fiscalYear": 2021
+  },
+  {
+    "code": "K210",
+    "codeDotted": "K21.0",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Gastro-esophageal reflux disease with esophagitis",
+    "direction": "billable-to-header",
+    "fiscalYear": 2021
+  },
+  {
+    "code": "K598",
+    "codeDotted": "K59.8",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other specified functional intestinal disorders",
+    "direction": "billable-to-header",
+    "fiscalYear": 2021
+  },
+  {
+    "code": "K740",
+    "codeDotted": "K74.0",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Hepatic fibrosis",
+    "direction": "billable-to-header",
+    "fiscalYear": 2021
+  },
+  {
+    "code": "M9250",
+    "codeDotted": "M92.50",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Unspecified juvenile osteochondrosis of tibia and fibula",
+    "direction": "billable-to-header",
+    "fiscalYear": 2021
+  },
+  {
+    "code": "M9251",
+    "codeDotted": "M92.51",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Juvenile osteochondrosis of proximal tibia",
+    "direction": "billable-to-header",
+    "fiscalYear": 2021
+  },
+  {
+    "code": "M9252",
+    "codeDotted": "M92.52",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Juvenile osteochondrosis of tibia tubercle",
+    "direction": "billable-to-header",
+    "fiscalYear": 2021
+  },
+  {
+    "code": "N183",
+    "codeDotted": "N18.3",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Chronic kidney disease, stage 3 (moderate)",
+    "direction": "billable-to-header",
+    "fiscalYear": 2021
+  },
+  {
+    "code": "O9989",
+    "codeDotted": "O99.89",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other specified diseases and conditions complicating pregnancy, childbirth and the puerperium",
+    "direction": "billable-to-header",
+    "fiscalYear": 2021
+  },
+  {
+    "code": "R51",
+    "codeDotted": "R51",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Headache",
+    "direction": "billable-to-header",
+    "fiscalYear": 2021
+  },
+  {
+    "code": "R740",
+    "codeDotted": "R74.0",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Nonspecific elevation of levels of transaminase and lactic acid dehydrogenase [LDH]",
+    "direction": "billable-to-header",
+    "fiscalYear": 2021
+  },
+  {
+    "code": "T86840",
+    "codeDotted": "T86.840",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Corneal transplant rejection",
+    "direction": "billable-to-header",
+    "fiscalYear": 2021
+  },
+  {
+    "code": "T86841",
+    "codeDotted": "T86.841",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Corneal transplant failure",
+    "direction": "billable-to-header",
+    "fiscalYear": 2021
+  },
+  {
+    "code": "T86842",
+    "codeDotted": "T86.842",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Corneal transplant infection",
+    "direction": "billable-to-header",
+    "fiscalYear": 2021
+  },
+  {
+    "code": "T86848",
+    "codeDotted": "T86.848",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other complications of corneal transplant",
+    "direction": "billable-to-header",
+    "fiscalYear": 2021
+  },
+  {
+    "code": "T86849",
+    "codeDotted": "T86.849",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Unspecified complication of corneal transplant",
+    "direction": "billable-to-header",
+    "fiscalYear": 2021
+  },
+  {
+    "code": "Y771",
+    "codeDotted": "Y77.1",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Therapeutic (nonsurgical) and rehabilitative ophthalmic devices associated with adverse incidents",
+    "direction": "billable-to-header",
+    "fiscalYear": 2021
+  },
+  {
+    "code": "D552",
+    "codeDotted": "D55.2",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Anemia due to disorders of glycolytic enzymes",
+    "direction": "billable-to-header",
+    "fiscalYear": 2022
+  },
+  {
+    "code": "F78",
+    "codeDotted": "F78",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other intellectual disabilities",
+    "direction": "billable-to-header",
+    "fiscalYear": 2022
+  },
+  {
+    "code": "G92",
+    "codeDotted": "G92",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Toxic encephalopathy",
+    "direction": "billable-to-header",
+    "fiscalYear": 2022
+  },
+  {
+    "code": "K228",
+    "codeDotted": "K22.8",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other specified diseases of esophagus",
+    "direction": "billable-to-header",
+    "fiscalYear": 2022
+  },
+  {
+    "code": "M311",
+    "codeDotted": "M31.1",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Thrombotic microangiopathy",
+    "direction": "billable-to-header",
+    "fiscalYear": 2022
+  },
+  {
+    "code": "M358",
+    "codeDotted": "M35.8",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other specified systemic involvement of connective tissue",
+    "direction": "billable-to-header",
+    "fiscalYear": 2022
+  },
+  {
+    "code": "M545",
+    "codeDotted": "M54.5",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Low back pain",
+    "direction": "billable-to-header",
+    "fiscalYear": 2022
+  },
+  {
+    "code": "P09",
+    "codeDotted": "P09",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Abnormal findings on neonatal screening",
+    "direction": "billable-to-header",
+    "fiscalYear": 2022
+  },
+  {
+    "code": "R05",
+    "codeDotted": "R05",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Cough",
+    "direction": "billable-to-header",
+    "fiscalYear": 2022
+  },
+  {
+    "code": "R358",
+    "codeDotted": "R35.8",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other polyuria",
+    "direction": "billable-to-header",
+    "fiscalYear": 2022
+  },
+  {
+    "code": "R633",
+    "codeDotted": "R63.3",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Feeding difficulties",
+    "direction": "billable-to-header",
+    "fiscalYear": 2022
+  },
+  {
+    "code": "Z283",
+    "codeDotted": "Z28.3",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Underimmunization status",
+    "direction": "billable-to-header",
+    "fiscalYear": 2022
+  },
+  {
+    "code": "Z590",
+    "codeDotted": "Z59.0",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Homelessness",
+    "direction": "billable-to-header",
+    "fiscalYear": 2022
+  },
+  {
+    "code": "Z594",
+    "codeDotted": "Z59.4",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Lack of adequate food",
+    "direction": "billable-to-header",
+    "fiscalYear": 2022
+  },
+  {
+    "code": "Z598",
+    "codeDotted": "Z59.8",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other problems related to housing and economic circumstances",
+    "direction": "billable-to-header",
+    "fiscalYear": 2022
+  },
+  {
+    "code": "Z915",
+    "codeDotted": "Z91.5",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Personal history of self-harm",
+    "direction": "billable-to-header",
+    "fiscalYear": 2022
+  },
+  {
+    "code": "B373",
+    "codeDotted": "B37.3",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Candidiasis of vulva and vagina",
+    "direction": "billable-to-header",
+    "fiscalYear": 2023
+  },
+  {
+    "code": "D593",
+    "codeDotted": "D59.3",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Hemolytic-uremic syndrome",
+    "direction": "billable-to-header",
+    "fiscalYear": 2023
+  },
+  {
+    "code": "D680",
+    "codeDotted": "D68.0",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Von Willebrand disease",
+    "direction": "billable-to-header",
+    "fiscalYear": 2023
+  },
+  {
+    "code": "D7582",
+    "codeDotted": "D75.82",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Heparin induced thrombocytopenia (HIT)",
+    "direction": "billable-to-header",
+    "fiscalYear": 2023
+  },
+  {
+    "code": "E343",
+    "codeDotted": "E34.3",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Short stature due to endocrine disorder",
+    "direction": "billable-to-header",
+    "fiscalYear": 2023
+  },
+  {
+    "code": "E872",
+    "codeDotted": "E87.2",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Acidosis",
+    "direction": "billable-to-header",
+    "fiscalYear": 2023
+  },
+  {
+    "code": "F0151",
+    "codeDotted": "F01.51",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Vascular dementia, unspecified severity, with behavioral disturbance",
+    "direction": "billable-to-header",
+    "fiscalYear": 2023
+  },
+  {
+    "code": "F0281",
+    "codeDotted": "F02.81",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Dementia in other diseases classified elsewhere, unspecified severity, with behavioral disturbance",
+    "direction": "billable-to-header",
+    "fiscalYear": 2023
+  },
+  {
+    "code": "F0391",
+    "codeDotted": "F03.91",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Unspecified dementia, unspecified severity, with behavioral disturbance",
+    "direction": "billable-to-header",
+    "fiscalYear": 2023
+  },
+  {
+    "code": "F438",
+    "codeDotted": "F43.8",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other reactions to severe stress",
+    "direction": "billable-to-header",
+    "fiscalYear": 2023
+  },
+  {
+    "code": "G933",
+    "codeDotted": "G93.3",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Postviral and related fatigue syndromes",
+    "direction": "billable-to-header",
+    "fiscalYear": 2023
+  },
+  {
+    "code": "I313",
+    "codeDotted": "I31.3",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Pericardial effusion (noninflammatory)",
+    "direction": "billable-to-header",
+    "fiscalYear": 2023
+  },
+  {
+    "code": "I348",
+    "codeDotted": "I34.8",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other nonrheumatic mitral valve disorders",
+    "direction": "billable-to-header",
+    "fiscalYear": 2023
+  },
+  {
+    "code": "I472",
+    "codeDotted": "I47.2",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Ventricular tachycardia",
+    "direction": "billable-to-header",
+    "fiscalYear": 2023
+  },
+  {
+    "code": "I7101",
+    "codeDotted": "I71.01",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Dissection of thoracic aorta",
+    "direction": "billable-to-header",
+    "fiscalYear": 2023
+  },
+  {
+    "code": "I711",
+    "codeDotted": "I71.1",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Thoracic aortic aneurysm, ruptured",
+    "direction": "billable-to-header",
+    "fiscalYear": 2023
+  },
+  {
+    "code": "I712",
+    "codeDotted": "I71.2",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Thoracic aortic aneurysm, without rupture",
+    "direction": "billable-to-header",
+    "fiscalYear": 2023
+  },
+  {
+    "code": "I713",
+    "codeDotted": "I71.3",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Abdominal aortic aneurysm, ruptured",
+    "direction": "billable-to-header",
+    "fiscalYear": 2023
+  },
+  {
+    "code": "I714",
+    "codeDotted": "I71.4",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Abdominal aortic aneurysm, without rupture",
+    "direction": "billable-to-header",
+    "fiscalYear": 2023
+  },
+  {
+    "code": "I715",
+    "codeDotted": "I71.5",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Thoracoabdominal aortic aneurysm, ruptured",
+    "direction": "billable-to-header",
+    "fiscalYear": 2023
+  },
+  {
+    "code": "I716",
+    "codeDotted": "I71.6",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Thoracoabdominal aortic aneurysm, without rupture",
+    "direction": "billable-to-header",
+    "fiscalYear": 2023
+  },
+  {
+    "code": "N141",
+    "codeDotted": "N14.1",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Nephropathy induced by other drugs, medicaments and biological substances",
+    "direction": "billable-to-header",
+    "fiscalYear": 2023
+  },
+  {
+    "code": "N800",
+    "codeDotted": "N80.0",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Endometriosis of uterus",
+    "direction": "billable-to-header",
+    "fiscalYear": 2023
+  },
+  {
+    "code": "N801",
+    "codeDotted": "N80.1",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Endometriosis of ovary",
+    "direction": "billable-to-header",
+    "fiscalYear": 2023
+  },
+  {
+    "code": "N802",
+    "codeDotted": "N80.2",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Endometriosis of fallopian tube",
+    "direction": "billable-to-header",
+    "fiscalYear": 2023
+  },
+  {
+    "code": "N803",
+    "codeDotted": "N80.3",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Endometriosis of pelvic peritoneum",
+    "direction": "billable-to-header",
+    "fiscalYear": 2023
+  },
+  {
+    "code": "N804",
+    "codeDotted": "N80.4",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Endometriosis of rectovaginal septum and vagina",
+    "direction": "billable-to-header",
+    "fiscalYear": 2023
+  },
+  {
+    "code": "N805",
+    "codeDotted": "N80.5",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Endometriosis of intestine",
+    "direction": "billable-to-header",
+    "fiscalYear": 2023
+  },
+  {
+    "code": "P283",
+    "codeDotted": "P28.3",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Primary sleep apnea of newborn",
+    "direction": "billable-to-header",
+    "fiscalYear": 2023
+  },
+  {
+    "code": "P284",
+    "codeDotted": "P28.4",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other apnea of newborn",
+    "direction": "billable-to-header",
+    "fiscalYear": 2023
+  },
+  {
+    "code": "Q211",
+    "codeDotted": "Q21.1",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Atrial septal defect",
+    "direction": "billable-to-header",
+    "fiscalYear": 2023
+  },
+  {
+    "code": "Q212",
+    "codeDotted": "Q21.2",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Atrioventricular septal defect",
+    "direction": "billable-to-header",
+    "fiscalYear": 2023
+  },
+  {
+    "code": "Q858",
+    "codeDotted": "Q85.8",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other phakomatoses, not elsewhere classified",
+    "direction": "billable-to-header",
+    "fiscalYear": 2023
+  },
+  {
+    "code": "Z8776",
+    "codeDotted": "Z87.76",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Personal history of (corrected) congenital malformations of integument, limbs and musculoskeletal system",
+    "direction": "billable-to-header",
+    "fiscalYear": 2023
+  },
+  {
+    "code": "Z9111",
+    "codeDotted": "Z91.11",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Patient's noncompliance with dietary regimen",
+    "direction": "billable-to-header",
+    "fiscalYear": 2023
+  },
+  {
+    "code": "Z9119",
+    "codeDotted": "Z91.19",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Patient's noncompliance with other medical treatment and regimen",
+    "direction": "billable-to-header",
+    "fiscalYear": 2023
+  },
+  {
+    "code": "D139",
+    "codeDotted": "D13.9",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Benign neoplasm of ill-defined sites within the digestive system",
+    "direction": "billable-to-header",
+    "fiscalYear": 2024
+  },
+  {
+    "code": "D481",
+    "codeDotted": "D48.1",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Neoplasm of uncertain behavior of connective and other soft tissue",
+    "direction": "billable-to-header",
+    "fiscalYear": 2024
+  },
+  {
+    "code": "E208",
+    "codeDotted": "E20.8",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other hypoparathyroidism",
+    "direction": "billable-to-header",
+    "fiscalYear": 2024
+  },
+  {
+    "code": "E798",
+    "codeDotted": "E79.8",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other disorders of purine and pyrimidine metabolism",
+    "direction": "billable-to-header",
+    "fiscalYear": 2024
+  },
+  {
+    "code": "E8881",
+    "codeDotted": "E88.81",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Metabolic syndrome and other insulin resistance",
+    "direction": "billable-to-header",
+    "fiscalYear": 2024
+  },
+  {
+    "code": "G20",
+    "codeDotted": "G20",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Parkinson's disease",
+    "direction": "billable-to-header",
+    "fiscalYear": 2024
+  },
+  {
+    "code": "G378",
+    "codeDotted": "G37.8",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other specified demyelinating diseases of central nervous system",
+    "direction": "billable-to-header",
+    "fiscalYear": 2024
+  },
+  {
+    "code": "H36",
+    "codeDotted": "H36",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Retinal disorders in diseases classified elsewhere",
+    "direction": "billable-to-header",
+    "fiscalYear": 2024
+  },
+  {
+    "code": "I208",
+    "codeDotted": "I20.8",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other forms of angina pectoris",
+    "direction": "billable-to-header",
+    "fiscalYear": 2024
+  },
+  {
+    "code": "I248",
+    "codeDotted": "I24.8",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other forms of acute ischemic heart disease",
+    "direction": "billable-to-header",
+    "fiscalYear": 2024
+  },
+  {
+    "code": "I471",
+    "codeDotted": "I47.1",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Supraventricular tachycardia",
+    "direction": "billable-to-header",
+    "fiscalYear": 2024
+  },
+  {
+    "code": "J156",
+    "codeDotted": "J15.6",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Pneumonia due to other Gram-negative bacteria",
+    "direction": "billable-to-header",
+    "fiscalYear": 2024
+  },
+  {
+    "code": "K3520",
+    "codeDotted": "K35.20",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Acute appendicitis with generalized peritonitis, without abscess",
+    "direction": "billable-to-header",
+    "fiscalYear": 2024
+  },
+  {
+    "code": "K3521",
+    "codeDotted": "K35.21",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Acute appendicitis with generalized peritonitis, with abscess",
+    "direction": "billable-to-header",
+    "fiscalYear": 2024
+  },
+  {
+    "code": "N042",
+    "codeDotted": "N04.2",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Nephrotic syndrome with diffuse membranous glomerulonephritis",
+    "direction": "billable-to-header",
+    "fiscalYear": 2024
+  },
+  {
+    "code": "N062",
+    "codeDotted": "N06.2",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Isolated proteinuria with diffuse membranous glomerulonephritis",
+    "direction": "billable-to-header",
+    "fiscalYear": 2024
+  },
+  {
+    "code": "O904",
+    "codeDotted": "O90.4",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Postpartum acute kidney failure",
+    "direction": "billable-to-header",
+    "fiscalYear": 2024
+  },
+  {
+    "code": "Q447",
+    "codeDotted": "Q44.7",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other congenital malformations of liver",
+    "direction": "billable-to-header",
+    "fiscalYear": 2024
+  },
+  {
+    "code": "Q750",
+    "codeDotted": "Q75.0",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Craniosynostosis",
+    "direction": "billable-to-header",
+    "fiscalYear": 2024
+  },
+  {
+    "code": "Y0701",
+    "codeDotted": "Y07.01",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Husband, perpetrator of maltreatment and neglect",
+    "direction": "billable-to-header",
+    "fiscalYear": 2024
+  },
+  {
+    "code": "Y0702",
+    "codeDotted": "Y07.02",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Wife, perpetrator of maltreatment and neglect",
+    "direction": "billable-to-header",
+    "fiscalYear": 2024
+  },
+  {
+    "code": "Y0703",
+    "codeDotted": "Y07.03",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Male partner, perpetrator of maltreatment and neglect",
+    "direction": "billable-to-header",
+    "fiscalYear": 2024
+  },
+  {
+    "code": "Y0704",
+    "codeDotted": "Y07.04",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Female partner, perpetrator of maltreatment and neglect",
+    "direction": "billable-to-header",
+    "fiscalYear": 2024
+  },
+  {
+    "code": "Z058",
+    "codeDotted": "Z05.8",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Observation and evaluation of newborn for other specified suspected condition ruled out",
+    "direction": "billable-to-header",
+    "fiscalYear": 2024
+  },
+  {
+    "code": "Z298",
+    "codeDotted": "Z29.8",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Encounter for other specified prophylactic measures",
+    "direction": "billable-to-header",
+    "fiscalYear": 2024
+  },
+  {
+    "code": "Z591",
+    "codeDotted": "Z59.1",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Inadequate housing",
+    "direction": "billable-to-header",
+    "fiscalYear": 2024
+  },
+  {
+    "code": "Z8371",
+    "codeDotted": "Z83.71",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Family history of colonic polyps",
+    "direction": "billable-to-header",
+    "fiscalYear": 2024
+  },
+  {
+    "code": "Z9114",
+    "codeDotted": "Z91.14",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Patient's other noncompliance with medication regimen",
+    "direction": "billable-to-header",
+    "fiscalYear": 2024
+  },
+  {
+    "code": "Z9115",
+    "codeDotted": "Z91.15",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Patient's noncompliance with renal dialysis",
+    "direction": "billable-to-header",
+    "fiscalYear": 2024
+  },
+  {
+    "code": "Z91A4",
+    "codeDotted": "Z91.A4",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Caregiver's other noncompliance with patient's medication regimen",
+    "direction": "billable-to-header",
+    "fiscalYear": 2024
+  },
+  {
+    "code": "Z91A5",
+    "codeDotted": "Z91.A5",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Caregiver's noncompliance with patient's renal dialysis",
+    "direction": "billable-to-header",
+    "fiscalYear": 2024
+  },
+  {
+    "code": "Z91A9",
+    "codeDotted": "Z91.A9",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Caregiver's noncompliance with patient's other medical treatment and regimen",
+    "direction": "billable-to-header",
+    "fiscalYear": 2024
+  },
+  {
+    "code": "C8339",
+    "codeDotted": "C83.39",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Diffuse large B-cell lymphoma, extranodal and solid organ sites",
+    "direction": "billable-to-header",
+    "fiscalYear": 2025
+  },
+  {
+    "code": "C860",
+    "codeDotted": "C86.0",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Extranodal NK/T-cell lymphoma, nasal type",
+    "direction": "billable-to-header",
+    "fiscalYear": 2025
+  },
+  {
+    "code": "C861",
+    "codeDotted": "C86.1",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Hepatosplenic T-cell lymphoma",
+    "direction": "billable-to-header",
+    "fiscalYear": 2025
+  },
+  {
+    "code": "C862",
+    "codeDotted": "C86.2",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Enteropathy-type (intestinal) T-cell lymphoma",
+    "direction": "billable-to-header",
+    "fiscalYear": 2025
+  },
+  {
+    "code": "C863",
+    "codeDotted": "C86.3",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Subcutaneous panniculitis-like T-cell lymphoma",
+    "direction": "billable-to-header",
+    "fiscalYear": 2025
+  },
+  {
+    "code": "C864",
+    "codeDotted": "C86.4",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Blastic NK-cell lymphoma",
+    "direction": "billable-to-header",
+    "fiscalYear": 2025
+  },
+  {
+    "code": "C865",
+    "codeDotted": "C86.5",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Angioimmunoblastic T-cell lymphoma",
+    "direction": "billable-to-header",
+    "fiscalYear": 2025
+  },
+  {
+    "code": "C866",
+    "codeDotted": "C86.6",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Primary cutaneous CD30-positive T-cell proliferations",
+    "direction": "billable-to-header",
+    "fiscalYear": 2025
+  },
+  {
+    "code": "C880",
+    "codeDotted": "C88.0",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Waldenstrom macroglobulinemia",
+    "direction": "billable-to-header",
+    "fiscalYear": 2025
+  },
+  {
+    "code": "C882",
+    "codeDotted": "C88.2",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Heavy chain disease",
+    "direction": "billable-to-header",
+    "fiscalYear": 2025
+  },
+  {
+    "code": "C883",
+    "codeDotted": "C88.3",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Immunoproliferative small intestinal disease",
+    "direction": "billable-to-header",
+    "fiscalYear": 2025
+  },
+  {
+    "code": "C884",
+    "codeDotted": "C88.4",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Extranodal marginal zone B-cell lymphoma of mucosa-associated lymphoid tissue [MALT-lymphoma]",
+    "direction": "billable-to-header",
+    "fiscalYear": 2025
+  },
+  {
+    "code": "C888",
+    "codeDotted": "C88.8",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other malignant immunoproliferative diseases",
+    "direction": "billable-to-header",
+    "fiscalYear": 2025
+  },
+  {
+    "code": "C889",
+    "codeDotted": "C88.9",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Malignant immunoproliferative disease, unspecified",
+    "direction": "billable-to-header",
+    "fiscalYear": 2025
+  },
+  {
+    "code": "E340",
+    "codeDotted": "E34.0",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Carcinoid syndrome",
+    "direction": "billable-to-header",
+    "fiscalYear": 2025
+  },
+  {
+    "code": "E668",
+    "codeDotted": "E66.8",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other obesity",
+    "direction": "billable-to-header",
+    "fiscalYear": 2025
+  },
+  {
+    "code": "F5001",
+    "codeDotted": "F50.01",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Anorexia nervosa, restricting type",
+    "direction": "billable-to-header",
+    "fiscalYear": 2025
+  },
+  {
+    "code": "F5002",
+    "codeDotted": "F50.02",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Anorexia nervosa, binge eating/purging type",
+    "direction": "billable-to-header",
+    "fiscalYear": 2025
+  },
+  {
+    "code": "F502",
+    "codeDotted": "F50.2",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Bulimia nervosa",
+    "direction": "billable-to-header",
+    "fiscalYear": 2025
+  },
+  {
+    "code": "F5081",
+    "codeDotted": "F50.81",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Binge eating disorder",
+    "direction": "billable-to-header",
+    "fiscalYear": 2025
+  },
+  {
+    "code": "G908",
+    "codeDotted": "G90.8",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other disorders of autonomic nervous system",
+    "direction": "billable-to-header",
+    "fiscalYear": 2025
+  },
+  {
+    "code": "K603",
+    "codeDotted": "K60.3",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Anal fistula",
+    "direction": "billable-to-header",
+    "fiscalYear": 2025
+  },
+  {
+    "code": "K604",
+    "codeDotted": "K60.4",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Rectal fistula",
+    "direction": "billable-to-header",
+    "fiscalYear": 2025
+  },
+  {
+    "code": "K605",
+    "codeDotted": "K60.5",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Anorectal fistula",
+    "direction": "billable-to-header",
+    "fiscalYear": 2025
+  },
+  {
+    "code": "L298",
+    "codeDotted": "L29.8",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other pruritus",
+    "direction": "billable-to-header",
+    "fiscalYear": 2025
+  },
+  {
+    "code": "L661",
+    "codeDotted": "L66.1",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Lichen planopilaris",
+    "direction": "billable-to-header",
+    "fiscalYear": 2025
+  },
+  {
+    "code": "L668",
+    "codeDotted": "L66.8",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other cicatricial alopecia",
+    "direction": "billable-to-header",
+    "fiscalYear": 2025
+  },
+  {
+    "code": "M5136",
+    "codeDotted": "M51.36",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other intervertebral disc degeneration, lumbar region",
+    "direction": "billable-to-header",
+    "fiscalYear": 2025
+  },
+  {
+    "code": "M5137",
+    "codeDotted": "M51.37",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other intervertebral disc degeneration, lumbosacral region",
+    "direction": "billable-to-header",
+    "fiscalYear": 2025
+  },
+  {
+    "code": "M659",
+    "codeDotted": "M65.9",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Synovitis and tenosynovitis, unspecified",
+    "direction": "billable-to-header",
+    "fiscalYear": 2025
+  },
+  {
+    "code": "Q238",
+    "codeDotted": "Q23.8",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other congenital malformations of aortic and mitral valves",
+    "direction": "billable-to-header",
+    "fiscalYear": 2025
+  },
+  {
+    "code": "Z597",
+    "codeDotted": "Z59.7",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Insufficient social insurance and welfare support",
+    "direction": "billable-to-header",
+    "fiscalYear": 2025
+  },
+  {
+    "code": "Z86010",
+    "codeDotted": "Z86.010",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Personal history of colon polyps",
+    "direction": "billable-to-header",
+    "fiscalYear": 2025
+  },
+  {
+    "code": "B880",
+    "codeDotted": "B88.0",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other acariasis",
+    "direction": "billable-to-header",
+    "fiscalYear": 2026
+  },
+  {
+    "code": "D71",
+    "codeDotted": "D71",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Functional disorders of polymorphonuclear neutrophils",
+    "direction": "billable-to-header",
+    "fiscalYear": 2026
+  },
+  {
+    "code": "E7253",
+    "codeDotted": "E72.53",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Primary hyperoxaluria",
+    "direction": "billable-to-header",
+    "fiscalYear": 2026
+  },
+  {
+    "code": "E7801",
+    "codeDotted": "E78.01",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Familial hypercholesterolemia",
+    "direction": "billable-to-header",
+    "fiscalYear": 2026
+  },
+  {
+    "code": "E881",
+    "codeDotted": "E88.1",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Lipodystrophy, not elsewhere classified",
+    "direction": "billable-to-header",
+    "fiscalYear": 2026
+  },
+  {
+    "code": "G35",
+    "codeDotted": "G35",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Multiple sclerosis",
+    "direction": "billable-to-header",
+    "fiscalYear": 2026
+  },
+  {
+    "code": "H018",
+    "codeDotted": "H01.8",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other specified inflammations of eyelid",
+    "direction": "billable-to-header",
+    "fiscalYear": 2026
+  },
+  {
+    "code": "Q898",
+    "codeDotted": "Q89.8",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other specified congenital malformations",
+    "direction": "billable-to-header",
+    "fiscalYear": 2026
+  },
+  {
+    "code": "Q998",
+    "codeDotted": "Q99.8",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other specified chromosome abnormalities",
+    "direction": "billable-to-header",
+    "fiscalYear": 2026
+  },
+  {
+    "code": "R102",
+    "codeDotted": "R10.2",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Pelvic and perineal pain",
+    "direction": "billable-to-header",
+    "fiscalYear": 2026
+  },
+  {
+    "code": "R768",
+    "codeDotted": "R76.8",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other specified abnormal immunological findings in serum",
+    "direction": "billable-to-header",
+    "fiscalYear": 2026
+  },
+  {
+    "code": "Z408",
+    "codeDotted": "Z40.8",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Encounter for other prophylactic surgery",
+    "direction": "billable-to-header",
+    "fiscalYear": 2026
+  },
+  {
+    "code": "Z5986",
+    "codeDotted": "Z59.86",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Financial insecurity",
+    "direction": "billable-to-header",
+    "fiscalYear": 2026
+  },
+  {
+    "code": "Z841",
+    "codeDotted": "Z84.1",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Family history of disorders of kidney and ureter",
+    "direction": "billable-to-header",
+    "fiscalYear": 2026
+  },
+  {
+    "code": "Z91011",
+    "codeDotted": "Z91.011",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Allergy to milk products",
+    "direction": "billable-to-header",
+    "fiscalYear": 2026
+  },
+  {
+    "code": "Z91012",
+    "codeDotted": "Z91.012",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Allergy to eggs",
+    "direction": "billable-to-header",
+    "fiscalYear": 2026
+  },
+  {
+    "code": "D691",
+    "codeDotted": "D69.1",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Qualitative platelet defects",
+    "direction": "billable-to-header",
+    "fiscalYear": 2027
+  },
+  {
+    "code": "I420",
+    "codeDotted": "I42.0",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Dilated cardiomyopathy",
+    "direction": "billable-to-header",
+    "fiscalYear": 2027
+  },
+  {
+    "code": "I428",
+    "codeDotted": "I42.8",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other cardiomyopathies",
+    "direction": "billable-to-header",
+    "fiscalYear": 2027
+  },
+  {
+    "code": "I498",
+    "codeDotted": "I49.8",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other specified cardiac arrhythmias",
+    "direction": "billable-to-header",
+    "fiscalYear": 2027
+  },
+  {
+    "code": "M722",
+    "codeDotted": "M72.2",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Plantar fascial fibromatosis",
+    "direction": "billable-to-header",
+    "fiscalYear": 2027
+  },
+  {
+    "code": "M868X1",
+    "codeDotted": "M86.8X1",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other osteomyelitis, shoulder",
+    "direction": "billable-to-header",
+    "fiscalYear": 2027
+  },
+  {
+    "code": "M868X2",
+    "codeDotted": "M86.8X2",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other osteomyelitis, upper arm",
+    "direction": "billable-to-header",
+    "fiscalYear": 2027
+  },
+  {
+    "code": "M868X3",
+    "codeDotted": "M86.8X3",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other osteomyelitis, forearm",
+    "direction": "billable-to-header",
+    "fiscalYear": 2027
+  },
+  {
+    "code": "M868X4",
+    "codeDotted": "M86.8X4",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other osteomyelitis, hand",
+    "direction": "billable-to-header",
+    "fiscalYear": 2027
+  },
+  {
+    "code": "M868X5",
+    "codeDotted": "M86.8X5",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other osteomyelitis, thigh",
+    "direction": "billable-to-header",
+    "fiscalYear": 2027
+  },
+  {
+    "code": "M868X6",
+    "codeDotted": "M86.8X6",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other osteomyelitis, lower leg",
+    "direction": "billable-to-header",
+    "fiscalYear": 2027
+  },
+  {
+    "code": "M868X7",
+    "codeDotted": "M86.8X7",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other osteomyelitis, ankle and foot",
+    "direction": "billable-to-header",
+    "fiscalYear": 2027
+  },
+  {
+    "code": "M868X8",
+    "codeDotted": "M86.8X8",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Other osteomyelitis, other site",
+    "direction": "billable-to-header",
+    "fiscalYear": 2027
+  },
+  {
+    "code": "Z681",
+    "codeDotted": "Z68.1",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Body mass index [BMI] 19.9 or less, adult",
+    "direction": "billable-to-header",
+    "fiscalYear": 2027
+  },
+  {
+    "code": "Z87890",
+    "codeDotted": "Z87.890",
+    "previousBillable": true,
+    "newBillable": false,
+    "longTitle": "Personal history of sex reassignment",
+    "direction": "billable-to-header",
+    "fiscalYear": 2027
+  }
+]

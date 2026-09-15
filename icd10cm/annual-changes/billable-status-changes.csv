@@ -1,0 +1,414 @@
+fiscalYear,code,codeDotted,previousBillable,newBillable,direction,longTitle
+2017,D495,D49.5,true,false,billable-to-header,Neoplasm of unspecified behavior of other genitourinary organs
+2017,E08321,E08.321,true,false,billable-to-header,Diabetes mellitus due to underlying condition with mild nonproliferative diabetic retinopathy with macular edema
+2017,E08329,E08.329,true,false,billable-to-header,Diabetes mellitus due to underlying condition with mild nonproliferative diabetic retinopathy without macular edema
+2017,E08331,E08.331,true,false,billable-to-header,Diabetes mellitus due to underlying condition with moderate nonproliferative diabetic retinopathy with macular edema
+2017,E08339,E08.339,true,false,billable-to-header,Diabetes mellitus due to underlying condition with moderate nonproliferative diabetic retinopathy without macular edema
+2017,E08341,E08.341,true,false,billable-to-header,Diabetes mellitus due to underlying condition with severe nonproliferative diabetic retinopathy with macular edema
+2017,E08349,E08.349,true,false,billable-to-header,Diabetes mellitus due to underlying condition with severe nonproliferative diabetic retinopathy without macular edema
+2017,E08351,E08.351,true,false,billable-to-header,Diabetes mellitus due to underlying condition with proliferative diabetic retinopathy with macular edema
+2017,E08359,E08.359,true,false,billable-to-header,Diabetes mellitus due to underlying condition with proliferative diabetic retinopathy without macular edema
+2017,E09321,E09.321,true,false,billable-to-header,Drug or chemical induced diabetes mellitus with mild nonproliferative diabetic retinopathy with macular edema
+2017,E09329,E09.329,true,false,billable-to-header,Drug or chemical induced diabetes mellitus with mild nonproliferative diabetic retinopathy without macular edema
+2017,E09331,E09.331,true,false,billable-to-header,Drug or chemical induced diabetes mellitus with moderate nonproliferative diabetic retinopathy with macular edema
+2017,E09339,E09.339,true,false,billable-to-header,Drug or chemical induced diabetes mellitus with moderate nonproliferative diabetic retinopathy without macular edema
+2017,E09341,E09.341,true,false,billable-to-header,Drug or chemical induced diabetes mellitus with severe nonproliferative diabetic retinopathy with macular edema
+2017,E09349,E09.349,true,false,billable-to-header,Drug or chemical induced diabetes mellitus with severe nonproliferative diabetic retinopathy without macular edema
+2017,E09351,E09.351,true,false,billable-to-header,Drug or chemical induced diabetes mellitus with proliferative diabetic retinopathy with macular edema
+2017,E09359,E09.359,true,false,billable-to-header,Drug or chemical induced diabetes mellitus with proliferative diabetic retinopathy without macular edema
+2017,E10321,E10.321,true,false,billable-to-header,Type 1 diabetes mellitus with mild nonproliferative diabetic retinopathy with macular edema
+2017,E10329,E10.329,true,false,billable-to-header,Type 1 diabetes mellitus with mild nonproliferative diabetic retinopathy without macular edema
+2017,E10331,E10.331,true,false,billable-to-header,Type 1 diabetes mellitus with moderate nonproliferative diabetic retinopathy with macular edema
+2017,E10339,E10.339,true,false,billable-to-header,Type 1 diabetes mellitus with moderate nonproliferative diabetic retinopathy without macular edema
+2017,E10341,E10.341,true,false,billable-to-header,Type 1 diabetes mellitus with severe nonproliferative diabetic retinopathy with macular edema
+2017,E10349,E10.349,true,false,billable-to-header,Type 1 diabetes mellitus with severe nonproliferative diabetic retinopathy without macular edema
+2017,E10351,E10.351,true,false,billable-to-header,Type 1 diabetes mellitus with proliferative diabetic retinopathy with macular edema
+2017,E10359,E10.359,true,false,billable-to-header,Type 1 diabetes mellitus with proliferative diabetic retinopathy without macular edema
+2017,E11321,E11.321,true,false,billable-to-header,Type 2 diabetes mellitus with mild nonproliferative diabetic retinopathy with macular edema
+2017,E11329,E11.329,true,false,billable-to-header,Type 2 diabetes mellitus with mild nonproliferative diabetic retinopathy without macular edema
+2017,E11331,E11.331,true,false,billable-to-header,Type 2 diabetes mellitus with moderate nonproliferative diabetic retinopathy with macular edema
+2017,E11339,E11.339,true,false,billable-to-header,Type 2 diabetes mellitus with moderate nonproliferative diabetic retinopathy without macular edema
+2017,E11341,E11.341,true,false,billable-to-header,Type 2 diabetes mellitus with severe nonproliferative diabetic retinopathy with macular edema
+2017,E11349,E11.349,true,false,billable-to-header,Type 2 diabetes mellitus with severe nonproliferative diabetic retinopathy without macular edema
+2017,E11351,E11.351,true,false,billable-to-header,Type 2 diabetes mellitus with proliferative diabetic retinopathy with macular edema
+2017,E11359,E11.359,true,false,billable-to-header,Type 2 diabetes mellitus with proliferative diabetic retinopathy without macular edema
+2017,E13321,E13.321,true,false,billable-to-header,Other specified diabetes mellitus with mild nonproliferative diabetic retinopathy with macular edema
+2017,E13329,E13.329,true,false,billable-to-header,Other specified diabetes mellitus with mild nonproliferative diabetic retinopathy without macular edema
+2017,E13331,E13.331,true,false,billable-to-header,Other specified diabetes mellitus with moderate nonproliferative diabetic retinopathy with macular edema
+2017,E13339,E13.339,true,false,billable-to-header,Other specified diabetes mellitus with moderate nonproliferative diabetic retinopathy without macular edema
+2017,E13341,E13.341,true,false,billable-to-header,Other specified diabetes mellitus with severe nonproliferative diabetic retinopathy with macular edema
+2017,E13349,E13.349,true,false,billable-to-header,Other specified diabetes mellitus with severe nonproliferative diabetic retinopathy without macular edema
+2017,E13351,E13.351,true,false,billable-to-header,Other specified diabetes mellitus with proliferative diabetic retinopathy with macular edema
+2017,E13359,E13.359,true,false,billable-to-header,Other specified diabetes mellitus with proliferative diabetic retinopathy without macular edema
+2017,E780,E78.0,true,false,billable-to-header,Pure hypercholesterolemia
+2017,F328,F32.8,true,false,billable-to-header,Other depressive episodes
+2017,F348,F34.8,true,false,billable-to-header,Other persistent mood [affective] disorders
+2017,F42,F42,true,false,billable-to-header,Obsessive-compulsive disorder
+2017,F508,F50.8,true,false,billable-to-header,Other eating disorders
+2017,H34811,H34.811,true,false,billable-to-header,"Central retinal vein occlusion, right eye"
+2017,H34812,H34.812,true,false,billable-to-header,"Central retinal vein occlusion, left eye"
+2017,H34813,H34.813,true,false,billable-to-header,"Central retinal vein occlusion, bilateral"
+2017,H34819,H34.819,true,false,billable-to-header,"Central retinal vein occlusion, unspecified eye"
+2017,H34831,H34.831,true,false,billable-to-header,"Tributary (branch) retinal vein occlusion, right eye"
+2017,H34832,H34.832,true,false,billable-to-header,"Tributary (branch) retinal vein occlusion, left eye"
+2017,H34833,H34.833,true,false,billable-to-header,"Tributary (branch) retinal vein occlusion, bilateral"
+2017,H34839,H34.839,true,false,billable-to-header,"Tributary (branch) retinal vein occlusion, unspecified eye"
+2017,H3531,H35.31,true,false,billable-to-header,Nonexudative age-related macular degeneration
+2017,H3532,H35.32,true,false,billable-to-header,Exudative age-related macular degeneration
+2017,I602,I60.2,false,true,header-to-billable,Nontraumatic subarachnoid hemorrhage from anterior communicating artery
+2017,I6901,I69.01,true,false,billable-to-header,Cognitive deficits following nontraumatic subarachnoid hemorrhage
+2017,I6911,I69.11,true,false,billable-to-header,Cognitive deficits following nontraumatic intracerebral hemorrhage
+2017,I6921,I69.21,true,false,billable-to-header,Cognitive deficits following other nontraumatic intracranial hemorrhage
+2017,I6931,I69.31,true,false,billable-to-header,Cognitive deficits following cerebral infarction
+2017,I6981,I69.81,true,false,billable-to-header,Cognitive deficits following other cerebrovascular disease
+2017,I6991,I69.91,true,false,billable-to-header,Cognitive deficits following unspecified cerebrovascular disease
+2017,I9762,I97.62,true,false,billable-to-header,"Postprocedural hemorrhage, hematoma and seroma of a circulatory system organ or structure following other procedure"
+2017,J985,J98.5,true,false,billable-to-header,"Diseases of mediastinum, not elsewhere classified"
+2017,K040,K04.0,true,false,billable-to-header,Pulpitis
+2017,K0521,K05.21,true,false,billable-to-header,"Aggressive periodontitis, localized"
+2017,K0522,K05.22,true,false,billable-to-header,"Aggressive periodontitis, generalized"
+2017,K0531,K05.31,true,false,billable-to-header,"Chronic periodontitis, localized"
+2017,K0532,K05.32,true,false,billable-to-header,"Chronic periodontitis, generalized"
+2017,K088,K08.8,true,false,billable-to-header,Other specified disorders of teeth and supporting structures
+2017,K522,K52.2,true,false,billable-to-header,Allergic and dietetic gastroenteritis and colitis
+2017,K550,K55.0,true,false,billable-to-header,Acute vascular disorders of intestine
+2017,K593,K59.3,true,false,billable-to-header,"Megacolon, not elsewhere classified"
+2017,K850,K85.0,true,false,billable-to-header,Idiopathic acute pancreatitis
+2017,K851,K85.1,true,false,billable-to-header,Biliary acute pancreatitis
+2017,K852,K85.2,true,false,billable-to-header,Alcohol induced acute pancreatitis
+2017,K853,K85.3,true,false,billable-to-header,Drug induced acute pancreatitis
+2017,K858,K85.8,true,false,billable-to-header,Other acute pancreatitis
+2017,K859,K85.9,true,false,billable-to-header,"Acute pancreatitis, unspecified"
+2017,K868,K86.8,true,false,billable-to-header,Other specified diseases of pancreas
+2017,K904,K90.4,true,false,billable-to-header,Other malabsorption due to intolerance
+2017,M2660,M26.60,true,false,billable-to-header,"Temporomandibular joint disorder, unspecified"
+2017,M2661,M26.61,true,false,billable-to-header,Adhesions and ankylosis of temporomandibular joint
+2017,M2662,M26.62,true,false,billable-to-header,Arthralgia of temporomandibular joint
+2017,M2663,M26.63,true,false,billable-to-header,Articular disc disorder of temporomandibular joint
+2017,M5002,M50.02,true,false,billable-to-header,"Cervical disc disorder with myelopathy, mid-cervical region"
+2017,M5012,M50.12,true,false,billable-to-header,"Cervical disc disorder with radiculopathy, mid-cervical region"
+2017,M5022,M50.22,true,false,billable-to-header,"Other cervical disc displacement, mid-cervical region"
+2017,M5032,M50.32,true,false,billable-to-header,"Other cervical disc degeneration, mid-cervical region"
+2017,M5082,M50.82,true,false,billable-to-header,"Other cervical disc disorders, mid-cervical region"
+2017,M5092,M50.92,true,false,billable-to-header,"Cervical disc disorder, unspecified, mid-cervical region"
+2017,N423,N42.3,true,false,billable-to-header,Dysplasia of prostate
+2017,N508,N50.8,true,false,billable-to-header,Other specified disorders of male genital organs
+2017,N61,N61,true,false,billable-to-header,Inflammatory disorders of breast
+2017,N830,N83.0,true,false,billable-to-header,Follicular cyst of ovary
+2017,N831,N83.1,true,false,billable-to-header,Corpus luteum cyst
+2017,N8320,N83.20,true,false,billable-to-header,Unspecified ovarian cysts
+2017,N8329,N83.29,true,false,billable-to-header,Other ovarian cysts
+2017,N8331,N83.31,true,false,billable-to-header,Acquired atrophy of ovary
+2017,N8332,N83.32,true,false,billable-to-header,Acquired atrophy of fallopian tube
+2017,N8333,N83.33,true,false,billable-to-header,Acquired atrophy of ovary and fallopian tube
+2017,N834,N83.4,true,false,billable-to-header,Prolapse and hernia of ovary and fallopian tube
+2017,N8351,N83.51,true,false,billable-to-header,Torsion of ovary and ovarian pedicle
+2017,N8352,N83.52,true,false,billable-to-header,Torsion of fallopian tube
+2017,N906,N90.6,true,false,billable-to-header,Hypertrophy of vulva
+2017,N941,N94.1,true,false,billable-to-header,Dyspareunia
+2017,O000,O00.0,true,false,billable-to-header,Abdominal pregnancy
+2017,O001,O00.1,true,false,billable-to-header,Tubal pregnancy
+2017,O002,O00.2,true,false,billable-to-header,Ovarian pregnancy
+2017,O008,O00.8,true,false,billable-to-header,Other ectopic pregnancy
+2017,O009,O00.9,true,false,billable-to-header,"Ectopic pregnancy, unspecified"
+2017,O337,O33.7,true,false,billable-to-header,Maternal care for disproportion due to other fetal deformities
+2017,O3421,O34.21,true,false,billable-to-header,Maternal care for scar from previous cesarean delivery
+2017,O702,O70.2,true,false,billable-to-header,Third degree perineal laceration during delivery
+2017,Q252,Q25.2,true,false,billable-to-header,Atresia of aorta
+2017,Q254,Q25.4,true,false,billable-to-header,Other congenital malformations of aorta
+2017,Q5212,Q52.12,true,false,billable-to-header,Longitudinal vaginal septum
+2017,Q662,Q66.2,true,false,billable-to-header,Congenital metatarsus (primus) varus
+2017,R312,R31.2,true,false,billable-to-header,Other microscopic hematuria
+2017,R3919,R39.19,true,false,billable-to-header,Other difficulties with micturition
+2017,R40241,R40.241,true,false,billable-to-header,Glasgow coma scale score 13-15
+2017,R40242,R40.242,true,false,billable-to-header,Glasgow coma scale score 9-12
+2017,R40243,R40.243,true,false,billable-to-header,Glasgow coma scale score 3-8
+2017,R40244,R40.244,true,false,billable-to-header,"Other coma, without documented Glasgow coma scale score, or with partial score reported"
+2017,R827,R82.7,true,false,billable-to-header,Abnormal findings on microbiological examination of urine
+2017,R934,R93.4,true,false,billable-to-header,Abnormal findings on diagnostic imaging of urinary organs
+2017,R972,R97.2,true,false,billable-to-header,Elevated prostate specific antigen [PSA]
+2017,Z9889,Z98.89,true,false,billable-to-header,Other specified postprocedural states
+2018,A047,A04.7,true,false,billable-to-header,Enterocolitis due to Clostridium difficile
+2018,C962,C96.2,true,false,billable-to-header,Malignant mast cell neoplasm
+2018,D470,D47.0,true,false,billable-to-header,Mast cell neoplasms of uncertain behavior
+2018,E858,E85.8,true,false,billable-to-header,Other amyloidosis
+2018,H540,H54.0,true,false,billable-to-header,"Blindness, both eyes"
+2018,H5411,H54.11,true,false,billable-to-header,"Blindness, right eye, low vision left eye"
+2018,H5412,H54.12,true,false,billable-to-header,"Blindness, left eye, low vision right eye"
+2018,H542,H54.2,true,false,billable-to-header,"Low vision, both eyes"
+2018,H5441,H54.41,true,false,billable-to-header,"Blindness, right eye, normal vision left eye"
+2018,H5442,H54.42,true,false,billable-to-header,"Blindness, left eye, normal vision right eye"
+2018,H5451,H54.51,true,false,billable-to-header,"Low vision, right eye, normal vision left eye"
+2018,H5452,H54.52,true,false,billable-to-header,"Low vision, left eye, normal vision right eye"
+2018,I272,I27.2,true,false,billable-to-header,Other secondary pulmonary hypertension
+2018,K060,K06.0,true,false,billable-to-header,Gingival recession
+2018,K565,K56.5,true,false,billable-to-header,Intestinal adhesions [bands] with obstruction (postinfection)
+2018,K5660,K56.60,true,false,billable-to-header,Unspecified intestinal obstruction
+2018,K5669,K56.69,true,false,billable-to-header,Other intestinal obstruction
+2018,K913,K91.3,true,false,billable-to-header,Postprocedural intestinal obstruction
+2018,M4806,M48.06,true,false,billable-to-header,"Spinal stenosis, lumbar region"
+2018,N63,N63,true,false,billable-to-header,Unspecified lump in breast
+2018,O0010,O00.10,true,false,billable-to-header,Tubal pregnancy without intrauterine pregnancy
+2018,O0011,O00.11,true,false,billable-to-header,Tubal pregnancy with intrauterine pregnancy
+2018,O0020,O00.20,true,false,billable-to-header,Ovarian pregnancy without intrauterine pregnancy
+2018,O0021,O00.21,true,false,billable-to-header,Ovarian pregnancy with intrauterine pregnancy
+2018,P293,P29.3,true,false,billable-to-header,Persistent fetal circulation
+2018,P838,P83.8,true,false,billable-to-header,Other specified conditions of integument specific to newborn
+2018,P918,P91.8,true,false,billable-to-header,Other specified disturbances of cerebral status of newborn
+2018,Q5311,Q53.11,true,false,billable-to-header,"Abdominal testis, unilateral"
+2018,Q5321,Q53.21,true,false,billable-to-header,"Abdominal testis, bilateral"
+2018,T07,T07,true,false,billable-to-header,Unspecified multiple injuries
+2018,T148,T14.8,true,false,billable-to-header,Other injury of unspecified body region
+2018,T1490,T14.90,true,false,billable-to-header,"Injury, unspecified"
+2018,T1491,T14.91,true,false,billable-to-header,Suicide attempt
+2018,Z36,Z36,true,false,billable-to-header,Encounter for antenatal screening of mother
+2019,C4311,C43.11,true,false,billable-to-header,"Malignant melanoma of right eyelid, including canthus"
+2019,C4312,C43.12,true,false,billable-to-header,"Malignant melanoma of left eyelid, including canthus"
+2019,C4A11,C4A.11,true,false,billable-to-header,"Merkel cell carcinoma of right eyelid, including canthus"
+2019,C4A12,C4A.12,true,false,billable-to-header,"Merkel cell carcinoma of left eyelid, including canthus"
+2019,C44102,C44.102,true,false,billable-to-header,"Unspecified malignant neoplasm of skin of right eyelid, including canthus"
+2019,C44109,C44.109,true,false,billable-to-header,"Unspecified malignant neoplasm of skin of left eyelid, including canthus"
+2019,C44112,C44.112,true,false,billable-to-header,"Basal cell carcinoma of skin of right eyelid, including canthus"
+2019,C44119,C44.119,true,false,billable-to-header,"Basal cell carcinoma of skin of left eyelid, including canthus"
+2019,C44122,C44.122,true,false,billable-to-header,"Squamous cell carcinoma of skin of right eyelid, including canthus"
+2019,C44129,C44.129,true,false,billable-to-header,"Squamous cell carcinoma of skin of left eyelid, including canthus"
+2019,C44192,C44.192,true,false,billable-to-header,"Other specified malignant neoplasm of skin of right eyelid, including canthus"
+2019,C44199,C44.199,true,false,billable-to-header,"Other specified malignant neoplasm of skin of left eyelid, including canthus"
+2019,D0311,D03.11,true,false,billable-to-header,"Melanoma in situ of right eyelid, including canthus"
+2019,D0312,D03.12,true,false,billable-to-header,"Melanoma in situ of left eyelid, including canthus"
+2019,D0411,D04.11,true,false,billable-to-header,"Carcinoma in situ of skin of right eyelid, including canthus"
+2019,D0412,D04.12,true,false,billable-to-header,"Carcinoma in situ of skin of left eyelid, including canthus"
+2019,D2211,D22.11,true,false,billable-to-header,"Melanocytic nevi of right eyelid, including canthus"
+2019,D2212,D22.12,true,false,billable-to-header,"Melanocytic nevi of left eyelid, including canthus"
+2019,D2311,D23.11,true,false,billable-to-header,"Other benign neoplasm of skin of right eyelid, including canthus"
+2019,D2312,D23.12,true,false,billable-to-header,"Other benign neoplasm of skin of left eyelid, including canthus"
+2019,E728,E72.8,true,false,billable-to-header,Other specified disorders of amino-acid metabolism
+2019,E784,E78.4,true,false,billable-to-header,Other hyperlipidemia
+2019,F53,F53,true,false,billable-to-header,"Mental and behavioral disorders associated with the puerperium, not elsewhere classified"
+2019,G513,G51.3,true,false,billable-to-header,Clonic hemifacial spasm
+2019,G710,G71.0,true,false,billable-to-header,Muscular dystrophy
+2019,H578,H57.8,true,false,billable-to-header,Other specified disorders of eye and adnexa
+2019,I638,I63.8,true,false,billable-to-header,Other cerebral infarction
+2019,K352,K35.2,true,false,billable-to-header,Acute appendicitis with generalized peritonitis
+2019,K353,K35.3,true,false,billable-to-header,Acute appendicitis with localized peritonitis
+2019,K3589,K35.89,true,false,billable-to-header,Other acute appendicitis
+2019,K613,K61.3,true,false,billable-to-header,Ischiorectal abscess
+2019,K830,K83.0,true,false,billable-to-header,Cholangitis
+2019,M791,M79.1,true,false,billable-to-header,Myalgia
+2019,N358,N35.8,true,false,billable-to-header,Other urethral stricture
+2019,N359,N35.9,true,false,billable-to-header,"Urethral stricture, unspecified"
+2019,O860,O86.0,true,false,billable-to-header,Infection of obstetric surgical wound
+2019,P027,P02.7,true,false,billable-to-header,Newborn affected by chorioamnionitis
+2019,P041,P04.1,true,false,billable-to-header,Newborn affected by other maternal medication
+2019,P048,P04.8,true,false,billable-to-header,Newborn affected by other maternal noxious substances
+2019,P742,P74.2,true,false,billable-to-header,Disturbances of sodium balance of newborn
+2019,P743,P74.3,true,false,billable-to-header,Disturbances of potassium balance of newborn
+2019,P744,P74.4,true,false,billable-to-header,Other transitory electrolyte disturbances of newborn
+2019,Q512,Q51.2,true,false,billable-to-header,Other doubling of uterus
+2019,Q935,Q93.5,true,false,billable-to-header,Other deletions of part of a chromosome
+2019,R8299,R82.99,true,false,billable-to-header,Other abnormal findings in urine
+2019,R938,R93.8,true,false,billable-to-header,Abnormal findings on diagnostic imaging of other specified body structures
+2019,Z048,Z04.8,true,false,billable-to-header,Encounter for examination and observation for other specified reasons
+2019,Z134,Z13.4,true,false,billable-to-header,Encounter for screening for certain developmental disorders in childhood
+2020,D813,D81.3,true,false,billable-to-header,Adenosine deaminase [ADA] deficiency
+2020,H814,H81.4,false,true,header-to-billable,Vertigo of central origin
+2020,I481,I48.1,true,false,billable-to-header,Persistent atrial fibrillation
+2020,I482,I48.2,true,false,billable-to-header,Chronic atrial fibrillation
+2020,Q660,Q66.0,true,false,billable-to-header,Congenital talipes equinovarus
+2020,Q661,Q66.1,true,false,billable-to-header,Congenital talipes calcaneovarus
+2020,Q6621,Q66.21,true,false,billable-to-header,Congenital metatarsus primus varus
+2020,Q6622,Q66.22,true,false,billable-to-header,Congenital metatarsus adductus
+2020,Q663,Q66.3,true,false,billable-to-header,Other congenital varus deformities of feet
+2020,Q664,Q66.4,true,false,billable-to-header,Congenital talipes calcaneovalgus
+2020,Q667,Q66.7,true,false,billable-to-header,Congenital pes cavus
+2020,Q669,Q66.9,true,false,billable-to-header,"Congenital deformity of feet, unspecified"
+2020,Q796,Q79.6,true,false,billable-to-header,Ehlers-Danlos syndromes
+2020,Q871,Q87.1,true,false,billable-to-header,Congenital malformation syndromes predominantly associated with short stature
+2020,R828,R82.8,true,false,billable-to-header,Abnormal findings on cytological and histological examination of urine
+2021,A848,A84.8,true,false,billable-to-header,Other tick-borne viral encephalitis
+2021,B600,B60.0,true,false,billable-to-header,Babesiosis
+2021,D591,D59.1,true,false,billable-to-header,Other autoimmune hemolytic anemias
+2021,D721,D72.1,true,false,billable-to-header,Eosinophilia
+2021,D848,D84.8,true,false,billable-to-header,Other specified immunodeficiencies
+2021,E708,E70.8,true,false,billable-to-header,Other disorders of aromatic amino-acid metabolism
+2021,E748,E74.8,true,false,billable-to-header,Other specified disorders of carbohydrate metabolism
+2021,G111,G11.1,true,false,billable-to-header,Early-onset cerebellar ataxia
+2021,G712,G71.2,true,false,billable-to-header,Congenital myopathies
+2021,G960,G96.0,true,false,billable-to-header,Cerebrospinal fluid leak
+2021,G9619,G96.19,true,false,billable-to-header,"Other disorders of meninges, not elsewhere classified"
+2021,G968,G96.8,true,false,billable-to-header,Other specified disorders of central nervous system
+2021,H1850,H18.50,true,false,billable-to-header,Unspecified hereditary corneal dystrophies
+2021,H1851,H18.51,true,false,billable-to-header,Endothelial corneal dystrophy
+2021,H1852,H18.52,true,false,billable-to-header,Epithelial (juvenile) corneal dystrophy
+2021,H1853,H18.53,true,false,billable-to-header,Granular corneal dystrophy
+2021,H1854,H18.54,true,false,billable-to-header,Lattice corneal dystrophy
+2021,H1855,H18.55,true,false,billable-to-header,Macular corneal dystrophy
+2021,H1859,H18.59,true,false,billable-to-header,Other hereditary corneal dystrophies
+2021,J82,J82,true,false,billable-to-header,"Pulmonary eosinophilia, not elsewhere classified"
+2021,J8417,J84.17,true,false,billable-to-header,Other interstitial pulmonary diseases with fibrosis in diseases classified elsewhere
+2021,K208,K20.8,true,false,billable-to-header,Other esophagitis
+2021,K209,K20.9,true,false,billable-to-header,"Esophagitis, unspecified"
+2021,K210,K21.0,true,false,billable-to-header,Gastro-esophageal reflux disease with esophagitis
+2021,K598,K59.8,true,false,billable-to-header,Other specified functional intestinal disorders
+2021,K740,K74.0,true,false,billable-to-header,Hepatic fibrosis
+2021,M9250,M92.50,true,false,billable-to-header,Unspecified juvenile osteochondrosis of tibia and fibula
+2021,M9251,M92.51,true,false,billable-to-header,Juvenile osteochondrosis of proximal tibia
+2021,M9252,M92.52,true,false,billable-to-header,Juvenile osteochondrosis of tibia tubercle
+2021,N183,N18.3,true,false,billable-to-header,"Chronic kidney disease, stage 3 (moderate)"
+2021,O9989,O99.89,true,false,billable-to-header,"Other specified diseases and conditions complicating pregnancy, childbirth and the puerperium"
+2021,R51,R51,true,false,billable-to-header,Headache
+2021,R740,R74.0,true,false,billable-to-header,Nonspecific elevation of levels of transaminase and lactic acid dehydrogenase [LDH]
+2021,T86840,T86.840,true,false,billable-to-header,Corneal transplant rejection
+2021,T86841,T86.841,true,false,billable-to-header,Corneal transplant failure
+2021,T86842,T86.842,true,false,billable-to-header,Corneal transplant infection
+2021,T86848,T86.848,true,false,billable-to-header,Other complications of corneal transplant
+2021,T86849,T86.849,true,false,billable-to-header,Unspecified complication of corneal transplant
+2021,Y771,Y77.1,true,false,billable-to-header,Therapeutic (nonsurgical) and rehabilitative ophthalmic devices associated with adverse incidents
+2022,D552,D55.2,true,false,billable-to-header,Anemia due to disorders of glycolytic enzymes
+2022,F78,F78,true,false,billable-to-header,Other intellectual disabilities
+2022,G92,G92,true,false,billable-to-header,Toxic encephalopathy
+2022,K228,K22.8,true,false,billable-to-header,Other specified diseases of esophagus
+2022,M311,M31.1,true,false,billable-to-header,Thrombotic microangiopathy
+2022,M358,M35.8,true,false,billable-to-header,Other specified systemic involvement of connective tissue
+2022,M545,M54.5,true,false,billable-to-header,Low back pain
+2022,P09,P09,true,false,billable-to-header,Abnormal findings on neonatal screening
+2022,R05,R05,true,false,billable-to-header,Cough
+2022,R358,R35.8,true,false,billable-to-header,Other polyuria
+2022,R633,R63.3,true,false,billable-to-header,Feeding difficulties
+2022,Z283,Z28.3,true,false,billable-to-header,Underimmunization status
+2022,Z590,Z59.0,true,false,billable-to-header,Homelessness
+2022,Z594,Z59.4,true,false,billable-to-header,Lack of adequate food
+2022,Z598,Z59.8,true,false,billable-to-header,Other problems related to housing and economic circumstances
+2022,Z915,Z91.5,true,false,billable-to-header,Personal history of self-harm
+2023,B373,B37.3,true,false,billable-to-header,Candidiasis of vulva and vagina
+2023,D593,D59.3,true,false,billable-to-header,Hemolytic-uremic syndrome
+2023,D680,D68.0,true,false,billable-to-header,Von Willebrand disease
+2023,D7582,D75.82,true,false,billable-to-header,Heparin induced thrombocytopenia (HIT)
+2023,E343,E34.3,true,false,billable-to-header,Short stature due to endocrine disorder
+2023,E872,E87.2,true,false,billable-to-header,Acidosis
+2023,F0151,F01.51,true,false,billable-to-header,"Vascular dementia, unspecified severity, with behavioral disturbance"
+2023,F0281,F02.81,true,false,billable-to-header,"Dementia in other diseases classified elsewhere, unspecified severity, with behavioral disturbance"
+2023,F0391,F03.91,true,false,billable-to-header,"Unspecified dementia, unspecified severity, with behavioral disturbance"
+2023,F438,F43.8,true,false,billable-to-header,Other reactions to severe stress
+2023,G933,G93.3,true,false,billable-to-header,Postviral and related fatigue syndromes
+2023,I313,I31.3,true,false,billable-to-header,Pericardial effusion (noninflammatory)
+2023,I348,I34.8,true,false,billable-to-header,Other nonrheumatic mitral valve disorders
+2023,I472,I47.2,true,false,billable-to-header,Ventricular tachycardia
+2023,I7101,I71.01,true,false,billable-to-header,Dissection of thoracic aorta
+2023,I711,I71.1,true,false,billable-to-header,"Thoracic aortic aneurysm, ruptured"
+2023,I712,I71.2,true,false,billable-to-header,"Thoracic aortic aneurysm, without rupture"
+2023,I713,I71.3,true,false,billable-to-header,"Abdominal aortic aneurysm, ruptured"
+2023,I714,I71.4,true,false,billable-to-header,"Abdominal aortic aneurysm, without rupture"
+2023,I715,I71.5,true,false,billable-to-header,"Thoracoabdominal aortic aneurysm, ruptured"
+2023,I716,I71.6,true,false,billable-to-header,"Thoracoabdominal aortic aneurysm, without rupture"
+2023,N141,N14.1,true,false,billable-to-header,"Nephropathy induced by other drugs, medicaments and biological substances"
+2023,N800,N80.0,true,false,billable-to-header,Endometriosis of uterus
+2023,N801,N80.1,true,false,billable-to-header,Endometriosis of ovary
+2023,N802,N80.2,true,false,billable-to-header,Endometriosis of fallopian tube
+2023,N803,N80.3,true,false,billable-to-header,Endometriosis of pelvic peritoneum
+2023,N804,N80.4,true,false,billable-to-header,Endometriosis of rectovaginal septum and vagina
+2023,N805,N80.5,true,false,billable-to-header,Endometriosis of intestine
+2023,P283,P28.3,true,false,billable-to-header,Primary sleep apnea of newborn
+2023,P284,P28.4,true,false,billable-to-header,Other apnea of newborn
+2023,Q211,Q21.1,true,false,billable-to-header,Atrial septal defect
+2023,Q212,Q21.2,true,false,billable-to-header,Atrioventricular septal defect
+2023,Q858,Q85.8,true,false,billable-to-header,"Other phakomatoses, not elsewhere classified"
+2023,Z8776,Z87.76,true,false,billable-to-header,"Personal history of (corrected) congenital malformations of integument, limbs and musculoskeletal system"
+2023,Z9111,Z91.11,true,false,billable-to-header,Patient's noncompliance with dietary regimen
+2023,Z9119,Z91.19,true,false,billable-to-header,Patient's noncompliance with other medical treatment and regimen
+2024,D139,D13.9,true,false,billable-to-header,Benign neoplasm of ill-defined sites within the digestive system
+2024,D481,D48.1,true,false,billable-to-header,Neoplasm of uncertain behavior of connective and other soft tissue
+2024,E208,E20.8,true,false,billable-to-header,Other hypoparathyroidism
+2024,E798,E79.8,true,false,billable-to-header,Other disorders of purine and pyrimidine metabolism
+2024,E8881,E88.81,true,false,billable-to-header,Metabolic syndrome and other insulin resistance
+2024,G20,G20,true,false,billable-to-header,Parkinson's disease
+2024,G378,G37.8,true,false,billable-to-header,Other specified demyelinating diseases of central nervous system
+2024,H36,H36,true,false,billable-to-header,Retinal disorders in diseases classified elsewhere
+2024,I208,I20.8,true,false,billable-to-header,Other forms of angina pectoris
+2024,I248,I24.8,true,false,billable-to-header,Other forms of acute ischemic heart disease
+2024,I471,I47.1,true,false,billable-to-header,Supraventricular tachycardia
+2024,J156,J15.6,true,false,billable-to-header,Pneumonia due to other Gram-negative bacteria
+2024,K3520,K35.20,true,false,billable-to-header,"Acute appendicitis with generalized peritonitis, without abscess"
+2024,K3521,K35.21,true,false,billable-to-header,"Acute appendicitis with generalized peritonitis, with abscess"
+2024,N042,N04.2,true,false,billable-to-header,Nephrotic syndrome with diffuse membranous glomerulonephritis
+2024,N062,N06.2,true,false,billable-to-header,Isolated proteinuria with diffuse membranous glomerulonephritis
+2024,O904,O90.4,true,false,billable-to-header,Postpartum acute kidney failure
+2024,Q447,Q44.7,true,false,billable-to-header,Other congenital malformations of liver
+2024,Q750,Q75.0,true,false,billable-to-header,Craniosynostosis
+2024,Y0701,Y07.01,true,false,billable-to-header,"Husband, perpetrator of maltreatment and neglect"
+2024,Y0702,Y07.02,true,false,billable-to-header,"Wife, perpetrator of maltreatment and neglect"
+2024,Y0703,Y07.03,true,false,billable-to-header,"Male partner, perpetrator of maltreatment and neglect"
+2024,Y0704,Y07.04,true,false,billable-to-header,"Female partner, perpetrator of maltreatment and neglect"
+2024,Z058,Z05.8,true,false,billable-to-header,Observation and evaluation of newborn for other specified suspected condition ruled out
+2024,Z298,Z29.8,true,false,billable-to-header,Encounter for other specified prophylactic measures
+2024,Z591,Z59.1,true,false,billable-to-header,Inadequate housing
+2024,Z8371,Z83.71,true,false,billable-to-header,Family history of colonic polyps
+2024,Z9114,Z91.14,true,false,billable-to-header,Patient's other noncompliance with medication regimen
+2024,Z9115,Z91.15,true,false,billable-to-header,Patient's noncompliance with renal dialysis
+2024,Z91A4,Z91.A4,true,false,billable-to-header,Caregiver's other noncompliance with patient's medication regimen
+2024,Z91A5,Z91.A5,true,false,billable-to-header,Caregiver's noncompliance with patient's renal dialysis
+2024,Z91A9,Z91.A9,true,false,billable-to-header,Caregiver's noncompliance with patient's other medical treatment and regimen
+2025,C8339,C83.39,true,false,billable-to-header,"Diffuse large B-cell lymphoma, extranodal and solid organ sites"
+2025,C860,C86.0,true,false,billable-to-header,"Extranodal NK/T-cell lymphoma, nasal type"
+2025,C861,C86.1,true,false,billable-to-header,Hepatosplenic T-cell lymphoma
+2025,C862,C86.2,true,false,billable-to-header,Enteropathy-type (intestinal) T-cell lymphoma
+2025,C863,C86.3,true,false,billable-to-header,Subcutaneous panniculitis-like T-cell lymphoma
+2025,C864,C86.4,true,false,billable-to-header,Blastic NK-cell lymphoma
+2025,C865,C86.5,true,false,billable-to-header,Angioimmunoblastic T-cell lymphoma
+2025,C866,C86.6,true,false,billable-to-header,Primary cutaneous CD30-positive T-cell proliferations
+2025,C880,C88.0,true,false,billable-to-header,Waldenstrom macroglobulinemia
+2025,C882,C88.2,true,false,billable-to-header,Heavy chain disease
+2025,C883,C88.3,true,false,billable-to-header,Immunoproliferative small intestinal disease
+2025,C884,C88.4,true,false,billable-to-header,Extranodal marginal zone B-cell lymphoma of mucosa-associated lymphoid tissue [MALT-lymphoma]
+2025,C888,C88.8,true,false,billable-to-header,Other malignant immunoproliferative diseases
+2025,C889,C88.9,true,false,billable-to-header,"Malignant immunoproliferative disease, unspecified"
+2025,E340,E34.0,true,false,billable-to-header,Carcinoid syndrome
+2025,E668,E66.8,true,false,billable-to-header,Other obesity
+2025,F5001,F50.01,true,false,billable-to-header,"Anorexia nervosa, restricting type"
+2025,F5002,F50.02,true,false,billable-to-header,"Anorexia nervosa, binge eating/purging type"
+2025,F502,F50.2,true,false,billable-to-header,Bulimia nervosa
+2025,F5081,F50.81,true,false,billable-to-header,Binge eating disorder
+2025,G908,G90.8,true,false,billable-to-header,Other disorders of autonomic nervous system
+2025,K603,K60.3,true,false,billable-to-header,Anal fistula
+2025,K604,K60.4,true,false,billable-to-header,Rectal fistula
+2025,K605,K60.5,true,false,billable-to-header,Anorectal fistula
+2025,L298,L29.8,true,false,billable-to-header,Other pruritus
+2025,L661,L66.1,true,false,billable-to-header,Lichen planopilaris
+2025,L668,L66.8,true,false,billable-to-header,Other cicatricial alopecia
+2025,M5136,M51.36,true,false,billable-to-header,"Other intervertebral disc degeneration, lumbar region"
+2025,M5137,M51.37,true,false,billable-to-header,"Other intervertebral disc degeneration, lumbosacral region"
+2025,M659,M65.9,true,false,billable-to-header,"Synovitis and tenosynovitis, unspecified"
+2025,Q238,Q23.8,true,false,billable-to-header,Other congenital malformations of aortic and mitral valves
+2025,Z597,Z59.7,true,false,billable-to-header,Insufficient social insurance and welfare support
+2025,Z86010,Z86.010,true,false,billable-to-header,Personal history of colon polyps
+2026,B880,B88.0,true,false,billable-to-header,Other acariasis
+2026,D71,D71,true,false,billable-to-header,Functional disorders of polymorphonuclear neutrophils
+2026,E7253,E72.53,true,false,billable-to-header,Primary hyperoxaluria
+2026,E7801,E78.01,true,false,billable-to-header,Familial hypercholesterolemia
+2026,E881,E88.1,true,false,billable-to-header,"Lipodystrophy, not elsewhere classified"
+2026,G35,G35,true,false,billable-to-header,Multiple sclerosis
+2026,H018,H01.8,true,false,billable-to-header,Other specified inflammations of eyelid
+2026,Q898,Q89.8,true,false,billable-to-header,Other specified congenital malformations
+2026,Q998,Q99.8,true,false,billable-to-header,Other specified chromosome abnormalities
+2026,R102,R10.2,true,false,billable-to-header,Pelvic and perineal pain
+2026,R768,R76.8,true,false,billable-to-header,Other specified abnormal immunological findings in serum
+2026,Z408,Z40.8,true,false,billable-to-header,Encounter for other prophylactic surgery
+2026,Z5986,Z59.86,true,false,billable-to-header,Financial insecurity
+2026,Z841,Z84.1,true,false,billable-to-header,Family history of disorders of kidney and ureter
+2026,Z91011,Z91.011,true,false,billable-to-header,Allergy to milk products
+2026,Z91012,Z91.012,true,false,billable-to-header,Allergy to eggs
+2027,D691,D69.1,true,false,billable-to-header,Qualitative platelet defects
+2027,I420,I42.0,true,false,billable-to-header,Dilated cardiomyopathy
+2027,I428,I42.8,true,false,billable-to-header,Other cardiomyopathies
+2027,I498,I49.8,true,false,billable-to-header,Other specified cardiac arrhythmias
+2027,M722,M72.2,true,false,billable-to-header,Plantar fascial fibromatosis
+2027,M868X1,M86.8X1,true,false,billable-to-header,"Other osteomyelitis, shoulder"
+2027,M868X2,M86.8X2,true,false,billable-to-header,"Other osteomyelitis, upper arm"
+2027,M868X3,M86.8X3,true,false,billable-to-header,"Other osteomyelitis, forearm"
+2027,M868X4,M86.8X4,true,false,billable-to-header,"Other osteomyelitis, hand"
+2027,M868X5,M86.8X5,true,false,billable-to-header,"Other osteomyelitis, thigh"
+2027,M868X6,M86.8X6,true,false,billable-to-header,"Other osteomyelitis, lower leg"
+2027,M868X7,M86.8X7,true,false,billable-to-header,"Other osteomyelitis, ankle and foot"
+2027,M868X8,M86.8X8,true,false,billable-to-header,"Other osteomyelitis, other site"
+2027,Z681,Z68.1,true,false,billable-to-header,"Body mass index [BMI] 19.9 or less, adult"
+2027,Z87890,Z87.890,true,false,billable-to-header,Personal history of sex reassignment

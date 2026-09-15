@@ -24,6 +24,26 @@
       "rows": 15
     },
     {
+      "path": "icd10cm/annual-changes/added.csv",
+      "rows": 7348
+    },
+    {
+      "path": "icd10cm/annual-changes/deleted.csv",
+      "rows": 682
+    },
+    {
+      "path": "icd10cm/annual-changes/revised.csv",
+      "rows": 1265
+    },
+    {
+      "path": "icd10cm/annual-changes/billable-status-changes.csv",
+      "rows": 413
+    },
+    {
+      "path": "icd10cm/annual-changes/summary.csv",
+      "rows": 11
+    },
+    {
       "path": "icd10cm/code-lifespans/icd10cm-code-lifespans-fy2016-fy2027.csv",
       "rows": 99085
     },

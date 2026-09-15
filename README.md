@@ -16,6 +16,7 @@ not required.
 |---|---|---|---|
 | Code counts by fiscal year | `icd10cm/code-counts/icd10cm-code-counts-fy2016-fy2027.{csv,json}` | 12 | How many ICD-10-CM codes exist each year, how many are valid for reporting, how many were added and removed |
 | FY2027 change lists | `icd10cm/fy2027-changes/{added,deleted,revised,billable-status-changes}.{csv,json}`, `summary.json` | 238 / 21 / 4 / 15 | Exactly which codes changed between the FY2026 and FY2027 order files |
+| Annual change lists | `icd10cm/annual-changes/{added,deleted,revised,billable-status-changes}.{csv,json}`, `summary.csv/json` | 7,348 / 682 / 1,265 / 413 | The FY2027-changes diff run for every fiscal-year pair from FY2017 to FY2027, tagged by fiscal year, so one file covers eleven years of additions, deletions, revisions and billable-status flips instead of one |
 | Code lifespans | `icd10cm/code-lifespans/icd10cm-code-lifespans-fy2016-fy2027.{csv,json}` | 99,085 | For every code that has ever appeared: the fiscal year it arrived, the year it last appeared, the years it was valid for submission, and whether it still is |
 | Retired codes | `icd10cm/code-lifespans/retired-codes.{csv,json}` | 1,030 | The codes that were once reportable and are not now, split into deleted from the file and converted into non-billable parents |
 | Excludes1 notes | `icd10cm/excludes-notes/fy2027-excludes1.{csv,json}` | 5,411 | Every Excludes1 note line in the FY2027 tabular, with the codes it references parsed out |
