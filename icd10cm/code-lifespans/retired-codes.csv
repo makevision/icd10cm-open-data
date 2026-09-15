@@ -1,0 +1,1031 @@
+code,codeDotted,category,firstFy,lastFy,fiscalYearsPresent,hasGap,firstBillableFy,lastBillableFy,status,titleVersions,longTitle
+A047,A04.7,A04,2016,2027,12,false,2016,2017,header,1,Enterocolitis due to Clostridium difficile
+A848,A84.8,A84,2016,2027,12,false,2016,2020,header,1,Other tick-borne viral encephalitis
+B373,B37.3,B37,2016,2027,12,false,2016,2022,header,1,Candidiasis of vulva and vagina
+B600,B60.0,B60,2016,2027,12,false,2016,2020,header,1,Babesiosis
+B880,B88.0,B88,2016,2027,12,false,2016,2025,header,1,Other acariasis
+C4311,C43.11,C43,2016,2027,12,false,2016,2018,header,1,"Malignant melanoma of right eyelid, including canthus"
+C4312,C43.12,C43,2016,2027,12,false,2016,2018,header,1,"Malignant melanoma of left eyelid, including canthus"
+C44102,C44.102,C44,2016,2027,12,false,2016,2018,header,1,"Unspecified malignant neoplasm of skin of right eyelid, including canthus"
+C44109,C44.109,C44,2016,2027,12,false,2016,2018,header,1,"Unspecified malignant neoplasm of skin of left eyelid, including canthus"
+C44112,C44.112,C44,2016,2027,12,false,2016,2018,header,1,"Basal cell carcinoma of skin of right eyelid, including canthus"
+C44119,C44.119,C44,2016,2027,12,false,2016,2018,header,1,"Basal cell carcinoma of skin of left eyelid, including canthus"
+C44122,C44.122,C44,2016,2027,12,false,2016,2018,header,1,"Squamous cell carcinoma of skin of right eyelid, including canthus"
+C44129,C44.129,C44,2016,2027,12,false,2016,2018,header,1,"Squamous cell carcinoma of skin of left eyelid, including canthus"
+C44192,C44.192,C44,2016,2027,12,false,2016,2018,header,1,"Other specified malignant neoplasm of skin of right eyelid, including canthus"
+C44199,C44.199,C44,2016,2027,12,false,2016,2018,header,1,"Other specified malignant neoplasm of skin of left eyelid, including canthus"
+C4A11,C4A.11,C4A,2016,2027,12,false,2016,2018,header,1,"Merkel cell carcinoma of right eyelid, including canthus"
+C4A12,C4A.12,C4A,2016,2027,12,false,2016,2018,header,1,"Merkel cell carcinoma of left eyelid, including canthus"
+C8339,C83.39,C83,2016,2027,12,false,2016,2024,header,1,"Diffuse large B-cell lymphoma, extranodal and solid organ sites"
+C860,C86.0,C86,2016,2027,12,false,2016,2024,header,1,"Extranodal NK/T-cell lymphoma, nasal type"
+C861,C86.1,C86,2016,2027,12,false,2016,2024,header,1,Hepatosplenic T-cell lymphoma
+C862,C86.2,C86,2016,2027,12,false,2016,2024,header,1,Enteropathy-type (intestinal) T-cell lymphoma
+C863,C86.3,C86,2016,2027,12,false,2016,2024,header,1,Subcutaneous panniculitis-like T-cell lymphoma
+C864,C86.4,C86,2016,2027,12,false,2016,2024,header,1,Blastic NK-cell lymphoma
+C865,C86.5,C86,2016,2027,12,false,2016,2024,header,1,Angioimmunoblastic T-cell lymphoma
+C866,C86.6,C86,2016,2027,12,false,2016,2024,header,1,Primary cutaneous CD30-positive T-cell proliferations
+C880,C88.0,C88,2016,2027,12,false,2016,2024,header,1,Waldenstrom macroglobulinemia
+C882,C88.2,C88,2016,2027,12,false,2016,2024,header,1,Heavy chain disease
+C883,C88.3,C88,2016,2027,12,false,2016,2024,header,1,Immunoproliferative small intestinal disease
+C884,C88.4,C88,2016,2027,12,false,2016,2024,header,1,Extranodal marginal zone B-cell lymphoma of mucosa-associated lymphoid tissue [MALT-lymphoma]
+C888,C88.8,C88,2016,2027,12,false,2016,2024,header,1,Other malignant immunoproliferative diseases
+C889,C88.9,C88,2016,2027,12,false,2016,2024,header,1,"Malignant immunoproliferative disease, unspecified"
+C962,C96.2,C96,2016,2027,12,false,2016,2017,header,2,Malignant mast cell neoplasm
+D0311,D03.11,D03,2016,2027,12,false,2016,2018,header,1,"Melanoma in situ of right eyelid, including canthus"
+D0312,D03.12,D03,2016,2027,12,false,2016,2018,header,1,"Melanoma in situ of left eyelid, including canthus"
+D0411,D04.11,D04,2016,2027,12,false,2016,2018,header,1,"Carcinoma in situ of skin of right eyelid, including canthus"
+D0412,D04.12,D04,2016,2027,12,false,2016,2018,header,1,"Carcinoma in situ of skin of left eyelid, including canthus"
+D139,D13.9,D13,2016,2027,12,false,2016,2023,header,1,Benign neoplasm of ill-defined sites within the digestive system
+D2211,D22.11,D22,2016,2027,12,false,2016,2018,header,1,"Melanocytic nevi of right eyelid, including canthus"
+D2212,D22.12,D22,2016,2027,12,false,2016,2018,header,1,"Melanocytic nevi of left eyelid, including canthus"
+D2311,D23.11,D23,2016,2027,12,false,2016,2018,header,1,"Other benign neoplasm of skin of right eyelid, including canthus"
+D2312,D23.12,D23,2016,2027,12,false,2016,2018,header,1,"Other benign neoplasm of skin of left eyelid, including canthus"
+D470,D47.0,D47,2016,2027,12,false,2016,2017,header,2,Mast cell neoplasms of uncertain behavior
+D481,D48.1,D48,2016,2027,12,false,2016,2023,header,1,Neoplasm of uncertain behavior of connective and other soft tissue
+D495,D49.5,D49,2016,2027,12,false,2016,2016,header,1,Neoplasm of unspecified behavior of other genitourinary organs
+D552,D55.2,D55,2016,2027,12,false,2016,2021,header,1,Anemia due to disorders of glycolytic enzymes
+D591,D59.1,D59,2016,2027,12,false,2016,2020,header,1,Other autoimmune hemolytic anemias
+D593,D59.3,D59,2016,2027,12,false,2016,2022,header,1,Hemolytic-uremic syndrome
+D680,D68.0,D68,2016,2027,12,false,2016,2022,header,2,Von Willebrand disease
+D691,D69.1,D69,2016,2027,12,false,2016,2026,header,1,Qualitative platelet defects
+D71,D71,D71,2016,2027,12,false,2016,2025,header,1,Functional disorders of polymorphonuclear neutrophils
+D721,D72.1,D72,2016,2027,12,false,2016,2020,header,1,Eosinophilia
+D7582,D75.82,D75,2016,2027,12,false,2016,2022,header,1,Heparin induced thrombocytopenia (HIT)
+D813,D81.3,D81,2016,2027,12,false,2016,2019,header,1,Adenosine deaminase [ADA] deficiency
+D848,D84.8,D84,2016,2027,12,false,2016,2020,header,1,Other specified immunodeficiencies
+E08321,E08.321,E08,2016,2027,12,false,2016,2016,header,1,Diabetes mellitus due to underlying condition with mild nonproliferative diabetic retinopathy with macular edema
+E08329,E08.329,E08,2016,2027,12,false,2016,2016,header,1,Diabetes mellitus due to underlying condition with mild nonproliferative diabetic retinopathy without macular edema
+E08331,E08.331,E08,2016,2027,12,false,2016,2016,header,1,Diabetes mellitus due to underlying condition with moderate nonproliferative diabetic retinopathy with macular edema
+E08339,E08.339,E08,2016,2027,12,false,2016,2016,header,1,Diabetes mellitus due to underlying condition with moderate nonproliferative diabetic retinopathy without macular edema
+E08341,E08.341,E08,2016,2027,12,false,2016,2016,header,1,Diabetes mellitus due to underlying condition with severe nonproliferative diabetic retinopathy with macular edema
+E08349,E08.349,E08,2016,2027,12,false,2016,2016,header,1,Diabetes mellitus due to underlying condition with severe nonproliferative diabetic retinopathy without macular edema
+E08351,E08.351,E08,2016,2027,12,false,2016,2016,header,1,Diabetes mellitus due to underlying condition with proliferative diabetic retinopathy with macular edema
+E08359,E08.359,E08,2016,2027,12,false,2016,2016,header,1,Diabetes mellitus due to underlying condition with proliferative diabetic retinopathy without macular edema
+E09321,E09.321,E09,2016,2027,12,false,2016,2016,header,1,Drug or chemical induced diabetes mellitus with mild nonproliferative diabetic retinopathy with macular edema
+E09329,E09.329,E09,2016,2027,12,false,2016,2016,header,1,Drug or chemical induced diabetes mellitus with mild nonproliferative diabetic retinopathy without macular edema
+E09331,E09.331,E09,2016,2027,12,false,2016,2016,header,1,Drug or chemical induced diabetes mellitus with moderate nonproliferative diabetic retinopathy with macular edema
+E09339,E09.339,E09,2016,2027,12,false,2016,2016,header,1,Drug or chemical induced diabetes mellitus with moderate nonproliferative diabetic retinopathy without macular edema
+E09341,E09.341,E09,2016,2027,12,false,2016,2016,header,1,Drug or chemical induced diabetes mellitus with severe nonproliferative diabetic retinopathy with macular edema
+E09349,E09.349,E09,2016,2027,12,false,2016,2016,header,1,Drug or chemical induced diabetes mellitus with severe nonproliferative diabetic retinopathy without macular edema
+E09351,E09.351,E09,2016,2027,12,false,2016,2016,header,1,Drug or chemical induced diabetes mellitus with proliferative diabetic retinopathy with macular edema
+E09359,E09.359,E09,2016,2027,12,false,2016,2016,header,1,Drug or chemical induced diabetes mellitus with proliferative diabetic retinopathy without macular edema
+E10321,E10.321,E10,2016,2027,12,false,2016,2016,header,1,Type 1 diabetes mellitus with mild nonproliferative diabetic retinopathy with macular edema
+E10329,E10.329,E10,2016,2027,12,false,2016,2016,header,1,Type 1 diabetes mellitus with mild nonproliferative diabetic retinopathy without macular edema
+E10331,E10.331,E10,2016,2027,12,false,2016,2016,header,1,Type 1 diabetes mellitus with moderate nonproliferative diabetic retinopathy with macular edema
+E10339,E10.339,E10,2016,2027,12,false,2016,2016,header,1,Type 1 diabetes mellitus with moderate nonproliferative diabetic retinopathy without macular edema
+E10341,E10.341,E10,2016,2027,12,false,2016,2016,header,1,Type 1 diabetes mellitus with severe nonproliferative diabetic retinopathy with macular edema
+E10349,E10.349,E10,2016,2027,12,false,2016,2016,header,1,Type 1 diabetes mellitus with severe nonproliferative diabetic retinopathy without macular edema
+E10351,E10.351,E10,2016,2027,12,false,2016,2016,header,1,Type 1 diabetes mellitus with proliferative diabetic retinopathy with macular edema
+E10359,E10.359,E10,2016,2027,12,false,2016,2016,header,1,Type 1 diabetes mellitus with proliferative diabetic retinopathy without macular edema
+E11321,E11.321,E11,2016,2027,12,false,2016,2016,header,1,Type 2 diabetes mellitus with mild nonproliferative diabetic retinopathy with macular edema
+E11329,E11.329,E11,2016,2027,12,false,2016,2016,header,1,Type 2 diabetes mellitus with mild nonproliferative diabetic retinopathy without macular edema
+E11331,E11.331,E11,2016,2027,12,false,2016,2016,header,1,Type 2 diabetes mellitus with moderate nonproliferative diabetic retinopathy with macular edema
+E11339,E11.339,E11,2016,2027,12,false,2016,2016,header,1,Type 2 diabetes mellitus with moderate nonproliferative diabetic retinopathy without macular edema
+E11341,E11.341,E11,2016,2027,12,false,2016,2016,header,1,Type 2 diabetes mellitus with severe nonproliferative diabetic retinopathy with macular edema
+E11349,E11.349,E11,2016,2027,12,false,2016,2016,header,1,Type 2 diabetes mellitus with severe nonproliferative diabetic retinopathy without macular edema
+E11351,E11.351,E11,2016,2027,12,false,2016,2016,header,1,Type 2 diabetes mellitus with proliferative diabetic retinopathy with macular edema
+E11359,E11.359,E11,2016,2027,12,false,2016,2016,header,1,Type 2 diabetes mellitus with proliferative diabetic retinopathy without macular edema
+E13321,E13.321,E13,2016,2027,12,false,2016,2016,header,1,Other specified diabetes mellitus with mild nonproliferative diabetic retinopathy with macular edema
+E13329,E13.329,E13,2016,2027,12,false,2016,2016,header,1,Other specified diabetes mellitus with mild nonproliferative diabetic retinopathy without macular edema
+E13331,E13.331,E13,2016,2027,12,false,2016,2016,header,1,Other specified diabetes mellitus with moderate nonproliferative diabetic retinopathy with macular edema
+E13339,E13.339,E13,2016,2027,12,false,2016,2016,header,1,Other specified diabetes mellitus with moderate nonproliferative diabetic retinopathy without macular edema
+E13341,E13.341,E13,2016,2027,12,false,2016,2016,header,1,Other specified diabetes mellitus with severe nonproliferative diabetic retinopathy with macular edema
+E13349,E13.349,E13,2016,2027,12,false,2016,2016,header,1,Other specified diabetes mellitus with severe nonproliferative diabetic retinopathy without macular edema
+E13351,E13.351,E13,2016,2027,12,false,2016,2016,header,1,Other specified diabetes mellitus with proliferative diabetic retinopathy with macular edema
+E13359,E13.359,E13,2016,2027,12,false,2016,2016,header,1,Other specified diabetes mellitus with proliferative diabetic retinopathy without macular edema
+E208,E20.8,E20,2016,2027,12,false,2016,2023,header,1,Other hypoparathyroidism
+E340,E34.0,E34,2016,2027,12,false,2016,2024,header,1,Carcinoid syndrome
+E343,E34.3,E34,2016,2027,12,false,2016,2022,header,1,Short stature due to endocrine disorder
+E668,E66.8,E66,2016,2027,12,false,2016,2024,header,1,Other obesity
+E708,E70.8,E70,2016,2027,12,false,2016,2020,header,1,Other disorders of aromatic amino-acid metabolism
+E7253,E72.53,E72,2016,2027,12,false,2016,2025,header,2,Primary hyperoxaluria
+E728,E72.8,E72,2016,2027,12,false,2016,2018,header,1,Other specified disorders of amino-acid metabolism
+E748,E74.8,E74,2016,2027,12,false,2016,2020,header,1,Other specified disorders of carbohydrate metabolism
+E780,E78.0,E78,2016,2027,12,false,2016,2016,header,1,Pure hypercholesterolemia
+E7801,E78.01,E78,2017,2027,11,false,2017,2025,header,1,Familial hypercholesterolemia
+E784,E78.4,E78,2016,2027,12,false,2016,2018,header,1,Other hyperlipidemia
+E798,E79.8,E79,2016,2027,12,false,2016,2023,header,1,Other disorders of purine and pyrimidine metabolism
+E858,E85.8,E85,2016,2027,12,false,2016,2017,header,1,Other amyloidosis
+E872,E87.2,E87,2016,2027,12,false,2016,2022,header,1,Acidosis
+E881,E88.1,E88,2016,2027,12,false,2016,2025,header,1,"Lipodystrophy, not elsewhere classified"
+E8881,E88.81,E88,2016,2027,12,false,2016,2023,header,2,Metabolic syndrome and other insulin resistance
+F0151,F01.51,F01,2016,2027,12,false,2016,2022,header,2,"Vascular dementia, unspecified severity, with behavioral disturbance"
+F0281,F02.81,F02,2016,2027,12,false,2016,2022,header,2,"Dementia in other diseases classified elsewhere, unspecified severity, with behavioral disturbance"
+F0391,F03.91,F03,2016,2027,12,false,2016,2022,header,2,"Unspecified dementia, unspecified severity, with behavioral disturbance"
+F328,F32.8,F32,2016,2027,12,false,2016,2016,header,1,Other depressive episodes
+F348,F34.8,F34,2016,2027,12,false,2016,2016,header,1,Other persistent mood [affective] disorders
+F42,F42,F42,2016,2027,12,false,2016,2016,header,1,Obsessive-compulsive disorder
+F438,F43.8,F43,2016,2027,12,false,2016,2022,header,1,Other reactions to severe stress
+F5001,F50.01,F50,2016,2027,12,false,2016,2024,header,1,"Anorexia nervosa, restricting type"
+F5002,F50.02,F50,2016,2027,12,false,2016,2024,header,1,"Anorexia nervosa, binge eating/purging type"
+F502,F50.2,F50,2016,2027,12,false,2016,2024,header,1,Bulimia nervosa
+F508,F50.8,F50,2016,2027,12,false,2016,2016,header,1,Other eating disorders
+F5081,F50.81,F50,2017,2027,11,false,2017,2024,header,1,Binge eating disorder
+F53,F53,F53,2016,2027,12,false,2016,2018,header,2,"Mental and behavioral disorders associated with the puerperium, not elsewhere classified"
+F78,F78,F78,2016,2027,12,false,2016,2021,header,1,Other intellectual disabilities
+G111,G11.1,G11,2016,2027,12,false,2016,2020,header,1,Early-onset cerebellar ataxia
+G20,G20,G20,2016,2027,12,false,2016,2023,header,1,Parkinson's disease
+G35,G35,G35,2016,2027,12,false,2016,2025,header,1,Multiple sclerosis
+G378,G37.8,G37,2016,2027,12,false,2016,2023,header,1,Other specified demyelinating diseases of central nervous system
+G513,G51.3,G51,2016,2027,12,false,2016,2018,header,1,Clonic hemifacial spasm
+G710,G71.0,G71,2016,2027,12,false,2016,2018,header,1,Muscular dystrophy
+G712,G71.2,G71,2016,2027,12,false,2016,2020,header,1,Congenital myopathies
+G908,G90.8,G90,2016,2027,12,false,2016,2024,header,1,Other disorders of autonomic nervous system
+G92,G92,G92,2016,2027,12,false,2016,2021,header,1,Toxic encephalopathy
+G933,G93.3,G93,2016,2027,12,false,2016,2022,header,2,Postviral and related fatigue syndromes
+G960,G96.0,G96,2016,2027,12,false,2016,2020,header,1,Cerebrospinal fluid leak
+G9619,G96.19,G96,2016,2027,12,false,2016,2020,header,1,"Other disorders of meninges, not elsewhere classified"
+G968,G96.8,G96,2016,2027,12,false,2016,2020,header,1,Other specified disorders of central nervous system
+H018,H01.8,H01,2016,2027,12,false,2016,2025,header,1,Other specified inflammations of eyelid
+H1850,H18.50,H18,2016,2027,12,false,2016,2020,header,1,Unspecified hereditary corneal dystrophies
+H1851,H18.51,H18,2016,2027,12,false,2016,2020,header,1,Endothelial corneal dystrophy
+H1852,H18.52,H18,2016,2027,12,false,2016,2020,header,1,Epithelial (juvenile) corneal dystrophy
+H1853,H18.53,H18,2016,2027,12,false,2016,2020,header,1,Granular corneal dystrophy
+H1854,H18.54,H18,2016,2027,12,false,2016,2020,header,1,Lattice corneal dystrophy
+H1855,H18.55,H18,2016,2027,12,false,2016,2020,header,1,Macular corneal dystrophy
+H1859,H18.59,H18,2016,2027,12,false,2016,2020,header,1,Other hereditary corneal dystrophies
+H34811,H34.811,H34,2016,2027,12,false,2016,2016,header,1,"Central retinal vein occlusion, right eye"
+H34812,H34.812,H34,2016,2027,12,false,2016,2016,header,1,"Central retinal vein occlusion, left eye"
+H34813,H34.813,H34,2016,2027,12,false,2016,2016,header,1,"Central retinal vein occlusion, bilateral"
+H34819,H34.819,H34,2016,2027,12,false,2016,2016,header,1,"Central retinal vein occlusion, unspecified eye"
+H34831,H34.831,H34,2016,2027,12,false,2016,2016,header,1,"Tributary (branch) retinal vein occlusion, right eye"
+H34832,H34.832,H34,2016,2027,12,false,2016,2016,header,1,"Tributary (branch) retinal vein occlusion, left eye"
+H34833,H34.833,H34,2016,2027,12,false,2016,2016,header,1,"Tributary (branch) retinal vein occlusion, bilateral"
+H34839,H34.839,H34,2016,2027,12,false,2016,2016,header,1,"Tributary (branch) retinal vein occlusion, unspecified eye"
+H3531,H35.31,H35,2016,2027,12,false,2016,2016,header,1,Nonexudative age-related macular degeneration
+H3532,H35.32,H35,2016,2027,12,false,2016,2016,header,1,Exudative age-related macular degeneration
+H36,H36,H36,2016,2027,12,false,2016,2023,header,1,Retinal disorders in diseases classified elsewhere
+H4011X0,H40.11X0,H40,2016,2016,1,false,2016,2016,deleted,1,"Primary open-angle glaucoma, stage unspecified"
+H4011X1,H40.11X1,H40,2016,2016,1,false,2016,2016,deleted,1,"Primary open-angle glaucoma, mild stage"
+H4011X2,H40.11X2,H40,2016,2016,1,false,2016,2016,deleted,1,"Primary open-angle glaucoma, moderate stage"
+H4011X3,H40.11X3,H40,2016,2016,1,false,2016,2016,deleted,1,"Primary open-angle glaucoma, severe stage"
+H4011X4,H40.11X4,H40,2016,2016,1,false,2016,2016,deleted,1,"Primary open-angle glaucoma, indeterminate stage"
+H540,H54.0,H54,2016,2027,12,false,2016,2017,header,1,"Blindness, both eyes"
+H5411,H54.11,H54,2016,2027,12,false,2016,2017,header,1,"Blindness, right eye, low vision left eye"
+H5412,H54.12,H54,2016,2027,12,false,2016,2017,header,1,"Blindness, left eye, low vision right eye"
+H542,H54.2,H54,2016,2027,12,false,2016,2017,header,1,"Low vision, both eyes"
+H5441,H54.41,H54,2016,2027,12,false,2016,2017,header,1,"Blindness, right eye, normal vision left eye"
+H5442,H54.42,H54,2016,2027,12,false,2016,2017,header,1,"Blindness, left eye, normal vision right eye"
+H5451,H54.51,H54,2016,2027,12,false,2016,2017,header,1,"Low vision, right eye, normal vision left eye"
+H5452,H54.52,H54,2016,2027,12,false,2016,2017,header,1,"Low vision, left eye, normal vision right eye"
+H578,H57.8,H57,2016,2027,12,false,2016,2018,header,1,Other specified disorders of eye and adnexa
+H8141,H81.41,H81,2016,2019,4,false,2016,2019,deleted,1,"Vertigo of central origin, right ear"
+H8142,H81.42,H81,2016,2019,4,false,2016,2019,deleted,1,"Vertigo of central origin, left ear"
+H8143,H81.43,H81,2016,2019,4,false,2016,2019,deleted,1,"Vertigo of central origin, bilateral"
+H8149,H81.49,H81,2016,2019,4,false,2016,2019,deleted,1,"Vertigo of central origin, unspecified ear"
+I208,I20.8,I20,2016,2027,12,false,2016,2023,header,1,Other forms of angina pectoris
+I248,I24.8,I24,2016,2027,12,false,2016,2023,header,1,Other forms of acute ischemic heart disease
+I272,I27.2,I27,2016,2027,12,false,2016,2017,header,1,Other secondary pulmonary hypertension
+I313,I31.3,I31,2016,2027,12,false,2016,2022,header,1,Pericardial effusion (noninflammatory)
+I348,I34.8,I34,2016,2027,12,false,2016,2022,header,1,Other nonrheumatic mitral valve disorders
+I420,I42.0,I42,2016,2027,12,false,2016,2026,header,1,Dilated cardiomyopathy
+I428,I42.8,I42,2016,2027,12,false,2016,2026,header,1,Other cardiomyopathies
+I471,I47.1,I47,2016,2027,12,false,2016,2023,header,1,Supraventricular tachycardia
+I472,I47.2,I47,2016,2027,12,false,2016,2022,header,1,Ventricular tachycardia
+I481,I48.1,I48,2016,2027,12,false,2016,2019,header,1,Persistent atrial fibrillation
+I482,I48.2,I48,2016,2027,12,false,2016,2019,header,1,Chronic atrial fibrillation
+I498,I49.8,I49,2016,2027,12,false,2016,2026,header,1,Other specified cardiac arrhythmias
+I6020,I60.20,I60,2016,2016,1,false,2016,2016,deleted,1,Nontraumatic subarachnoid hemorrhage from unspecified anterior communicating artery
+I6021,I60.21,I60,2016,2016,1,false,2016,2016,deleted,1,Nontraumatic subarachnoid hemorrhage from right anterior communicating artery
+I6022,I60.22,I60,2016,2016,1,false,2016,2016,deleted,1,Nontraumatic subarachnoid hemorrhage from left anterior communicating artery
+I638,I63.8,I63,2016,2027,12,false,2016,2018,header,1,Other cerebral infarction
+I6901,I69.01,I69,2016,2027,12,false,2016,2016,header,1,Cognitive deficits following nontraumatic subarachnoid hemorrhage
+I6911,I69.11,I69,2016,2027,12,false,2016,2016,header,1,Cognitive deficits following nontraumatic intracerebral hemorrhage
+I6921,I69.21,I69,2016,2027,12,false,2016,2016,header,1,Cognitive deficits following other nontraumatic intracranial hemorrhage
+I6931,I69.31,I69,2016,2027,12,false,2016,2016,header,1,Cognitive deficits following cerebral infarction
+I6981,I69.81,I69,2016,2027,12,false,2016,2016,header,1,Cognitive deficits following other cerebrovascular disease
+I6991,I69.91,I69,2016,2027,12,false,2016,2016,header,1,Cognitive deficits following unspecified cerebrovascular disease
+I7101,I71.01,I71,2016,2027,12,false,2016,2022,header,1,Dissection of thoracic aorta
+I711,I71.1,I71,2016,2027,12,false,2016,2022,header,1,"Thoracic aortic aneurysm, ruptured"
+I712,I71.2,I71,2016,2027,12,false,2016,2022,header,1,"Thoracic aortic aneurysm, without rupture"
+I713,I71.3,I71,2016,2027,12,false,2016,2022,header,1,"Abdominal aortic aneurysm, ruptured"
+I714,I71.4,I71,2016,2027,12,false,2016,2022,header,1,"Abdominal aortic aneurysm, without rupture"
+I715,I71.5,I71,2016,2027,12,false,2016,2022,header,1,"Thoracoabdominal aortic aneurysm, ruptured"
+I716,I71.6,I71,2016,2027,12,false,2016,2022,header,1,"Thoracoabdominal aortic aneurysm, without rupture"
+I9762,I97.62,I97,2016,2027,12,false,2016,2016,header,2,"Postprocedural hemorrhage, hematoma and seroma of a circulatory system organ or structure following other procedure"
+J156,J15.6,J15,2016,2027,12,false,2016,2023,header,2,Pneumonia due to other Gram-negative bacteria
+J82,J82,J82,2016,2027,12,false,2016,2020,header,1,"Pulmonary eosinophilia, not elsewhere classified"
+J8417,J84.17,J84,2016,2027,12,false,2016,2020,header,1,Other interstitial pulmonary diseases with fibrosis in diseases classified elsewhere
+J985,J98.5,J98,2016,2027,12,false,2016,2016,header,1,"Diseases of mediastinum, not elsewhere classified"
+K040,K04.0,K04,2016,2027,12,false,2016,2016,header,1,Pulpitis
+K0521,K05.21,K05,2016,2027,12,false,2016,2016,header,1,"Aggressive periodontitis, localized"
+K0522,K05.22,K05,2016,2027,12,false,2016,2016,header,1,"Aggressive periodontitis, generalized"
+K0531,K05.31,K05,2016,2027,12,false,2016,2016,header,1,"Chronic periodontitis, localized"
+K0532,K05.32,K05,2016,2027,12,false,2016,2016,header,1,"Chronic periodontitis, generalized"
+K060,K06.0,K06,2016,2027,12,false,2016,2017,header,1,Gingival recession
+K088,K08.8,K08,2016,2027,12,false,2016,2016,header,1,Other specified disorders of teeth and supporting structures
+K208,K20.8,K20,2016,2027,12,false,2016,2020,header,1,Other esophagitis
+K209,K20.9,K20,2016,2027,12,false,2016,2020,header,1,"Esophagitis, unspecified"
+K210,K21.0,K21,2016,2027,12,false,2016,2020,header,1,Gastro-esophageal reflux disease with esophagitis
+K228,K22.8,K22,2016,2027,12,false,2016,2021,header,1,Other specified diseases of esophagus
+K352,K35.2,K35,2016,2027,12,false,2016,2018,header,1,Acute appendicitis with generalized peritonitis
+K3520,K35.20,K35,2019,2027,9,false,2019,2023,header,1,"Acute appendicitis with generalized peritonitis, without abscess"
+K3521,K35.21,K35,2019,2027,9,false,2019,2023,header,1,"Acute appendicitis with generalized peritonitis, with abscess"
+K353,K35.3,K35,2016,2027,12,false,2016,2018,header,1,Acute appendicitis with localized peritonitis
+K3589,K35.89,K35,2016,2027,12,false,2016,2018,header,1,Other acute appendicitis
+K522,K52.2,K52,2016,2027,12,false,2016,2016,header,1,Allergic and dietetic gastroenteritis and colitis
+K550,K55.0,K55,2016,2027,12,false,2016,2016,header,1,Acute vascular disorders of intestine
+K565,K56.5,K56,2016,2027,12,false,2016,2017,header,2,Intestinal adhesions [bands] with obstruction (postinfection)
+K5660,K56.60,K56,2016,2027,12,false,2016,2017,header,1,Unspecified intestinal obstruction
+K5669,K56.69,K56,2016,2027,12,false,2016,2017,header,1,Other intestinal obstruction
+K593,K59.3,K59,2016,2027,12,false,2016,2016,header,1,"Megacolon, not elsewhere classified"
+K598,K59.8,K59,2016,2027,12,false,2016,2020,header,1,Other specified functional intestinal disorders
+K603,K60.3,K60,2016,2027,12,false,2016,2024,header,1,Anal fistula
+K604,K60.4,K60,2016,2027,12,false,2016,2024,header,1,Rectal fistula
+K605,K60.5,K60,2016,2027,12,false,2016,2024,header,1,Anorectal fistula
+K613,K61.3,K61,2016,2027,12,false,2016,2018,header,1,Ischiorectal abscess
+K740,K74.0,K74,2016,2027,12,false,2016,2020,header,1,Hepatic fibrosis
+K830,K83.0,K83,2016,2027,12,false,2016,2018,header,1,Cholangitis
+K850,K85.0,K85,2016,2027,12,false,2016,2016,header,1,Idiopathic acute pancreatitis
+K851,K85.1,K85,2016,2027,12,false,2016,2016,header,1,Biliary acute pancreatitis
+K852,K85.2,K85,2016,2027,12,false,2016,2016,header,1,Alcohol induced acute pancreatitis
+K853,K85.3,K85,2016,2027,12,false,2016,2016,header,1,Drug induced acute pancreatitis
+K858,K85.8,K85,2016,2027,12,false,2016,2016,header,1,Other acute pancreatitis
+K859,K85.9,K85,2016,2027,12,false,2016,2016,header,1,"Acute pancreatitis, unspecified"
+K868,K86.8,K86,2016,2027,12,false,2016,2016,header,1,Other specified diseases of pancreas
+K904,K90.4,K90,2016,2027,12,false,2016,2016,header,2,Other malabsorption due to intolerance
+K913,K91.3,K91,2016,2027,12,false,2016,2017,header,1,Postprocedural intestinal obstruction
+L298,L29.8,L29,2016,2027,12,false,2016,2024,header,1,Other pruritus
+L661,L66.1,L66,2016,2027,12,false,2016,2024,header,1,Lichen planopilaris
+L668,L66.8,L66,2016,2027,12,false,2016,2024,header,1,Other cicatricial alopecia
+M2660,M26.60,M26,2016,2027,12,false,2016,2016,header,1,"Temporomandibular joint disorder, unspecified"
+M2661,M26.61,M26,2016,2027,12,false,2016,2016,header,1,Adhesions and ankylosis of temporomandibular joint
+M2662,M26.62,M26,2016,2027,12,false,2016,2016,header,1,Arthralgia of temporomandibular joint
+M2663,M26.63,M26,2016,2027,12,false,2016,2016,header,1,Articular disc disorder of temporomandibular joint
+M311,M31.1,M31,2016,2027,12,false,2016,2021,header,1,Thrombotic microangiopathy
+M358,M35.8,M35,2016,2027,12,false,2016,2021,header,1,Other specified systemic involvement of connective tissue
+M4806,M48.06,M48,2016,2027,12,false,2016,2017,header,1,"Spinal stenosis, lumbar region"
+M5002,M50.02,M50,2016,2027,12,false,2016,2016,header,1,"Cervical disc disorder with myelopathy, mid-cervical region"
+M5012,M50.12,M50,2016,2027,12,false,2016,2016,header,1,"Cervical disc disorder with radiculopathy, mid-cervical region"
+M5022,M50.22,M50,2016,2027,12,false,2016,2016,header,1,"Other cervical disc displacement, mid-cervical region"
+M5032,M50.32,M50,2016,2027,12,false,2016,2016,header,1,"Other cervical disc degeneration, mid-cervical region"
+M5082,M50.82,M50,2016,2027,12,false,2016,2016,header,1,"Other cervical disc disorders, mid-cervical region"
+M5092,M50.92,M50,2016,2027,12,false,2016,2016,header,1,"Cervical disc disorder, unspecified, mid-cervical region"
+M5136,M51.36,M51,2016,2027,12,false,2016,2024,header,1,"Other intervertebral disc degeneration, lumbar region"
+M5137,M51.37,M51,2016,2027,12,false,2016,2024,header,1,"Other intervertebral disc degeneration, lumbosacral region"
+M545,M54.5,M54,2016,2027,12,false,2016,2021,header,1,Low back pain
+M659,M65.9,M65,2016,2027,12,false,2016,2024,header,1,"Synovitis and tenosynovitis, unspecified"
+M722,M72.2,M72,2016,2027,12,false,2016,2026,header,1,Plantar fascial fibromatosis
+M791,M79.1,M79,2016,2027,12,false,2016,2018,header,1,Myalgia
+M868X1,M86.8X1,M86,2016,2027,12,false,2016,2026,header,1,"Other osteomyelitis, shoulder"
+M868X2,M86.8X2,M86,2016,2027,12,false,2016,2026,header,1,"Other osteomyelitis, upper arm"
+M868X3,M86.8X3,M86,2016,2027,12,false,2016,2026,header,1,"Other osteomyelitis, forearm"
+M868X4,M86.8X4,M86,2016,2027,12,false,2016,2026,header,1,"Other osteomyelitis, hand"
+M868X5,M86.8X5,M86,2016,2027,12,false,2016,2026,header,1,"Other osteomyelitis, thigh"
+M868X6,M86.8X6,M86,2016,2027,12,false,2016,2026,header,1,"Other osteomyelitis, lower leg"
+M868X7,M86.8X7,M86,2016,2027,12,false,2016,2026,header,1,"Other osteomyelitis, ankle and foot"
+M868X8,M86.8X8,M86,2016,2027,12,false,2016,2026,header,1,"Other osteomyelitis, other site"
+M9250,M92.50,M92,2016,2027,12,false,2016,2020,header,2,Unspecified juvenile osteochondrosis of tibia and fibula
+M9251,M92.51,M92,2016,2027,12,false,2016,2020,header,2,Juvenile osteochondrosis of proximal tibia
+M9252,M92.52,M92,2016,2027,12,false,2016,2020,header,2,Juvenile osteochondrosis of tibia tubercle
+N042,N04.2,N04,2016,2027,12,false,2016,2023,header,1,Nephrotic syndrome with diffuse membranous glomerulonephritis
+N062,N06.2,N06,2016,2027,12,false,2016,2023,header,1,Isolated proteinuria with diffuse membranous glomerulonephritis
+N141,N14.1,N14,2016,2027,12,false,2016,2022,header,1,"Nephropathy induced by other drugs, medicaments and biological substances"
+N183,N18.3,N18,2016,2027,12,false,2016,2020,header,1,"Chronic kidney disease, stage 3 (moderate)"
+N358,N35.8,N35,2016,2027,12,false,2016,2018,header,1,Other urethral stricture
+N359,N35.9,N35,2016,2027,12,false,2016,2018,header,1,"Urethral stricture, unspecified"
+N423,N42.3,N42,2016,2027,12,false,2016,2016,header,1,Dysplasia of prostate
+N508,N50.8,N50,2016,2027,12,false,2016,2016,header,1,Other specified disorders of male genital organs
+N61,N61,N61,2016,2027,12,false,2016,2016,header,1,Inflammatory disorders of breast
+N63,N63,N63,2016,2027,12,false,2016,2017,header,1,Unspecified lump in breast
+N800,N80.0,N80,2016,2027,12,false,2016,2022,header,1,Endometriosis of uterus
+N801,N80.1,N80,2016,2027,12,false,2016,2022,header,1,Endometriosis of ovary
+N802,N80.2,N80,2016,2027,12,false,2016,2022,header,1,Endometriosis of fallopian tube
+N803,N80.3,N80,2016,2027,12,false,2016,2022,header,1,Endometriosis of pelvic peritoneum
+N804,N80.4,N80,2016,2027,12,false,2016,2022,header,1,Endometriosis of rectovaginal septum and vagina
+N805,N80.5,N80,2016,2027,12,false,2016,2022,header,1,Endometriosis of intestine
+N830,N83.0,N83,2016,2027,12,false,2016,2016,header,1,Follicular cyst of ovary
+N831,N83.1,N83,2016,2027,12,false,2016,2016,header,1,Corpus luteum cyst
+N8320,N83.20,N83,2016,2027,12,false,2016,2016,header,1,Unspecified ovarian cysts
+N8329,N83.29,N83,2016,2027,12,false,2016,2016,header,1,Other ovarian cysts
+N8331,N83.31,N83,2016,2027,12,false,2016,2016,header,1,Acquired atrophy of ovary
+N8332,N83.32,N83,2016,2027,12,false,2016,2016,header,1,Acquired atrophy of fallopian tube
+N8333,N83.33,N83,2016,2027,12,false,2016,2016,header,1,Acquired atrophy of ovary and fallopian tube
+N834,N83.4,N83,2016,2027,12,false,2016,2016,header,1,Prolapse and hernia of ovary and fallopian tube
+N8351,N83.51,N83,2016,2027,12,false,2016,2016,header,1,Torsion of ovary and ovarian pedicle
+N8352,N83.52,N83,2016,2027,12,false,2016,2016,header,1,Torsion of fallopian tube
+N906,N90.6,N90,2016,2027,12,false,2016,2016,header,1,Hypertrophy of vulva
+N941,N94.1,N94,2016,2027,12,false,2016,2016,header,1,Dyspareunia
+O000,O00.0,O00,2016,2027,12,false,2016,2016,header,1,Abdominal pregnancy
+O001,O00.1,O00,2016,2027,12,false,2016,2016,header,1,Tubal pregnancy
+O0010,O00.10,O00,2017,2027,11,false,2017,2017,header,1,Tubal pregnancy without intrauterine pregnancy
+O0011,O00.11,O00,2017,2027,11,false,2017,2017,header,1,Tubal pregnancy with intrauterine pregnancy
+O002,O00.2,O00,2016,2027,12,false,2016,2016,header,1,Ovarian pregnancy
+O0020,O00.20,O00,2017,2027,11,false,2017,2017,header,1,Ovarian pregnancy without intrauterine pregnancy
+O0021,O00.21,O00,2017,2027,11,false,2017,2017,header,1,Ovarian pregnancy with intrauterine pregnancy
+O008,O00.8,O00,2016,2027,12,false,2016,2016,header,1,Other ectopic pregnancy
+O009,O00.9,O00,2016,2027,12,false,2016,2016,header,1,"Ectopic pregnancy, unspecified"
+O337,O33.7,O33,2016,2027,12,false,2016,2016,header,1,Maternal care for disproportion due to other fetal deformities
+O3421,O34.21,O34,2016,2027,12,false,2016,2016,header,1,Maternal care for scar from previous cesarean delivery
+O350XX0,O35.0XX0,O35,2016,2022,7,false,2016,2022,deleted,1,"Maternal care for (suspected) central nervous system malformation in fetus, not applicable or unspecified"
+O350XX1,O35.0XX1,O35,2016,2022,7,false,2016,2022,deleted,1,"Maternal care for (suspected) central nervous system malformation in fetus, fetus 1"
+O350XX2,O35.0XX2,O35,2016,2022,7,false,2016,2022,deleted,1,"Maternal care for (suspected) central nervous system malformation in fetus, fetus 2"
+O350XX3,O35.0XX3,O35,2016,2022,7,false,2016,2022,deleted,1,"Maternal care for (suspected) central nervous system malformation in fetus, fetus 3"
+O350XX4,O35.0XX4,O35,2016,2022,7,false,2016,2022,deleted,1,"Maternal care for (suspected) central nervous system malformation in fetus, fetus 4"
+O350XX5,O35.0XX5,O35,2016,2022,7,false,2016,2022,deleted,1,"Maternal care for (suspected) central nervous system malformation in fetus, fetus 5"
+O350XX9,O35.0XX9,O35,2016,2022,7,false,2016,2022,deleted,1,"Maternal care for (suspected) central nervous system malformation in fetus, other fetus"
+O351XX0,O35.1XX0,O35,2016,2022,7,false,2016,2022,deleted,1,"Maternal care for (suspected) chromosomal abnormality in fetus, not applicable or unspecified"
+O351XX1,O35.1XX1,O35,2016,2022,7,false,2016,2022,deleted,1,"Maternal care for (suspected) chromosomal abnormality in fetus, fetus 1"
+O351XX2,O35.1XX2,O35,2016,2022,7,false,2016,2022,deleted,1,"Maternal care for (suspected) chromosomal abnormality in fetus, fetus 2"
+O351XX3,O35.1XX3,O35,2016,2022,7,false,2016,2022,deleted,1,"Maternal care for (suspected) chromosomal abnormality in fetus, fetus 3"
+O351XX4,O35.1XX4,O35,2016,2022,7,false,2016,2022,deleted,1,"Maternal care for (suspected) chromosomal abnormality in fetus, fetus 4"
+O351XX5,O35.1XX5,O35,2016,2022,7,false,2016,2022,deleted,1,"Maternal care for (suspected) chromosomal abnormality in fetus, fetus 5"
+O351XX9,O35.1XX9,O35,2016,2022,7,false,2016,2022,deleted,1,"Maternal care for (suspected) chromosomal abnormality in fetus, other fetus"
+O702,O70.2,O70,2016,2027,12,false,2016,2016,header,1,Third degree perineal laceration during delivery
+O860,O86.0,O86,2016,2027,12,false,2016,2018,header,1,Infection of obstetric surgical wound
+O904,O90.4,O90,2016,2027,12,false,2016,2023,header,1,Postpartum acute kidney failure
+O9989,O99.89,O99,2016,2027,12,false,2016,2020,header,1,"Other specified diseases and conditions complicating pregnancy, childbirth and the puerperium"
+P027,P02.7,P02,2016,2027,12,false,2016,2018,header,2,Newborn affected by chorioamnionitis
+P041,P04.1,P04,2016,2027,12,false,2016,2018,header,2,Newborn affected by other maternal medication
+P048,P04.8,P04,2016,2027,12,false,2016,2018,header,2,Newborn affected by other maternal noxious substances
+P09,P09,P09,2016,2027,12,false,2016,2021,header,1,Abnormal findings on neonatal screening
+P283,P28.3,P28,2016,2027,12,false,2016,2022,header,1,Primary sleep apnea of newborn
+P284,P28.4,P28,2016,2027,12,false,2016,2022,header,1,Other apnea of newborn
+P293,P29.3,P29,2016,2027,12,false,2016,2017,header,1,Persistent fetal circulation
+P742,P74.2,P74,2016,2027,12,false,2016,2018,header,1,Disturbances of sodium balance of newborn
+P743,P74.3,P74,2016,2027,12,false,2016,2018,header,1,Disturbances of potassium balance of newborn
+P744,P74.4,P74,2016,2027,12,false,2016,2018,header,1,Other transitory electrolyte disturbances of newborn
+P838,P83.8,P83,2016,2027,12,false,2016,2017,header,1,Other specified conditions of integument specific to newborn
+P918,P91.8,P91,2016,2027,12,false,2016,2017,header,1,Other specified disturbances of cerebral status of newborn
+Q211,Q21.1,Q21,2016,2027,12,false,2016,2022,header,1,Atrial septal defect
+Q212,Q21.2,Q21,2016,2027,12,false,2016,2022,header,1,Atrioventricular septal defect
+Q238,Q23.8,Q23,2016,2027,12,false,2016,2024,header,1,Other congenital malformations of aortic and mitral valves
+Q252,Q25.2,Q25,2016,2027,12,false,2016,2016,header,1,Atresia of aorta
+Q254,Q25.4,Q25,2016,2027,12,false,2016,2016,header,1,Other congenital malformations of aorta
+Q447,Q44.7,Q44,2016,2027,12,false,2016,2023,header,1,Other congenital malformations of liver
+Q512,Q51.2,Q51,2016,2027,12,false,2016,2018,header,1,Other doubling of uterus
+Q5120,Q51.20,Q51,2019,2020,2,false,2019,2020,deleted,1,"Other doubling of uterus, unspecified"
+Q5212,Q52.12,Q52,2016,2027,12,false,2016,2016,header,1,Longitudinal vaginal septum
+Q5311,Q53.11,Q53,2016,2027,12,false,2016,2017,header,1,"Abdominal testis, unilateral"
+Q5321,Q53.21,Q53,2016,2027,12,false,2016,2017,header,1,"Abdominal testis, bilateral"
+Q660,Q66.0,Q66,2016,2027,12,false,2016,2019,header,1,Congenital talipes equinovarus
+Q661,Q66.1,Q66,2016,2027,12,false,2016,2019,header,1,Congenital talipes calcaneovarus
+Q662,Q66.2,Q66,2016,2027,12,false,2016,2016,header,1,Congenital metatarsus (primus) varus
+Q6621,Q66.21,Q66,2017,2027,11,false,2017,2019,header,1,Congenital metatarsus primus varus
+Q6622,Q66.22,Q66,2017,2027,11,false,2017,2019,header,1,Congenital metatarsus adductus
+Q663,Q66.3,Q66,2016,2027,12,false,2016,2019,header,1,Other congenital varus deformities of feet
+Q664,Q66.4,Q66,2016,2027,12,false,2016,2019,header,1,Congenital talipes calcaneovalgus
+Q667,Q66.7,Q66,2016,2027,12,false,2016,2019,header,1,Congenital pes cavus
+Q669,Q66.9,Q66,2016,2027,12,false,2016,2019,header,1,"Congenital deformity of feet, unspecified"
+Q750,Q75.0,Q75,2016,2027,12,false,2016,2023,header,1,Craniosynostosis
+Q796,Q79.6,Q79,2016,2027,12,false,2016,2019,header,2,Ehlers-Danlos syndromes
+Q858,Q85.8,Q85,2016,2027,12,false,2016,2022,header,1,"Other phakomatoses, not elsewhere classified"
+Q871,Q87.1,Q87,2016,2027,12,false,2016,2019,header,1,Congenital malformation syndromes predominantly associated with short stature
+Q898,Q89.8,Q89,2016,2027,12,false,2016,2025,header,1,Other specified congenital malformations
+Q935,Q93.5,Q93,2016,2027,12,false,2016,2018,header,1,Other deletions of part of a chromosome
+Q998,Q99.8,Q99,2016,2027,12,false,2016,2025,header,1,Other specified chromosome abnormalities
+R05,R05,R05,2016,2027,12,false,2016,2021,header,1,Cough
+R102,R10.2,R10,2016,2027,12,false,2016,2025,header,1,Pelvic and perineal pain
+R312,R31.2,R31,2016,2027,12,false,2016,2016,header,1,Other microscopic hematuria
+R358,R35.8,R35,2016,2027,12,false,2016,2021,header,1,Other polyuria
+R3919,R39.19,R39,2016,2027,12,false,2016,2016,header,1,Other difficulties with micturition
+R40241,R40.241,R40,2016,2027,12,false,2016,2016,header,1,Glasgow coma scale score 13-15
+R40242,R40.242,R40,2016,2027,12,false,2016,2016,header,1,Glasgow coma scale score 9-12
+R40243,R40.243,R40,2016,2027,12,false,2016,2016,header,1,Glasgow coma scale score 3-8
+R40244,R40.244,R40,2016,2027,12,false,2016,2016,header,1,"Other coma, without documented Glasgow coma scale score, or with partial score reported"
+R51,R51,R51,2016,2027,12,false,2016,2020,header,1,Headache
+R633,R63.3,R63,2016,2027,12,false,2016,2021,header,1,Feeding difficulties
+R740,R74.0,R74,2016,2027,12,false,2016,2020,header,1,Nonspecific elevation of levels of transaminase and lactic acid dehydrogenase [LDH]
+R768,R76.8,R76,2016,2027,12,false,2016,2025,header,1,Other specified abnormal immunological findings in serum
+R827,R82.7,R82,2016,2027,12,false,2016,2016,header,1,Abnormal findings on microbiological examination of urine
+R828,R82.8,R82,2016,2027,12,false,2016,2019,header,1,Abnormal findings on cytological and histological examination of urine
+R8299,R82.99,R82,2016,2027,12,false,2016,2018,header,1,Other abnormal findings in urine
+R934,R93.4,R93,2016,2027,12,false,2016,2016,header,1,Abnormal findings on diagnostic imaging of urinary organs
+R938,R93.8,R93,2016,2027,12,false,2016,2018,header,1,Abnormal findings on diagnostic imaging of other specified body structures
+R972,R97.2,R97,2016,2027,12,false,2016,2016,header,1,Elevated prostate specific antigen [PSA]
+S0210XA,S02.10XA,S02,2016,2016,1,false,2016,2016,deleted,1,"Unspecified fracture of base of skull, initial encounter for closed fracture"
+S0210XB,S02.10XB,S02,2016,2016,1,false,2016,2016,deleted,1,"Unspecified fracture of base of skull, initial encounter for open fracture"
+S0210XD,S02.10XD,S02,2016,2016,1,false,2016,2016,deleted,1,"Unspecified fracture of base of skull, subsequent encounter for fracture with routine healing"
+S0210XG,S02.10XG,S02,2016,2016,1,false,2016,2016,deleted,1,"Unspecified fracture of base of skull, subsequent encounter for fracture with delayed healing"
+S0210XK,S02.10XK,S02,2016,2016,1,false,2016,2016,deleted,1,"Unspecified fracture of base of skull, subsequent encounter for fracture with nonunion"
+S0210XS,S02.10XS,S02,2016,2016,1,false,2016,2016,deleted,1,"Unspecified fracture of base of skull, sequela"
+S023XXA,S02.3XXA,S02,2016,2016,1,false,2016,2016,deleted,1,"Fracture of orbital floor, initial encounter for closed fracture"
+S023XXB,S02.3XXB,S02,2016,2016,1,false,2016,2016,deleted,1,"Fracture of orbital floor, initial encounter for open fracture"
+S023XXD,S02.3XXD,S02,2016,2016,1,false,2016,2016,deleted,1,"Fracture of orbital floor, subsequent encounter for fracture with routine healing"
+S023XXG,S02.3XXG,S02,2016,2016,1,false,2016,2016,deleted,1,"Fracture of orbital floor, subsequent encounter for fracture with delayed healing"
+S023XXK,S02.3XXK,S02,2016,2016,1,false,2016,2016,deleted,1,"Fracture of orbital floor, subsequent encounter for fracture with nonunion"
+S023XXS,S02.3XXS,S02,2016,2016,1,false,2016,2016,deleted,1,"Fracture of orbital floor, sequela"
+S0261XA,S02.61XA,S02,2016,2016,1,false,2016,2016,deleted,1,"Fracture of condylar process of mandible, initial encounter for closed fracture"
+S0261XB,S02.61XB,S02,2016,2016,1,false,2016,2016,deleted,1,"Fracture of condylar process of mandible, initial encounter for open fracture"
+S0261XD,S02.61XD,S02,2016,2016,1,false,2016,2016,deleted,1,"Fracture of condylar process of mandible, subsequent encounter for fracture with routine healing"
+S0261XG,S02.61XG,S02,2016,2016,1,false,2016,2016,deleted,1,"Fracture of condylar process of mandible, subsequent encounter for fracture with delayed healing"
+S0261XK,S02.61XK,S02,2016,2016,1,false,2016,2016,deleted,1,"Fracture of condylar process of mandible, subsequent encounter for fracture with nonunion"
+S0261XS,S02.61XS,S02,2016,2016,1,false,2016,2016,deleted,1,"Fracture of condylar process of mandible, sequela"
+S0262XA,S02.62XA,S02,2016,2016,1,false,2016,2016,deleted,1,"Fracture of subcondylar process of mandible, initial encounter for closed fracture"
+S0262XB,S02.62XB,S02,2016,2016,1,false,2016,2016,deleted,1,"Fracture of subcondylar process of mandible, initial encounter for open fracture"
+S0262XD,S02.62XD,S02,2016,2016,1,false,2016,2016,deleted,1,"Fracture of subcondylar process of mandible, subsequent encounter for fracture with routine healing"
+S0262XG,S02.62XG,S02,2016,2016,1,false,2016,2016,deleted,1,"Fracture of subcondylar process of mandible, subsequent encounter for fracture with delayed healing"
+S0262XK,S02.62XK,S02,2016,2016,1,false,2016,2016,deleted,1,"Fracture of subcondylar process of mandible, subsequent encounter for fracture with nonunion"
+S0262XS,S02.62XS,S02,2016,2016,1,false,2016,2016,deleted,1,"Fracture of subcondylar process of mandible, sequela"
+S0263XA,S02.63XA,S02,2016,2016,1,false,2016,2016,deleted,1,"Fracture of coronoid process of mandible, initial encounter for closed fracture"
+S0263XB,S02.63XB,S02,2016,2016,1,false,2016,2016,deleted,1,"Fracture of coronoid process of mandible, initial encounter for open fracture"
+S0263XD,S02.63XD,S02,2016,2016,1,false,2016,2016,deleted,1,"Fracture of coronoid process of mandible, subsequent encounter for fracture with routine healing"
+S0263XG,S02.63XG,S02,2016,2016,1,false,2016,2016,deleted,1,"Fracture of coronoid process of mandible, subsequent encounter for fracture with delayed healing"
+S0263XK,S02.63XK,S02,2016,2016,1,false,2016,2016,deleted,1,"Fracture of coronoid process of mandible, subsequent encounter for fracture with nonunion"
+S0263XS,S02.63XS,S02,2016,2016,1,false,2016,2016,deleted,1,"Fracture of coronoid process of mandible, sequela"
+S0264XA,S02.64XA,S02,2016,2016,1,false,2016,2016,deleted,1,"Fracture of ramus of mandible, initial encounter for closed fracture"
+S0264XB,S02.64XB,S02,2016,2016,1,false,2016,2016,deleted,1,"Fracture of ramus of mandible, initial encounter for open fracture"
+S0264XD,S02.64XD,S02,2016,2016,1,false,2016,2016,deleted,1,"Fracture of ramus of mandible, subsequent encounter for fracture with routine healing"
+S0264XG,S02.64XG,S02,2016,2016,1,false,2016,2016,deleted,1,"Fracture of ramus of mandible, subsequent encounter for fracture with delayed healing"
+S0264XK,S02.64XK,S02,2016,2016,1,false,2016,2016,deleted,1,"Fracture of ramus of mandible, subsequent encounter for fracture with nonunion"
+S0264XS,S02.64XS,S02,2016,2016,1,false,2016,2016,deleted,1,"Fracture of ramus of mandible, sequela"
+S0265XA,S02.65XA,S02,2016,2016,1,false,2016,2016,deleted,1,"Fracture of angle of mandible, initial encounter for closed fracture"
+S0265XB,S02.65XB,S02,2016,2016,1,false,2016,2016,deleted,1,"Fracture of angle of mandible, initial encounter for open fracture"
+S0265XD,S02.65XD,S02,2016,2016,1,false,2016,2016,deleted,1,"Fracture of angle of mandible, subsequent encounter for fracture with routine healing"
+S0265XG,S02.65XG,S02,2016,2016,1,false,2016,2016,deleted,1,"Fracture of angle of mandible, subsequent encounter for fracture with delayed healing"
+S0265XK,S02.65XK,S02,2016,2016,1,false,2016,2016,deleted,1,"Fracture of angle of mandible, subsequent encounter for fracture with nonunion"
+S0265XS,S02.65XS,S02,2016,2016,1,false,2016,2016,deleted,1,"Fracture of angle of mandible, sequela"
+S0267XA,S02.67XA,S02,2016,2016,1,false,2016,2016,deleted,1,"Fracture of alveolus of mandible, initial encounter for closed fracture"
+S0267XB,S02.67XB,S02,2016,2016,1,false,2016,2016,deleted,1,"Fracture of alveolus of mandible, initial encounter for open fracture"
+S0267XD,S02.67XD,S02,2016,2016,1,false,2016,2016,deleted,1,"Fracture of alveolus of mandible, subsequent encounter for fracture with routine healing"
+S0267XG,S02.67XG,S02,2016,2016,1,false,2016,2016,deleted,1,"Fracture of alveolus of mandible, subsequent encounter for fracture with delayed healing"
+S0267XK,S02.67XK,S02,2016,2016,1,false,2016,2016,deleted,1,"Fracture of alveolus of mandible, subsequent encounter for fracture with nonunion"
+S0267XS,S02.67XS,S02,2016,2016,1,false,2016,2016,deleted,1,"Fracture of alveolus of mandible, sequela"
+S028XXA,S02.8XXA,S02,2016,2016,1,false,2016,2016,deleted,1,"Fractures of other specified skull and facial bones, initial encounter for closed fracture"
+S028XXB,S02.8XXB,S02,2016,2016,1,false,2016,2016,deleted,1,"Fractures of other specified skull and facial bones, initial encounter for open fracture"
+S028XXD,S02.8XXD,S02,2016,2016,1,false,2016,2016,deleted,1,"Fractures of other specified skull and facial bones, subsequent encounter for fracture with routine healing"
+S028XXG,S02.8XXG,S02,2016,2016,1,false,2016,2016,deleted,1,"Fractures of other specified skull and facial bones, subsequent encounter for fracture with delayed healing"
+S028XXK,S02.8XXK,S02,2016,2016,1,false,2016,2016,deleted,1,"Fractures of other specified skull and facial bones, subsequent encounter for fracture with nonunion"
+S028XXS,S02.8XXS,S02,2016,2016,1,false,2016,2016,deleted,1,"Fractures of other specified skull and facial bones, sequela"
+S030XXA,S03.0XXA,S03,2016,2016,1,false,2016,2016,deleted,1,"Dislocation of jaw, initial encounter"
+S030XXD,S03.0XXD,S03,2016,2016,1,false,2016,2016,deleted,1,"Dislocation of jaw, subsequent encounter"
+S030XXS,S03.0XXS,S03,2016,2016,1,false,2016,2016,deleted,1,"Dislocation of jaw, sequela"
+S034XXA,S03.4XXA,S03,2016,2016,1,false,2016,2016,deleted,1,"Sprain of jaw, initial encounter"
+S034XXD,S03.4XXD,S03,2016,2016,1,false,2016,2016,deleted,1,"Sprain of jaw, subsequent encounter"
+S034XXS,S03.4XXS,S03,2016,2016,1,false,2016,2016,deleted,1,"Sprain of jaw, sequela"
+S060X2A,S06.0X2A,S06,2016,2016,1,false,2016,2016,deleted,1,"Concussion with loss of consciousness of 31 minutes to 59 minutes, initial encounter"
+S060X2D,S06.0X2D,S06,2016,2016,1,false,2016,2016,deleted,1,"Concussion with loss of consciousness of 31 minutes to 59 minutes, subsequent encounter"
+S060X2S,S06.0X2S,S06,2016,2016,1,false,2016,2016,deleted,1,"Concussion with loss of consciousness of 31 minutes to 59 minutes, sequela"
+S060X3A,S06.0X3A,S06,2016,2016,1,false,2016,2016,deleted,1,"Concussion with loss of consciousness of 1 hour to 5 hours 59 minutes, initial encounter"
+S060X3D,S06.0X3D,S06,2016,2016,1,false,2016,2016,deleted,1,"Concussion with loss of consciousness of 1 hour to 5 hours 59 minutes, subsequent encounter"
+S060X3S,S06.0X3S,S06,2016,2016,1,false,2016,2016,deleted,1,"Concussion with loss of consciousness of 1 hour to 5 hours 59 minutes, sequela"
+S060X4A,S06.0X4A,S06,2016,2016,1,false,2016,2016,deleted,1,"Concussion with loss of consciousness of 6 hours to 24 hours, initial encounter"
+S060X4D,S06.0X4D,S06,2016,2016,1,false,2016,2016,deleted,1,"Concussion with loss of consciousness of 6 hours to 24 hours, subsequent encounter"
+S060X4S,S06.0X4S,S06,2016,2016,1,false,2016,2016,deleted,1,"Concussion with loss of consciousness of 6 hours to 24 hours, sequela"
+S060X5A,S06.0X5A,S06,2016,2016,1,false,2016,2016,deleted,1,"Concussion with loss of consciousness greater than 24 hours with return to pre-existing conscious level, initial encounter"
+S060X5D,S06.0X5D,S06,2016,2016,1,false,2016,2016,deleted,1,"Concussion with loss of consciousness greater than 24 hours with return to pre-existing conscious level, subsequent encounter"
+S060X5S,S06.0X5S,S06,2016,2016,1,false,2016,2016,deleted,1,"Concussion with loss of consciousness greater than 24 hours with return to pre-existing conscious level, sequela"
+S060X6A,S06.0X6A,S06,2016,2016,1,false,2016,2016,deleted,1,"Concussion with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, initial encounter"
+S060X6D,S06.0X6D,S06,2016,2016,1,false,2016,2016,deleted,1,"Concussion with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, subsequent encounter"
+S060X6S,S06.0X6S,S06,2016,2016,1,false,2016,2016,deleted,1,"Concussion with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, sequela"
+S060X7A,S06.0X7A,S06,2016,2016,1,false,2016,2016,deleted,1,"Concussion with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, initial encounter"
+S060X7D,S06.0X7D,S06,2016,2016,1,false,2016,2016,deleted,1,"Concussion with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, subsequent encounter"
+S060X7S,S06.0X7S,S06,2016,2016,1,false,2016,2016,deleted,1,"Concussion with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, sequela"
+S060X8A,S06.0X8A,S06,2016,2016,1,false,2016,2016,deleted,1,"Concussion with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, initial encounter"
+S060X8D,S06.0X8D,S06,2016,2016,1,false,2016,2016,deleted,1,"Concussion with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, subsequent encounter"
+S060X8S,S06.0X8S,S06,2016,2016,1,false,2016,2016,deleted,1,"Concussion with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, sequela"
+S061X7D,S06.1X7D,S06,2016,2017,2,false,2016,2017,deleted,1,"Traumatic cerebral edema with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, subsequent encounter"
+S061X7S,S06.1X7S,S06,2016,2017,2,false,2016,2017,deleted,1,"Traumatic cerebral edema with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, sequela"
+S061X8D,S06.1X8D,S06,2016,2017,2,false,2016,2017,deleted,1,"Traumatic cerebral edema with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, subsequent encounter"
+S061X8S,S06.1X8S,S06,2016,2017,2,false,2016,2017,deleted,1,"Traumatic cerebral edema with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, sequela"
+S062X7D,S06.2X7D,S06,2016,2017,2,false,2016,2017,deleted,1,"Diffuse traumatic brain injury with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, subsequent encounter"
+S062X7S,S06.2X7S,S06,2016,2017,2,false,2016,2017,deleted,1,"Diffuse traumatic brain injury with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, sequela"
+S062X8D,S06.2X8D,S06,2016,2017,2,false,2016,2017,deleted,1,"Diffuse traumatic brain injury with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, subsequent encounter"
+S062X8S,S06.2X8S,S06,2016,2017,2,false,2016,2017,deleted,1,"Diffuse traumatic brain injury with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, sequela"
+S06307D,S06.307D,S06,2016,2017,2,false,2016,2017,deleted,1,"Unspecified focal traumatic brain injury with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, subsequent encounter"
+S06307S,S06.307S,S06,2016,2017,2,false,2016,2017,deleted,1,"Unspecified focal traumatic brain injury with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, sequela"
+S06308D,S06.308D,S06,2016,2017,2,false,2016,2017,deleted,1,"Unspecified focal traumatic brain injury with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, subsequent encounter"
+S06308S,S06.308S,S06,2016,2017,2,false,2016,2017,deleted,1,"Unspecified focal traumatic brain injury with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, sequela"
+S06317D,S06.317D,S06,2016,2017,2,false,2016,2017,deleted,1,"Contusion and laceration of right cerebrum with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, subsequent encounter"
+S06317S,S06.317S,S06,2016,2017,2,false,2016,2017,deleted,1,"Contusion and laceration of right cerebrum with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, sequela"
+S06318D,S06.318D,S06,2016,2017,2,false,2016,2017,deleted,1,"Contusion and laceration of right cerebrum with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, subsequent encounter"
+S06318S,S06.318S,S06,2016,2017,2,false,2016,2017,deleted,1,"Contusion and laceration of right cerebrum with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, sequela"
+S06327D,S06.327D,S06,2016,2017,2,false,2016,2017,deleted,1,"Contusion and laceration of left cerebrum with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, subsequent encounter"
+S06327S,S06.327S,S06,2016,2017,2,false,2016,2017,deleted,1,"Contusion and laceration of left cerebrum with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, sequela"
+S06328D,S06.328D,S06,2016,2017,2,false,2016,2017,deleted,1,"Contusion and laceration of left cerebrum with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, subsequent encounter"
+S06328S,S06.328S,S06,2016,2017,2,false,2016,2017,deleted,1,"Contusion and laceration of left cerebrum with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, sequela"
+S06337D,S06.337D,S06,2016,2017,2,false,2016,2017,deleted,1,"Contusion and laceration of cerebrum, unspecified, with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, subsequent encounter"
+S06337S,S06.337S,S06,2016,2017,2,false,2016,2017,deleted,1,"Contusion and laceration of cerebrum, unspecified, with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, sequela"
+S06338D,S06.338D,S06,2016,2017,2,false,2016,2017,deleted,1,"Contusion and laceration of cerebrum, unspecified, with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, subsequent encounter"
+S06338S,S06.338S,S06,2016,2017,2,false,2016,2017,deleted,1,"Contusion and laceration of cerebrum, unspecified, with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, sequela"
+S06347D,S06.347D,S06,2016,2017,2,false,2016,2017,deleted,1,"Traumatic hemorrhage of right cerebrum with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, subsequent encounter"
+S06347S,S06.347S,S06,2016,2017,2,false,2016,2017,deleted,1,"Traumatic hemorrhage of right cerebrum with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, sequela"
+S06348D,S06.348D,S06,2016,2017,2,false,2016,2017,deleted,1,"Traumatic hemorrhage of right cerebrum with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, subsequent encounter"
+S06348S,S06.348S,S06,2016,2017,2,false,2016,2017,deleted,1,"Traumatic hemorrhage of right cerebrum with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, sequela"
+S06357D,S06.357D,S06,2016,2017,2,false,2016,2017,deleted,1,"Traumatic hemorrhage of left cerebrum with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, subsequent encounter"
+S06357S,S06.357S,S06,2016,2017,2,false,2016,2017,deleted,1,"Traumatic hemorrhage of left cerebrum with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, sequela"
+S06358D,S06.358D,S06,2016,2017,2,false,2016,2017,deleted,1,"Traumatic hemorrhage of left cerebrum with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, subsequent encounter"
+S06358S,S06.358S,S06,2016,2017,2,false,2016,2017,deleted,1,"Traumatic hemorrhage of left cerebrum with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, sequela"
+S06367D,S06.367D,S06,2016,2017,2,false,2016,2017,deleted,1,"Traumatic hemorrhage of cerebrum, unspecified, with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, subsequent encounter"
+S06367S,S06.367S,S06,2016,2017,2,false,2016,2017,deleted,1,"Traumatic hemorrhage of cerebrum, unspecified, with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, sequela"
+S06368D,S06.368D,S06,2016,2017,2,false,2016,2017,deleted,1,"Traumatic hemorrhage of cerebrum, unspecified, with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, subsequent encounter"
+S06368S,S06.368S,S06,2016,2017,2,false,2016,2017,deleted,1,"Traumatic hemorrhage of cerebrum, unspecified, with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, sequela"
+S06377D,S06.377D,S06,2016,2017,2,false,2016,2017,deleted,1,"Contusion, laceration, and hemorrhage of cerebellum with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, subsequent encounter"
+S06377S,S06.377S,S06,2016,2017,2,false,2016,2017,deleted,1,"Contusion, laceration, and hemorrhage of cerebellum with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, sequela"
+S06378D,S06.378D,S06,2016,2017,2,false,2016,2017,deleted,1,"Contusion, laceration, and hemorrhage of cerebellum with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, subsequent encounter"
+S06378S,S06.378S,S06,2016,2017,2,false,2016,2017,deleted,1,"Contusion, laceration, and hemorrhage of cerebellum with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, sequela"
+S06387D,S06.387D,S06,2016,2017,2,false,2016,2017,deleted,1,"Contusion, laceration, and hemorrhage of brainstem with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, subsequent encounter"
+S06387S,S06.387S,S06,2016,2017,2,false,2016,2017,deleted,1,"Contusion, laceration, and hemorrhage of brainstem with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, sequela"
+S06388D,S06.388D,S06,2016,2017,2,false,2016,2017,deleted,1,"Contusion, laceration, and hemorrhage of brainstem with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, subsequent encounter"
+S06388S,S06.388S,S06,2016,2017,2,false,2016,2017,deleted,1,"Contusion, laceration, and hemorrhage of brainstem with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, sequela"
+S064X7D,S06.4X7D,S06,2016,2017,2,false,2016,2017,deleted,1,"Epidural hemorrhage with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, subsequent encounter"
+S064X7S,S06.4X7S,S06,2016,2017,2,false,2016,2017,deleted,1,"Epidural hemorrhage with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, sequela"
+S064X8D,S06.4X8D,S06,2016,2017,2,false,2016,2017,deleted,1,"Epidural hemorrhage with loss of consciousness of any duration with death due to other causes prior to regaining consciousness, subsequent encounter"
+S064X8S,S06.4X8S,S06,2016,2017,2,false,2016,2017,deleted,1,"Epidural hemorrhage with loss of consciousness of any duration with death due to other causes prior to regaining consciousness, sequela"
+S065X7D,S06.5X7D,S06,2016,2017,2,false,2016,2017,deleted,1,"Traumatic subdural hemorrhage with loss of consciousness of any duration with death due to brain injury before regaining consciousness, subsequent encounter"
+S065X7S,S06.5X7S,S06,2016,2017,2,false,2016,2017,deleted,1,"Traumatic subdural hemorrhage with loss of consciousness of any duration with death due to brain injury before regaining consciousness, sequela"
+S065X8D,S06.5X8D,S06,2016,2017,2,false,2016,2017,deleted,1,"Traumatic subdural hemorrhage with loss of consciousness of any duration with death due to other cause before regaining consciousness, subsequent encounter"
+S065X8S,S06.5X8S,S06,2016,2017,2,false,2016,2017,deleted,1,"Traumatic subdural hemorrhage with loss of consciousness of any duration with death due to other cause before regaining consciousness, sequela"
+S066X7D,S06.6X7D,S06,2016,2017,2,false,2016,2017,deleted,1,"Traumatic subarachnoid hemorrhage with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, subsequent encounter"
+S066X7S,S06.6X7S,S06,2016,2017,2,false,2016,2017,deleted,1,"Traumatic subarachnoid hemorrhage with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, sequela"
+S066X8D,S06.6X8D,S06,2016,2017,2,false,2016,2017,deleted,1,"Traumatic subarachnoid hemorrhage with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, subsequent encounter"
+S066X8S,S06.6X8S,S06,2016,2017,2,false,2016,2017,deleted,1,"Traumatic subarachnoid hemorrhage with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, sequela"
+S06817D,S06.817D,S06,2016,2017,2,false,2016,2017,deleted,1,"Injury of right internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, subsequent encounter"
+S06817S,S06.817S,S06,2016,2017,2,false,2016,2017,deleted,1,"Injury of right internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, sequela"
+S06818D,S06.818D,S06,2016,2017,2,false,2016,2017,deleted,1,"Injury of right internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, subsequent encounter"
+S06818S,S06.818S,S06,2016,2017,2,false,2016,2017,deleted,1,"Injury of right internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, sequela"
+S06827D,S06.827D,S06,2016,2017,2,false,2016,2017,deleted,1,"Injury of left internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, subsequent encounter"
+S06827S,S06.827S,S06,2016,2017,2,false,2016,2017,deleted,1,"Injury of left internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, sequela"
+S06828D,S06.828D,S06,2016,2017,2,false,2016,2017,deleted,1,"Injury of left internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, subsequent encounter"
+S06828S,S06.828S,S06,2016,2017,2,false,2016,2017,deleted,1,"Injury of left internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, sequela"
+S06897D,S06.897D,S06,2016,2017,2,false,2016,2017,deleted,1,"Other specified intracranial injury with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, subsequent encounter"
+S06897S,S06.897S,S06,2016,2017,2,false,2016,2017,deleted,1,"Other specified intracranial injury with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, sequela"
+S06898D,S06.898D,S06,2016,2017,2,false,2016,2017,deleted,1,"Other specified intracranial injury with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, subsequent encounter"
+S06898S,S06.898S,S06,2016,2017,2,false,2016,2017,deleted,1,"Other specified intracranial injury with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, sequela"
+S069X7D,S06.9X7D,S06,2016,2017,2,false,2016,2017,deleted,1,"Unspecified intracranial injury with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, subsequent encounter"
+S069X7S,S06.9X7S,S06,2016,2017,2,false,2016,2017,deleted,1,"Unspecified intracranial injury with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, sequela"
+S069X8D,S06.9X8D,S06,2016,2017,2,false,2016,2017,deleted,1,"Unspecified intracranial injury with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, subsequent encounter"
+S069X8S,S06.9X8S,S06,2016,2017,2,false,2016,2017,deleted,1,"Unspecified intracranial injury with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, sequela"
+S23420A,S23.420A,S23,2016,2026,11,false,2016,2026,deleted,1,"Sprain of sternoclavicular (joint) (ligament), initial encounter"
+S23420D,S23.420D,S23,2016,2026,11,false,2016,2026,deleted,1,"Sprain of sternoclavicular (joint) (ligament), subsequent encounter"
+S23420S,S23.420S,S23,2016,2026,11,false,2016,2026,deleted,1,"Sprain of sternoclavicular (joint) (ligament), sequela"
+S301XXA,S30.1XXA,S30,2016,2025,10,false,2016,2025,deleted,1,"Contusion of abdominal wall, initial encounter"
+S301XXD,S30.1XXD,S30,2016,2025,10,false,2016,2025,deleted,1,"Contusion of abdominal wall, subsequent encounter"
+S301XXS,S30.1XXS,S30,2016,2025,10,false,2016,2025,deleted,1,"Contusion of abdominal wall, sequela"
+S63131A,S63.131A,S63,2016,2017,2,false,2016,2017,deleted,1,"Subluxation of proximal interphalangeal joint of right thumb, initial encounter"
+S63131D,S63.131D,S63,2016,2017,2,false,2016,2017,deleted,1,"Subluxation of proximal interphalangeal joint of right thumb, subsequent encounter"
+S63131S,S63.131S,S63,2016,2017,2,false,2016,2017,deleted,1,"Subluxation of proximal interphalangeal joint of right thumb, sequela"
+S63132A,S63.132A,S63,2016,2017,2,false,2016,2017,deleted,1,"Subluxation of proximal interphalangeal joint of left thumb, initial encounter"
+S63132D,S63.132D,S63,2016,2017,2,false,2016,2017,deleted,1,"Subluxation of proximal interphalangeal joint of left thumb, subsequent encounter"
+S63132S,S63.132S,S63,2016,2017,2,false,2016,2017,deleted,1,"Subluxation of proximal interphalangeal joint of left thumb, sequela"
+S63133A,S63.133A,S63,2016,2017,2,false,2016,2017,deleted,1,"Subluxation of proximal interphalangeal joint of unspecified thumb, initial encounter"
+S63133D,S63.133D,S63,2016,2017,2,false,2016,2017,deleted,1,"Subluxation of proximal interphalangeal joint of unspecified thumb, subsequent encounter"
+S63133S,S63.133S,S63,2016,2017,2,false,2016,2017,deleted,1,"Subluxation of proximal interphalangeal joint of unspecified thumb, sequela"
+S63134A,S63.134A,S63,2016,2017,2,false,2016,2017,deleted,1,"Dislocation of proximal interphalangeal joint of right thumb, initial encounter"
+S63134D,S63.134D,S63,2016,2017,2,false,2016,2017,deleted,1,"Dislocation of proximal interphalangeal joint of right thumb, subsequent encounter"
+S63134S,S63.134S,S63,2016,2017,2,false,2016,2017,deleted,1,"Dislocation of proximal interphalangeal joint of right thumb, sequela"
+S63135A,S63.135A,S63,2016,2017,2,false,2016,2017,deleted,1,"Dislocation of proximal interphalangeal joint of left thumb, initial encounter"
+S63135D,S63.135D,S63,2016,2017,2,false,2016,2017,deleted,1,"Dislocation of proximal interphalangeal joint of left thumb, subsequent encounter"
+S63135S,S63.135S,S63,2016,2017,2,false,2016,2017,deleted,1,"Dislocation of proximal interphalangeal joint of left thumb, sequela"
+S63136A,S63.136A,S63,2016,2017,2,false,2016,2017,deleted,1,"Dislocation of proximal interphalangeal joint of unspecified thumb, initial encounter"
+S63136D,S63.136D,S63,2016,2017,2,false,2016,2017,deleted,1,"Dislocation of proximal interphalangeal joint of unspecified thumb, subsequent encounter"
+S63136S,S63.136S,S63,2016,2017,2,false,2016,2017,deleted,1,"Dislocation of proximal interphalangeal joint of unspecified thumb, sequela"
+S63141A,S63.141A,S63,2016,2017,2,false,2016,2017,deleted,1,"Subluxation of distal interphalangeal joint of right thumb, initial encounter"
+S63141D,S63.141D,S63,2016,2017,2,false,2016,2017,deleted,1,"Subluxation of distal interphalangeal joint of right thumb, subsequent encounter"
+S63141S,S63.141S,S63,2016,2017,2,false,2016,2017,deleted,1,"Subluxation of distal interphalangeal joint of right thumb, sequela"
+S63142A,S63.142A,S63,2016,2017,2,false,2016,2017,deleted,1,"Subluxation of distal interphalangeal joint of left thumb, initial encounter"
+S63142D,S63.142D,S63,2016,2017,2,false,2016,2017,deleted,1,"Subluxation of distal interphalangeal joint of left thumb, subsequent encounter"
+S63142S,S63.142S,S63,2016,2017,2,false,2016,2017,deleted,1,"Subluxation of distal interphalangeal joint of left thumb, sequela"
+S63143A,S63.143A,S63,2016,2017,2,false,2016,2017,deleted,1,"Subluxation of distal interphalangeal joint of unspecified thumb, initial encounter"
+S63143D,S63.143D,S63,2016,2017,2,false,2016,2017,deleted,1,"Subluxation of distal interphalangeal joint of unspecified thumb, subsequent encounter"
+S63143S,S63.143S,S63,2016,2017,2,false,2016,2017,deleted,1,"Subluxation of distal interphalangeal joint of unspecified thumb, sequela"
+S63144A,S63.144A,S63,2016,2017,2,false,2016,2017,deleted,1,"Dislocation of distal interphalangeal joint of right thumb, initial encounter"
+S63144D,S63.144D,S63,2016,2017,2,false,2016,2017,deleted,1,"Dislocation of distal interphalangeal joint of right thumb, subsequent encounter"
+S63144S,S63.144S,S63,2016,2017,2,false,2016,2017,deleted,1,"Dislocation of distal interphalangeal joint of right thumb, sequela"
+S63145A,S63.145A,S63,2016,2017,2,false,2016,2017,deleted,1,"Dislocation of distal interphalangeal joint of left thumb, initial encounter"
+S63145D,S63.145D,S63,2016,2017,2,false,2016,2017,deleted,1,"Dislocation of distal interphalangeal joint of left thumb, subsequent encounter"
+S63145S,S63.145S,S63,2016,2017,2,false,2016,2017,deleted,1,"Dislocation of distal interphalangeal joint of left thumb, sequela"
+S63146A,S63.146A,S63,2016,2017,2,false,2016,2017,deleted,1,"Dislocation of distal interphalangeal joint of unspecified thumb, initial encounter"
+S63146D,S63.146D,S63,2016,2017,2,false,2016,2017,deleted,1,"Dislocation of distal interphalangeal joint of unspecified thumb, subsequent encounter"
+S63146S,S63.146S,S63,2016,2017,2,false,2016,2017,deleted,1,"Dislocation of distal interphalangeal joint of unspecified thumb, sequela"
+T07,T07,T07,2016,2027,12,false,2016,2017,header,1,Unspecified multiple injuries
+T148,T14.8,T14,2016,2027,12,false,2016,2017,header,1,Other injury of unspecified body region
+T1490,T14.90,T14,2016,2027,12,false,2016,2017,header,1,"Injury, unspecified"
+T1491,T14.91,T14,2016,2027,12,false,2016,2017,header,1,Suicide attempt
+T404X1A,T40.4X1A,T40,2016,2020,5,false,2016,2020,deleted,1,"Poisoning by other synthetic narcotics, accidental (unintentional), initial encounter"
+T404X1D,T40.4X1D,T40,2016,2020,5,false,2016,2020,deleted,1,"Poisoning by other synthetic narcotics, accidental (unintentional), subsequent encounter"
+T404X1S,T40.4X1S,T40,2016,2020,5,false,2016,2020,deleted,1,"Poisoning by other synthetic narcotics, accidental (unintentional), sequela"
+T404X2A,T40.4X2A,T40,2016,2020,5,false,2016,2020,deleted,1,"Poisoning by other synthetic narcotics, intentional self-harm, initial encounter"
+T404X2D,T40.4X2D,T40,2016,2020,5,false,2016,2020,deleted,1,"Poisoning by other synthetic narcotics, intentional self-harm, subsequent encounter"
+T404X2S,T40.4X2S,T40,2016,2020,5,false,2016,2020,deleted,1,"Poisoning by other synthetic narcotics, intentional self-harm, sequela"
+T404X3A,T40.4X3A,T40,2016,2020,5,false,2016,2020,deleted,1,"Poisoning by other synthetic narcotics, assault, initial encounter"
+T404X3D,T40.4X3D,T40,2016,2020,5,false,2016,2020,deleted,1,"Poisoning by other synthetic narcotics, assault, subsequent encounter"
+T404X3S,T40.4X3S,T40,2016,2020,5,false,2016,2020,deleted,1,"Poisoning by other synthetic narcotics, assault, sequela"
+T404X4A,T40.4X4A,T40,2016,2020,5,false,2016,2020,deleted,1,"Poisoning by other synthetic narcotics, undetermined, initial encounter"
+T404X4D,T40.4X4D,T40,2016,2020,5,false,2016,2020,deleted,1,"Poisoning by other synthetic narcotics, undetermined, subsequent encounter"
+T404X4S,T40.4X4S,T40,2016,2020,5,false,2016,2020,deleted,1,"Poisoning by other synthetic narcotics, undetermined, sequela"
+T404X5A,T40.4X5A,T40,2016,2020,5,false,2016,2020,deleted,1,"Adverse effect of other synthetic narcotics, initial encounter"
+T404X5D,T40.4X5D,T40,2016,2020,5,false,2016,2020,deleted,1,"Adverse effect of other synthetic narcotics, subsequent encounter"
+T404X5S,T40.4X5S,T40,2016,2020,5,false,2016,2020,deleted,1,"Adverse effect of other synthetic narcotics, sequela"
+T404X6A,T40.4X6A,T40,2016,2020,5,false,2016,2020,deleted,1,"Underdosing of other synthetic narcotics, initial encounter"
+T404X6D,T40.4X6D,T40,2016,2020,5,false,2016,2020,deleted,1,"Underdosing of other synthetic narcotics, subsequent encounter"
+T404X6S,T40.4X6S,T40,2016,2020,5,false,2016,2020,deleted,1,"Underdosing of other synthetic narcotics, sequela"
+T407X1A,T40.7X1A,T40,2016,2021,6,false,2016,2021,deleted,1,"Poisoning by cannabis (derivatives), accidental (unintentional), initial encounter"
+T407X1D,T40.7X1D,T40,2016,2021,6,false,2016,2021,deleted,1,"Poisoning by cannabis (derivatives), accidental (unintentional), subsequent encounter"
+T407X1S,T40.7X1S,T40,2016,2021,6,false,2016,2021,deleted,1,"Poisoning by cannabis (derivatives), accidental (unintentional), sequela"
+T407X2A,T40.7X2A,T40,2016,2021,6,false,2016,2021,deleted,1,"Poisoning by cannabis (derivatives), intentional self-harm, initial encounter"
+T407X2D,T40.7X2D,T40,2016,2021,6,false,2016,2021,deleted,1,"Poisoning by cannabis (derivatives), intentional self-harm, subsequent encounter"
+T407X2S,T40.7X2S,T40,2016,2021,6,false,2016,2021,deleted,1,"Poisoning by cannabis (derivatives), intentional self-harm, sequela"
+T407X3A,T40.7X3A,T40,2016,2021,6,false,2016,2021,deleted,1,"Poisoning by cannabis (derivatives), assault, initial encounter"
+T407X3D,T40.7X3D,T40,2016,2021,6,false,2016,2021,deleted,1,"Poisoning by cannabis (derivatives), assault, subsequent encounter"
+T407X3S,T40.7X3S,T40,2016,2021,6,false,2016,2021,deleted,1,"Poisoning by cannabis (derivatives), assault, sequela"
+T407X4A,T40.7X4A,T40,2016,2021,6,false,2016,2021,deleted,1,"Poisoning by cannabis (derivatives), undetermined, initial encounter"
+T407X4D,T40.7X4D,T40,2016,2021,6,false,2016,2021,deleted,1,"Poisoning by cannabis (derivatives), undetermined, subsequent encounter"
+T407X4S,T40.7X4S,T40,2016,2021,6,false,2016,2021,deleted,1,"Poisoning by cannabis (derivatives), undetermined, sequela"
+T407X5A,T40.7X5A,T40,2016,2021,6,false,2016,2021,deleted,1,"Adverse effect of cannabis (derivatives), initial encounter"
+T407X5D,T40.7X5D,T40,2016,2021,6,false,2016,2021,deleted,1,"Adverse effect of cannabis (derivatives), subsequent encounter"
+T407X5S,T40.7X5S,T40,2016,2021,6,false,2016,2021,deleted,1,"Adverse effect of cannabis (derivatives), sequela"
+T407X6A,T40.7X6A,T40,2016,2021,6,false,2016,2021,deleted,1,"Underdosing of cannabis (derivatives), initial encounter"
+T407X6D,T40.7X6D,T40,2016,2021,6,false,2016,2021,deleted,1,"Underdosing of cannabis (derivatives), subsequent encounter"
+T407X6S,T40.7X6S,T40,2016,2021,6,false,2016,2021,deleted,1,"Underdosing of cannabis (derivatives), sequela"
+T528X1A,T52.8X1A,T52,2016,2026,11,false,2016,2026,deleted,1,"Toxic effect of other organic solvents, accidental (unintentional), initial encounter"
+T528X1D,T52.8X1D,T52,2016,2026,11,false,2016,2026,deleted,1,"Toxic effect of other organic solvents, accidental (unintentional), subsequent encounter"
+T528X1S,T52.8X1S,T52,2016,2026,11,false,2016,2026,deleted,1,"Toxic effect of other organic solvents, accidental (unintentional), sequela"
+T528X2A,T52.8X2A,T52,2016,2026,11,false,2016,2026,deleted,1,"Toxic effect of other organic solvents, intentional self-harm, initial encounter"
+T528X2D,T52.8X2D,T52,2016,2026,11,false,2016,2026,deleted,1,"Toxic effect of other organic solvents, intentional self-harm, subsequent encounter"
+T528X2S,T52.8X2S,T52,2016,2026,11,false,2016,2026,deleted,1,"Toxic effect of other organic solvents, intentional self-harm, sequela"
+T528X3A,T52.8X3A,T52,2016,2026,11,false,2016,2026,deleted,1,"Toxic effect of other organic solvents, assault, initial encounter"
+T528X3D,T52.8X3D,T52,2016,2026,11,false,2016,2026,deleted,1,"Toxic effect of other organic solvents, assault, subsequent encounter"
+T528X3S,T52.8X3S,T52,2016,2026,11,false,2016,2026,deleted,1,"Toxic effect of other organic solvents, assault, sequela"
+T528X4A,T52.8X4A,T52,2016,2026,11,false,2016,2026,deleted,1,"Toxic effect of other organic solvents, undetermined, initial encounter"
+T528X4D,T52.8X4D,T52,2016,2026,11,false,2016,2026,deleted,1,"Toxic effect of other organic solvents, undetermined, subsequent encounter"
+T528X4S,T52.8X4S,T52,2016,2026,11,false,2016,2026,deleted,1,"Toxic effect of other organic solvents, undetermined, sequela"
+T670XXA,T67.0XXA,T67,2016,2019,4,false,2016,2019,deleted,1,"Heatstroke and sunstroke, initial encounter"
+T670XXD,T67.0XXD,T67,2016,2019,4,false,2016,2019,deleted,1,"Heatstroke and sunstroke, subsequent encounter"
+T670XXS,T67.0XXS,T67,2016,2019,4,false,2016,2019,deleted,1,"Heatstroke and sunstroke, sequela"
+T7807XA,T78.07XA,T78,2016,2025,10,false,2016,2025,deleted,1,"Anaphylactic reaction due to milk and dairy products, initial encounter"
+T7807XD,T78.07XD,T78,2016,2025,10,false,2016,2025,deleted,1,"Anaphylactic reaction due to milk and dairy products, subsequent encounter"
+T7807XS,T78.07XS,T78,2016,2025,10,false,2016,2025,deleted,1,"Anaphylactic reaction due to milk and dairy products, sequela"
+T7808XA,T78.08XA,T78,2016,2025,10,false,2016,2025,deleted,1,"Anaphylactic reaction due to eggs, initial encounter"
+T7808XD,T78.08XD,T78,2016,2025,10,false,2016,2025,deleted,1,"Anaphylactic reaction due to eggs, subsequent encounter"
+T7808XS,T78.08XS,T78,2016,2025,10,false,2016,2025,deleted,1,"Anaphylactic reaction due to eggs, sequela"
+T781XXA,T78.1XXA,T78,2016,2025,10,false,2016,2025,deleted,1,"Other adverse food reactions, not elsewhere classified, initial encounter"
+T781XXD,T78.1XXD,T78,2016,2025,10,false,2016,2025,deleted,1,"Other adverse food reactions, not elsewhere classified, subsequent encounter"
+T781XXS,T78.1XXS,T78,2016,2025,10,false,2016,2025,deleted,1,"Other adverse food reactions, not elsewhere classified, sequela"
+T8132XA,T81.32XA,T81,2016,2024,9,false,2016,2024,deleted,1,"Disruption of internal operation (surgical) wound, not elsewhere classified, initial encounter"
+T8132XD,T81.32XD,T81,2016,2024,9,false,2016,2024,deleted,1,"Disruption of internal operation (surgical) wound, not elsewhere classified, subsequent encounter"
+T8132XS,T81.32XS,T81,2016,2024,9,false,2016,2024,deleted,1,"Disruption of internal operation (surgical) wound, not elsewhere classified, sequela"
+T814XXA,T81.4XXA,T81,2016,2018,3,false,2016,2018,deleted,1,"Infection following a procedure, initial encounter"
+T814XXD,T81.4XXD,T81,2016,2018,3,false,2016,2018,deleted,1,"Infection following a procedure, subsequent encounter"
+T814XXS,T81.4XXS,T81,2016,2018,3,false,2016,2018,deleted,1,"Infection following a procedure, sequela"
+T8351XA,T83.51XA,T83,2016,2016,1,false,2016,2016,deleted,1,"Infection and inflammatory reaction due to indwelling urinary catheter, initial encounter"
+T8351XD,T83.51XD,T83,2016,2016,1,false,2016,2016,deleted,1,"Infection and inflammatory reaction due to indwelling urinary catheter, subsequent encounter"
+T8351XS,T83.51XS,T83,2016,2016,1,false,2016,2016,deleted,1,"Infection and inflammatory reaction due to indwelling urinary catheter, sequela"
+T8359XA,T83.59XA,T83,2016,2016,1,false,2016,2016,deleted,1,"Infection and inflammatory reaction due to prosthetic device, implant and graft in urinary system, initial encounter"
+T8359XD,T83.59XD,T83,2016,2016,1,false,2016,2016,deleted,1,"Infection and inflammatory reaction due to prosthetic device, implant and graft in urinary system, subsequent encounter"
+T8359XS,T83.59XS,T83,2016,2016,1,false,2016,2016,deleted,1,"Infection and inflammatory reaction due to prosthetic device, implant and graft in urinary system, sequela"
+T836XXA,T83.6XXA,T83,2016,2016,1,false,2016,2016,deleted,1,"Infection and inflammatory reaction due to prosthetic device, implant and graft in genital tract, initial encounter"
+T836XXD,T83.6XXD,T83,2016,2016,1,false,2016,2016,deleted,1,"Infection and inflammatory reaction due to prosthetic device, implant and graft in genital tract, subsequent encounter"
+T836XXS,T83.6XXS,T83,2016,2016,1,false,2016,2016,deleted,1,"Infection and inflammatory reaction due to prosthetic device, implant and graft in genital tract, sequela"
+T84040A,T84.040A,T84,2016,2016,1,false,2016,2016,deleted,1,"Periprosthetic fracture around internal prosthetic right hip joint, initial encounter"
+T84040D,T84.040D,T84,2016,2016,1,false,2016,2016,deleted,1,"Periprosthetic fracture around internal prosthetic right hip joint, subsequent encounter"
+T84040S,T84.040S,T84,2016,2016,1,false,2016,2016,deleted,1,"Periprosthetic fracture around internal prosthetic right hip joint, sequela"
+T84041A,T84.041A,T84,2016,2016,1,false,2016,2016,deleted,1,"Periprosthetic fracture around internal prosthetic left hip joint, initial encounter"
+T84041D,T84.041D,T84,2016,2016,1,false,2016,2016,deleted,1,"Periprosthetic fracture around internal prosthetic left hip joint, subsequent encounter"
+T84041S,T84.041S,T84,2016,2016,1,false,2016,2016,deleted,1,"Periprosthetic fracture around internal prosthetic left hip joint, sequela"
+T84042A,T84.042A,T84,2016,2016,1,false,2016,2016,deleted,1,"Periprosthetic fracture around internal prosthetic right knee joint, initial encounter"
+T84042D,T84.042D,T84,2016,2016,1,false,2016,2016,deleted,1,"Periprosthetic fracture around internal prosthetic right knee joint, subsequent encounter"
+T84042S,T84.042S,T84,2016,2016,1,false,2016,2016,deleted,1,"Periprosthetic fracture around internal prosthetic right knee joint, sequela"
+T84043A,T84.043A,T84,2016,2016,1,false,2016,2016,deleted,1,"Periprosthetic fracture around internal prosthetic left knee joint, initial encounter"
+T84043D,T84.043D,T84,2016,2016,1,false,2016,2016,deleted,1,"Periprosthetic fracture around internal prosthetic left knee joint, subsequent encounter"
+T84043S,T84.043S,T84,2016,2016,1,false,2016,2016,deleted,1,"Periprosthetic fracture around internal prosthetic left knee joint, sequela"
+T84048A,T84.048A,T84,2016,2016,1,false,2016,2016,deleted,1,"Periprosthetic fracture around other internal prosthetic joint, initial encounter"
+T84048D,T84.048D,T84,2016,2016,1,false,2016,2016,deleted,1,"Periprosthetic fracture around other internal prosthetic joint, subsequent encounter"
+T84048S,T84.048S,T84,2016,2016,1,false,2016,2016,deleted,1,"Periprosthetic fracture around other internal prosthetic joint, sequela"
+T84049A,T84.049A,T84,2016,2016,1,false,2016,2016,deleted,1,"Periprosthetic fracture around unspecified internal prosthetic joint, initial encounter"
+T84049D,T84.049D,T84,2016,2016,1,false,2016,2016,deleted,1,"Periprosthetic fracture around unspecified internal prosthetic joint, subsequent encounter"
+T84049S,T84.049S,T84,2016,2016,1,false,2016,2016,deleted,1,"Periprosthetic fracture around unspecified internal prosthetic joint, sequela"
+T8581XA,T85.81XA,T85,2016,2016,1,false,2016,2016,deleted,1,"Embolism due to internal prosthetic devices, implants and grafts, not elsewhere classified, initial encounter"
+T8581XD,T85.81XD,T85,2016,2016,1,false,2016,2016,deleted,1,"Embolism due to internal prosthetic devices, implants and grafts, not elsewhere classified, subsequent encounter"
+T8581XS,T85.81XS,T85,2016,2016,1,false,2016,2016,deleted,1,"Embolism due to internal prosthetic devices, implants and grafts, not elsewhere classified, sequela"
+T8582XA,T85.82XA,T85,2016,2016,1,false,2016,2016,deleted,1,"Fibrosis due to internal prosthetic devices, implants and grafts, not elsewhere classified, initial encounter"
+T8582XD,T85.82XD,T85,2016,2016,1,false,2016,2016,deleted,1,"Fibrosis due to internal prosthetic devices, implants and grafts, not elsewhere classified, subsequent encounter"
+T8582XS,T85.82XS,T85,2016,2016,1,false,2016,2016,deleted,1,"Fibrosis due to internal prosthetic devices, implants and grafts, not elsewhere classified, sequela"
+T8583XA,T85.83XA,T85,2016,2016,1,false,2016,2016,deleted,1,"Hemorrhage due to internal prosthetic devices, implants and grafts, not elsewhere classified, initial encounter"
+T8583XD,T85.83XD,T85,2016,2016,1,false,2016,2016,deleted,1,"Hemorrhage due to internal prosthetic devices, implants and grafts, not elsewhere classified, subsequent encounter"
+T8583XS,T85.83XS,T85,2016,2016,1,false,2016,2016,deleted,1,"Hemorrhage due to internal prosthetic devices, implants and grafts, not elsewhere classified, sequela"
+T8584XA,T85.84XA,T85,2016,2016,1,false,2016,2016,deleted,1,"Pain due to internal prosthetic devices, implants and grafts, not elsewhere classified, initial encounter"
+T8584XD,T85.84XD,T85,2016,2016,1,false,2016,2016,deleted,1,"Pain due to internal prosthetic devices, implants and grafts, not elsewhere classified, subsequent encounter"
+T8584XS,T85.84XS,T85,2016,2016,1,false,2016,2016,deleted,1,"Pain due to internal prosthetic devices, implants and grafts, not elsewhere classified, sequela"
+T8585XA,T85.85XA,T85,2016,2016,1,false,2016,2016,deleted,1,"Stenosis due to internal prosthetic devices, implants and grafts, not elsewhere classified, initial encounter"
+T8585XD,T85.85XD,T85,2016,2016,1,false,2016,2016,deleted,1,"Stenosis due to internal prosthetic devices, implants and grafts, not elsewhere classified, subsequent encounter"
+T8585XS,T85.85XS,T85,2016,2016,1,false,2016,2016,deleted,1,"Stenosis due to internal prosthetic devices, implants and grafts, not elsewhere classified, sequela"
+T8586XA,T85.86XA,T85,2016,2016,1,false,2016,2016,deleted,1,"Thrombosis due to internal prosthetic devices, implants and grafts, not elsewhere classified, initial encounter"
+T8586XD,T85.86XD,T85,2016,2016,1,false,2016,2016,deleted,1,"Thrombosis due to internal prosthetic devices, implants and grafts, not elsewhere classified, subsequent encounter"
+T8586XS,T85.86XS,T85,2016,2016,1,false,2016,2016,deleted,1,"Thrombosis due to internal prosthetic devices, implants and grafts, not elsewhere classified, sequela"
+T8589XA,T85.89XA,T85,2016,2016,1,false,2016,2016,deleted,1,"Other specified complication of internal prosthetic devices, implants and grafts, not elsewhere classified, initial encounter"
+T8589XD,T85.89XD,T85,2016,2016,1,false,2016,2016,deleted,1,"Other specified complication of internal prosthetic devices, implants and grafts, not elsewhere classified, subsequent encounter"
+T8589XS,T85.89XS,T85,2016,2016,1,false,2016,2016,deleted,1,"Other specified complication of internal prosthetic devices, implants and grafts, not elsewhere classified, sequela"
+T86840,T86.840,T86,2016,2027,12,false,2016,2020,header,1,Corneal transplant rejection
+T86841,T86.841,T86,2016,2027,12,false,2016,2020,header,1,Corneal transplant failure
+T86842,T86.842,T86,2016,2027,12,false,2016,2020,header,1,Corneal transplant infection
+T86848,T86.848,T86,2016,2027,12,false,2016,2020,header,1,Other complications of corneal transplant
+T86849,T86.849,T86,2016,2027,12,false,2016,2020,header,1,Unspecified complication of corneal transplant
+V200XXA,V20.0XXA,V20,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle driver injured in collision with pedestrian or animal in nontraffic accident, initial encounter"
+V200XXD,V20.0XXD,V20,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle driver injured in collision with pedestrian or animal in nontraffic accident, subsequent encounter"
+V200XXS,V20.0XXS,V20,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle driver injured in collision with pedestrian or animal in nontraffic accident, sequela"
+V201XXA,V20.1XXA,V20,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle passenger injured in collision with pedestrian or animal in nontraffic accident, initial encounter"
+V201XXD,V20.1XXD,V20,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle passenger injured in collision with pedestrian or animal in nontraffic accident, subsequent encounter"
+V201XXS,V20.1XXS,V20,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle passenger injured in collision with pedestrian or animal in nontraffic accident, sequela"
+V202XXA,V20.2XXA,V20,2016,2022,7,false,2016,2022,deleted,1,"Unspecified motorcycle rider injured in collision with pedestrian or animal in nontraffic accident, initial encounter"
+V202XXD,V20.2XXD,V20,2016,2022,7,false,2016,2022,deleted,1,"Unspecified motorcycle rider injured in collision with pedestrian or animal in nontraffic accident, subsequent encounter"
+V202XXS,V20.2XXS,V20,2016,2022,7,false,2016,2022,deleted,1,"Unspecified motorcycle rider injured in collision with pedestrian or animal in nontraffic accident, sequela"
+V203XXA,V20.3XXA,V20,2016,2022,7,false,2016,2022,deleted,1,"Person boarding or alighting a motorcycle injured in collision with pedestrian or animal, initial encounter"
+V203XXD,V20.3XXD,V20,2016,2022,7,false,2016,2022,deleted,1,"Person boarding or alighting a motorcycle injured in collision with pedestrian or animal, subsequent encounter"
+V203XXS,V20.3XXS,V20,2016,2022,7,false,2016,2022,deleted,1,"Person boarding or alighting a motorcycle injured in collision with pedestrian or animal, sequela"
+V204XXA,V20.4XXA,V20,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle driver injured in collision with pedestrian or animal in traffic accident, initial encounter"
+V204XXD,V20.4XXD,V20,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle driver injured in collision with pedestrian or animal in traffic accident, subsequent encounter"
+V204XXS,V20.4XXS,V20,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle driver injured in collision with pedestrian or animal in traffic accident, sequela"
+V205XXA,V20.5XXA,V20,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle passenger injured in collision with pedestrian or animal in traffic accident, initial encounter"
+V205XXD,V20.5XXD,V20,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle passenger injured in collision with pedestrian or animal in traffic accident, subsequent encounter"
+V205XXS,V20.5XXS,V20,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle passenger injured in collision with pedestrian or animal in traffic accident, sequela"
+V209XXA,V20.9XXA,V20,2016,2022,7,false,2016,2022,deleted,1,"Unspecified motorcycle rider injured in collision with pedestrian or animal in traffic accident, initial encounter"
+V209XXD,V20.9XXD,V20,2016,2022,7,false,2016,2022,deleted,1,"Unspecified motorcycle rider injured in collision with pedestrian or animal in traffic accident, subsequent encounter"
+V209XXS,V20.9XXS,V20,2016,2022,7,false,2016,2022,deleted,1,"Unspecified motorcycle rider injured in collision with pedestrian or animal in traffic accident, sequela"
+V210XXA,V21.0XXA,V21,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle driver injured in collision with pedal cycle in nontraffic accident, initial encounter"
+V210XXD,V21.0XXD,V21,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle driver injured in collision with pedal cycle in nontraffic accident, subsequent encounter"
+V210XXS,V21.0XXS,V21,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle driver injured in collision with pedal cycle in nontraffic accident, sequela"
+V211XXA,V21.1XXA,V21,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle passenger injured in collision with pedal cycle in nontraffic accident, initial encounter"
+V211XXD,V21.1XXD,V21,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle passenger injured in collision with pedal cycle in nontraffic accident, subsequent encounter"
+V211XXS,V21.1XXS,V21,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle passenger injured in collision with pedal cycle in nontraffic accident, sequela"
+V212XXA,V21.2XXA,V21,2016,2022,7,false,2016,2022,deleted,1,"Unspecified motorcycle rider injured in collision with pedal cycle in nontraffic accident, initial encounter"
+V212XXD,V21.2XXD,V21,2016,2022,7,false,2016,2022,deleted,1,"Unspecified motorcycle rider injured in collision with pedal cycle in nontraffic accident, subsequent encounter"
+V212XXS,V21.2XXS,V21,2016,2022,7,false,2016,2022,deleted,1,"Unspecified motorcycle rider injured in collision with pedal cycle in nontraffic accident, sequela"
+V213XXA,V21.3XXA,V21,2016,2022,7,false,2016,2022,deleted,1,"Person boarding or alighting a motorcycle injured in collision with pedal cycle, initial encounter"
+V213XXD,V21.3XXD,V21,2016,2022,7,false,2016,2022,deleted,1,"Person boarding or alighting a motorcycle injured in collision with pedal cycle, subsequent encounter"
+V213XXS,V21.3XXS,V21,2016,2022,7,false,2016,2022,deleted,1,"Person boarding or alighting a motorcycle injured in collision with pedal cycle, sequela"
+V214XXA,V21.4XXA,V21,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle driver injured in collision with pedal cycle in traffic accident, initial encounter"
+V214XXD,V21.4XXD,V21,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle driver injured in collision with pedal cycle in traffic accident, subsequent encounter"
+V214XXS,V21.4XXS,V21,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle driver injured in collision with pedal cycle in traffic accident, sequela"
+V215XXA,V21.5XXA,V21,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle passenger injured in collision with pedal cycle in traffic accident, initial encounter"
+V215XXD,V21.5XXD,V21,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle passenger injured in collision with pedal cycle in traffic accident, subsequent encounter"
+V215XXS,V21.5XXS,V21,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle passenger injured in collision with pedal cycle in traffic accident, sequela"
+V219XXA,V21.9XXA,V21,2016,2022,7,false,2016,2022,deleted,1,"Unspecified motorcycle rider injured in collision with pedal cycle in traffic accident, initial encounter"
+V219XXD,V21.9XXD,V21,2016,2022,7,false,2016,2022,deleted,1,"Unspecified motorcycle rider injured in collision with pedal cycle in traffic accident, subsequent encounter"
+V219XXS,V21.9XXS,V21,2016,2022,7,false,2016,2022,deleted,1,"Unspecified motorcycle rider injured in collision with pedal cycle in traffic accident, sequela"
+V220XXA,V22.0XXA,V22,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle driver injured in collision with two- or three-wheeled motor vehicle in nontraffic accident, initial encounter"
+V220XXD,V22.0XXD,V22,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle driver injured in collision with two- or three-wheeled motor vehicle in nontraffic accident, subsequent encounter"
+V220XXS,V22.0XXS,V22,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle driver injured in collision with two- or three-wheeled motor vehicle in nontraffic accident, sequela"
+V221XXA,V22.1XXA,V22,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle passenger injured in collision with two- or three-wheeled motor vehicle in nontraffic accident, initial encounter"
+V221XXD,V22.1XXD,V22,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle passenger injured in collision with two- or three-wheeled motor vehicle in nontraffic accident, subsequent encounter"
+V221XXS,V22.1XXS,V22,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle passenger injured in collision with two- or three-wheeled motor vehicle in nontraffic accident, sequela"
+V222XXA,V22.2XXA,V22,2016,2022,7,false,2016,2022,deleted,1,"Unspecified motorcycle rider injured in collision with two- or three-wheeled motor vehicle in nontraffic accident, initial encounter"
+V222XXD,V22.2XXD,V22,2016,2022,7,false,2016,2022,deleted,1,"Unspecified motorcycle rider injured in collision with two- or three-wheeled motor vehicle in nontraffic accident, subsequent encounter"
+V222XXS,V22.2XXS,V22,2016,2022,7,false,2016,2022,deleted,1,"Unspecified motorcycle rider injured in collision with two- or three-wheeled motor vehicle in nontraffic accident, sequela"
+V223XXA,V22.3XXA,V22,2016,2022,7,false,2016,2022,deleted,1,"Person boarding or alighting a motorcycle injured in collision with two- or three-wheeled motor vehicle, initial encounter"
+V223XXD,V22.3XXD,V22,2016,2022,7,false,2016,2022,deleted,1,"Person boarding or alighting a motorcycle injured in collision with two- or three-wheeled motor vehicle, subsequent encounter"
+V223XXS,V22.3XXS,V22,2016,2022,7,false,2016,2022,deleted,1,"Person boarding or alighting a motorcycle injured in collision with two- or three-wheeled motor vehicle, sequela"
+V224XXA,V22.4XXA,V22,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle driver injured in collision with two- or three-wheeled motor vehicle in traffic accident, initial encounter"
+V224XXD,V22.4XXD,V22,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle driver injured in collision with two- or three-wheeled motor vehicle in traffic accident, subsequent encounter"
+V224XXS,V22.4XXS,V22,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle driver injured in collision with two- or three-wheeled motor vehicle in traffic accident, sequela"
+V225XXA,V22.5XXA,V22,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle passenger injured in collision with two- or three-wheeled motor vehicle in traffic accident, initial encounter"
+V225XXD,V22.5XXD,V22,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle passenger injured in collision with two- or three-wheeled motor vehicle in traffic accident, subsequent encounter"
+V225XXS,V22.5XXS,V22,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle passenger injured in collision with two- or three-wheeled motor vehicle in traffic accident, sequela"
+V229XXA,V22.9XXA,V22,2016,2022,7,false,2016,2022,deleted,1,"Unspecified motorcycle rider injured in collision with two- or three-wheeled motor vehicle in traffic accident, initial encounter"
+V229XXD,V22.9XXD,V22,2016,2022,7,false,2016,2022,deleted,1,"Unspecified motorcycle rider injured in collision with two- or three-wheeled motor vehicle in traffic accident, subsequent encounter"
+V229XXS,V22.9XXS,V22,2016,2022,7,false,2016,2022,deleted,1,"Unspecified motorcycle rider injured in collision with two- or three-wheeled motor vehicle in traffic accident, sequela"
+V230XXA,V23.0XXA,V23,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle driver injured in collision with car, pick-up truck or van in nontraffic accident, initial encounter"
+V230XXD,V23.0XXD,V23,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle driver injured in collision with car, pick-up truck or van in nontraffic accident, subsequent encounter"
+V230XXS,V23.0XXS,V23,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle driver injured in collision with car, pick-up truck or van in nontraffic accident, sequela"
+V231XXA,V23.1XXA,V23,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle passenger injured in collision with car, pick-up truck or van in nontraffic accident, initial encounter"
+V231XXD,V23.1XXD,V23,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle passenger injured in collision with car, pick-up truck or van in nontraffic accident, subsequent encounter"
+V231XXS,V23.1XXS,V23,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle passenger injured in collision with car, pick-up truck or van in nontraffic accident, sequela"
+V232XXA,V23.2XXA,V23,2016,2022,7,false,2016,2022,deleted,1,"Unspecified motorcycle rider injured in collision with car, pick-up truck or van in nontraffic accident, initial encounter"
+V232XXD,V23.2XXD,V23,2016,2022,7,false,2016,2022,deleted,1,"Unspecified motorcycle rider injured in collision with car, pick-up truck or van in nontraffic accident, subsequent encounter"
+V232XXS,V23.2XXS,V23,2016,2022,7,false,2016,2022,deleted,1,"Unspecified motorcycle rider injured in collision with car, pick-up truck or van in nontraffic accident, sequela"
+V233XXA,V23.3XXA,V23,2016,2022,7,false,2016,2022,deleted,1,"Person boarding or alighting a motorcycle injured in collision with car, pick-up truck or van, initial encounter"
+V233XXD,V23.3XXD,V23,2016,2022,7,false,2016,2022,deleted,1,"Person boarding or alighting a motorcycle injured in collision with car, pick-up truck or van, subsequent encounter"
+V233XXS,V23.3XXS,V23,2016,2022,7,false,2016,2022,deleted,1,"Person boarding or alighting a motorcycle injured in collision with car, pick-up truck or van, sequela"
+V234XXA,V23.4XXA,V23,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle driver injured in collision with car, pick-up truck or van in traffic accident, initial encounter"
+V234XXD,V23.4XXD,V23,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle driver injured in collision with car, pick-up truck or van in traffic accident, subsequent encounter"
+V234XXS,V23.4XXS,V23,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle driver injured in collision with car, pick-up truck or van in traffic accident, sequela"
+V235XXA,V23.5XXA,V23,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle passenger injured in collision with car, pick-up truck or van in traffic accident, initial encounter"
+V235XXD,V23.5XXD,V23,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle passenger injured in collision with car, pick-up truck or van in traffic accident, subsequent encounter"
+V235XXS,V23.5XXS,V23,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle passenger injured in collision with car, pick-up truck or van in traffic accident, sequela"
+V239XXA,V23.9XXA,V23,2016,2022,7,false,2016,2022,deleted,1,"Unspecified motorcycle rider injured in collision with car, pick-up truck or van in traffic accident, initial encounter"
+V239XXD,V23.9XXD,V23,2016,2022,7,false,2016,2022,deleted,1,"Unspecified motorcycle rider injured in collision with car, pick-up truck or van in traffic accident, subsequent encounter"
+V239XXS,V23.9XXS,V23,2016,2022,7,false,2016,2022,deleted,1,"Unspecified motorcycle rider injured in collision with car, pick-up truck or van in traffic accident, sequela"
+V240XXA,V24.0XXA,V24,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle driver injured in collision with heavy transport vehicle or bus in nontraffic accident, initial encounter"
+V240XXD,V24.0XXD,V24,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle driver injured in collision with heavy transport vehicle or bus in nontraffic accident, subsequent encounter"
+V240XXS,V24.0XXS,V24,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle driver injured in collision with heavy transport vehicle or bus in nontraffic accident, sequela"
+V241XXA,V24.1XXA,V24,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle passenger injured in collision with heavy transport vehicle or bus in nontraffic accident, initial encounter"
+V241XXD,V24.1XXD,V24,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle passenger injured in collision with heavy transport vehicle or bus in nontraffic accident, subsequent encounter"
+V241XXS,V24.1XXS,V24,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle passenger injured in collision with heavy transport vehicle or bus in nontraffic accident, sequela"
+V242XXA,V24.2XXA,V24,2016,2022,7,false,2016,2022,deleted,1,"Unspecified motorcycle rider injured in collision with heavy transport vehicle or bus in nontraffic accident, initial encounter"
+V242XXD,V24.2XXD,V24,2016,2022,7,false,2016,2022,deleted,1,"Unspecified motorcycle rider injured in collision with heavy transport vehicle or bus in nontraffic accident, subsequent encounter"
+V242XXS,V24.2XXS,V24,2016,2022,7,false,2016,2022,deleted,1,"Unspecified motorcycle rider injured in collision with heavy transport vehicle or bus in nontraffic accident, sequela"
+V243XXA,V24.3XXA,V24,2016,2022,7,false,2016,2022,deleted,1,"Person boarding or alighting a motorcycle injured in collision with heavy transport vehicle or bus, initial encounter"
+V243XXD,V24.3XXD,V24,2016,2022,7,false,2016,2022,deleted,1,"Person boarding or alighting a motorcycle injured in collision with heavy transport vehicle or bus, subsequent encounter"
+V243XXS,V24.3XXS,V24,2016,2022,7,false,2016,2022,deleted,1,"Person boarding or alighting a motorcycle injured in collision with heavy transport vehicle or bus, sequela"
+V244XXA,V24.4XXA,V24,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle driver injured in collision with heavy transport vehicle or bus in traffic accident, initial encounter"
+V244XXD,V24.4XXD,V24,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle driver injured in collision with heavy transport vehicle or bus in traffic accident, subsequent encounter"
+V244XXS,V24.4XXS,V24,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle driver injured in collision with heavy transport vehicle or bus in traffic accident, sequela"
+V245XXA,V24.5XXA,V24,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle passenger injured in collision with heavy transport vehicle or bus in traffic accident, initial encounter"
+V245XXD,V24.5XXD,V24,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle passenger injured in collision with heavy transport vehicle or bus in traffic accident, subsequent encounter"
+V245XXS,V24.5XXS,V24,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle passenger injured in collision with heavy transport vehicle or bus in traffic accident, sequela"
+V249XXA,V24.9XXA,V24,2016,2022,7,false,2016,2022,deleted,1,"Unspecified motorcycle rider injured in collision with heavy transport vehicle or bus in traffic accident, initial encounter"
+V249XXD,V24.9XXD,V24,2016,2022,7,false,2016,2022,deleted,1,"Unspecified motorcycle rider injured in collision with heavy transport vehicle or bus in traffic accident, subsequent encounter"
+V249XXS,V24.9XXS,V24,2016,2022,7,false,2016,2022,deleted,1,"Unspecified motorcycle rider injured in collision with heavy transport vehicle or bus in traffic accident, sequela"
+V250XXA,V25.0XXA,V25,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle driver injured in collision with railway train or railway vehicle in nontraffic accident, initial encounter"
+V250XXD,V25.0XXD,V25,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle driver injured in collision with railway train or railway vehicle in nontraffic accident, subsequent encounter"
+V250XXS,V25.0XXS,V25,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle driver injured in collision with railway train or railway vehicle in nontraffic accident, sequela"
+V251XXA,V25.1XXA,V25,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle passenger injured in collision with railway train or railway vehicle in nontraffic accident, initial encounter"
+V251XXD,V25.1XXD,V25,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle passenger injured in collision with railway train or railway vehicle in nontraffic accident, subsequent encounter"
+V251XXS,V25.1XXS,V25,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle passenger injured in collision with railway train or railway vehicle in nontraffic accident, sequela"
+V252XXA,V25.2XXA,V25,2016,2022,7,false,2016,2022,deleted,1,"Unspecified motorcycle rider injured in collision with railway train or railway vehicle in nontraffic accident, initial encounter"
+V252XXD,V25.2XXD,V25,2016,2022,7,false,2016,2022,deleted,1,"Unspecified motorcycle rider injured in collision with railway train or railway vehicle in nontraffic accident, subsequent encounter"
+V252XXS,V25.2XXS,V25,2016,2022,7,false,2016,2022,deleted,1,"Unspecified motorcycle rider injured in collision with railway train or railway vehicle in nontraffic accident, sequela"
+V253XXA,V25.3XXA,V25,2016,2022,7,false,2016,2022,deleted,1,"Person boarding or alighting a motorcycle injured in collision with railway train or railway vehicle, initial encounter"
+V253XXD,V25.3XXD,V25,2016,2022,7,false,2016,2022,deleted,1,"Person boarding or alighting a motorcycle injured in collision with railway train or railway vehicle, subsequent encounter"
+V253XXS,V25.3XXS,V25,2016,2022,7,false,2016,2022,deleted,1,"Person boarding or alighting a motorcycle injured in collision with railway train or railway vehicle, sequela"
+V254XXA,V25.4XXA,V25,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle driver injured in collision with railway train or railway vehicle in traffic accident, initial encounter"
+V254XXD,V25.4XXD,V25,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle driver injured in collision with railway train or railway vehicle in traffic accident, subsequent encounter"
+V254XXS,V25.4XXS,V25,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle driver injured in collision with railway train or railway vehicle in traffic accident, sequela"
+V255XXA,V25.5XXA,V25,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle passenger injured in collision with railway train or railway vehicle in traffic accident, initial encounter"
+V255XXD,V25.5XXD,V25,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle passenger injured in collision with railway train or railway vehicle in traffic accident, subsequent encounter"
+V255XXS,V25.5XXS,V25,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle passenger injured in collision with railway train or railway vehicle in traffic accident, sequela"
+V259XXA,V25.9XXA,V25,2016,2022,7,false,2016,2022,deleted,1,"Unspecified motorcycle rider injured in collision with railway train or railway vehicle in traffic accident, initial encounter"
+V259XXD,V25.9XXD,V25,2016,2022,7,false,2016,2022,deleted,1,"Unspecified motorcycle rider injured in collision with railway train or railway vehicle in traffic accident, subsequent encounter"
+V259XXS,V25.9XXS,V25,2016,2022,7,false,2016,2022,deleted,1,"Unspecified motorcycle rider injured in collision with railway train or railway vehicle in traffic accident, sequela"
+V260XXA,V26.0XXA,V26,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle driver injured in collision with other nonmotor vehicle in nontraffic accident, initial encounter"
+V260XXD,V26.0XXD,V26,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle driver injured in collision with other nonmotor vehicle in nontraffic accident, subsequent encounter"
+V260XXS,V26.0XXS,V26,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle driver injured in collision with other nonmotor vehicle in nontraffic accident, sequela"
+V261XXA,V26.1XXA,V26,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle passenger injured in collision with other nonmotor vehicle in nontraffic accident, initial encounter"
+V261XXD,V26.1XXD,V26,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle passenger injured in collision with other nonmotor vehicle in nontraffic accident, subsequent encounter"
+V261XXS,V26.1XXS,V26,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle passenger injured in collision with other nonmotor vehicle in nontraffic accident, sequela"
+V262XXA,V26.2XXA,V26,2016,2022,7,false,2016,2022,deleted,1,"Unspecified motorcycle rider injured in collision with other nonmotor vehicle in nontraffic accident, initial encounter"
+V262XXD,V26.2XXD,V26,2016,2022,7,false,2016,2022,deleted,1,"Unspecified motorcycle rider injured in collision with other nonmotor vehicle in nontraffic accident, subsequent encounter"
+V262XXS,V26.2XXS,V26,2016,2022,7,false,2016,2022,deleted,1,"Unspecified motorcycle rider injured in collision with other nonmotor vehicle in nontraffic accident, sequela"
+V263XXA,V26.3XXA,V26,2016,2022,7,false,2016,2022,deleted,1,"Person boarding or alighting a motorcycle injured in collision with other nonmotor vehicle, initial encounter"
+V263XXD,V26.3XXD,V26,2016,2022,7,false,2016,2022,deleted,1,"Person boarding or alighting a motorcycle injured in collision with other nonmotor vehicle, subsequent encounter"
+V263XXS,V26.3XXS,V26,2016,2022,7,false,2016,2022,deleted,1,"Person boarding or alighting a motorcycle injured in collision with other nonmotor vehicle, sequela"
+V264XXA,V26.4XXA,V26,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle driver injured in collision with other nonmotor vehicle in traffic accident, initial encounter"
+V264XXD,V26.4XXD,V26,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle driver injured in collision with other nonmotor vehicle in traffic accident, subsequent encounter"
+V264XXS,V26.4XXS,V26,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle driver injured in collision with other nonmotor vehicle in traffic accident, sequela"
+V265XXA,V26.5XXA,V26,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle passenger injured in collision with other nonmotor vehicle in traffic accident, initial encounter"
+V265XXD,V26.5XXD,V26,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle passenger injured in collision with other nonmotor vehicle in traffic accident, subsequent encounter"
+V265XXS,V26.5XXS,V26,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle passenger injured in collision with other nonmotor vehicle in traffic accident, sequela"
+V269XXA,V26.9XXA,V26,2016,2022,7,false,2016,2022,deleted,1,"Unspecified motorcycle rider injured in collision with other nonmotor vehicle in traffic accident, initial encounter"
+V269XXD,V26.9XXD,V26,2016,2022,7,false,2016,2022,deleted,1,"Unspecified motorcycle rider injured in collision with other nonmotor vehicle in traffic accident, subsequent encounter"
+V269XXS,V26.9XXS,V26,2016,2022,7,false,2016,2022,deleted,1,"Unspecified motorcycle rider injured in collision with other nonmotor vehicle in traffic accident, sequela"
+V270XXA,V27.0XXA,V27,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle driver injured in collision with fixed or stationary object in nontraffic accident, initial encounter"
+V270XXD,V27.0XXD,V27,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle driver injured in collision with fixed or stationary object in nontraffic accident, subsequent encounter"
+V270XXS,V27.0XXS,V27,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle driver injured in collision with fixed or stationary object in nontraffic accident, sequela"
+V271XXA,V27.1XXA,V27,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle passenger injured in collision with fixed or stationary object in nontraffic accident, initial encounter"
+V271XXD,V27.1XXD,V27,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle passenger injured in collision with fixed or stationary object in nontraffic accident, subsequent encounter"
+V271XXS,V27.1XXS,V27,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle passenger injured in collision with fixed or stationary object in nontraffic accident, sequela"
+V272XXA,V27.2XXA,V27,2016,2022,7,false,2016,2022,deleted,1,"Unspecified motorcycle rider injured in collision with fixed or stationary object in nontraffic accident, initial encounter"
+V272XXD,V27.2XXD,V27,2016,2022,7,false,2016,2022,deleted,1,"Unspecified motorcycle rider injured in collision with fixed or stationary object in nontraffic accident, subsequent encounter"
+V272XXS,V27.2XXS,V27,2016,2022,7,false,2016,2022,deleted,1,"Unspecified motorcycle rider injured in collision with fixed or stationary object in nontraffic accident, sequela"
+V273XXA,V27.3XXA,V27,2016,2022,7,false,2016,2022,deleted,1,"Person boarding or alighting a motorcycle injured in collision with fixed or stationary object, initial encounter"
+V273XXD,V27.3XXD,V27,2016,2022,7,false,2016,2022,deleted,1,"Person boarding or alighting a motorcycle injured in collision with fixed or stationary object, subsequent encounter"
+V273XXS,V27.3XXS,V27,2016,2022,7,false,2016,2022,deleted,1,"Person boarding or alighting a motorcycle injured in collision with fixed or stationary object, sequela"
+V274XXA,V27.4XXA,V27,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle driver injured in collision with fixed or stationary object in traffic accident, initial encounter"
+V274XXD,V27.4XXD,V27,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle driver injured in collision with fixed or stationary object in traffic accident, subsequent encounter"
+V274XXS,V27.4XXS,V27,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle driver injured in collision with fixed or stationary object in traffic accident, sequela"
+V275XXA,V27.5XXA,V27,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle passenger injured in collision with fixed or stationary object in traffic accident, initial encounter"
+V275XXD,V27.5XXD,V27,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle passenger injured in collision with fixed or stationary object in traffic accident, subsequent encounter"
+V275XXS,V27.5XXS,V27,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle passenger injured in collision with fixed or stationary object in traffic accident, sequela"
+V279XXA,V27.9XXA,V27,2016,2022,7,false,2016,2022,deleted,1,"Unspecified motorcycle rider injured in collision with fixed or stationary object in traffic accident, initial encounter"
+V279XXD,V27.9XXD,V27,2016,2022,7,false,2016,2022,deleted,1,"Unspecified motorcycle rider injured in collision with fixed or stationary object in traffic accident, subsequent encounter"
+V279XXS,V27.9XXS,V27,2016,2022,7,false,2016,2022,deleted,1,"Unspecified motorcycle rider injured in collision with fixed or stationary object in traffic accident, sequela"
+V280XXA,V28.0XXA,V28,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle driver injured in noncollision transport accident in nontraffic accident, initial encounter"
+V280XXD,V28.0XXD,V28,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle driver injured in noncollision transport accident in nontraffic accident, subsequent encounter"
+V280XXS,V28.0XXS,V28,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle driver injured in noncollision transport accident in nontraffic accident, sequela"
+V281XXA,V28.1XXA,V28,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle passenger injured in noncollision transport accident in nontraffic accident, initial encounter"
+V281XXD,V28.1XXD,V28,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle passenger injured in noncollision transport accident in nontraffic accident, subsequent encounter"
+V281XXS,V28.1XXS,V28,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle passenger injured in noncollision transport accident in nontraffic accident, sequela"
+V282XXA,V28.2XXA,V28,2016,2022,7,false,2016,2022,deleted,1,"Unspecified motorcycle rider injured in noncollision transport accident in nontraffic accident, initial encounter"
+V282XXD,V28.2XXD,V28,2016,2022,7,false,2016,2022,deleted,1,"Unspecified motorcycle rider injured in noncollision transport accident in nontraffic accident, subsequent encounter"
+V282XXS,V28.2XXS,V28,2016,2022,7,false,2016,2022,deleted,1,"Unspecified motorcycle rider injured in noncollision transport accident in nontraffic accident, sequela"
+V283XXA,V28.3XXA,V28,2016,2022,7,false,2016,2022,deleted,1,"Person boarding or alighting a motorcycle injured in noncollision transport accident, initial encounter"
+V283XXD,V28.3XXD,V28,2016,2022,7,false,2016,2022,deleted,1,"Person boarding or alighting a motorcycle injured in noncollision transport accident, subsequent encounter"
+V283XXS,V28.3XXS,V28,2016,2022,7,false,2016,2022,deleted,1,"Person boarding or alighting a motorcycle injured in noncollision transport accident, sequela"
+V284XXA,V28.4XXA,V28,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle driver injured in noncollision transport accident in traffic accident, initial encounter"
+V284XXD,V28.4XXD,V28,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle driver injured in noncollision transport accident in traffic accident, subsequent encounter"
+V284XXS,V28.4XXS,V28,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle driver injured in noncollision transport accident in traffic accident, sequela"
+V285XXA,V28.5XXA,V28,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle passenger injured in noncollision transport accident in traffic accident, initial encounter"
+V285XXD,V28.5XXD,V28,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle passenger injured in noncollision transport accident in traffic accident, subsequent encounter"
+V285XXS,V28.5XXS,V28,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle passenger injured in noncollision transport accident in traffic accident, sequela"
+V289XXA,V28.9XXA,V28,2016,2022,7,false,2016,2022,deleted,1,"Unspecified motorcycle rider injured in noncollision transport accident in traffic accident, initial encounter"
+V289XXD,V28.9XXD,V28,2016,2022,7,false,2016,2022,deleted,1,"Unspecified motorcycle rider injured in noncollision transport accident in traffic accident, subsequent encounter"
+V289XXS,V28.9XXS,V28,2016,2022,7,false,2016,2022,deleted,1,"Unspecified motorcycle rider injured in noncollision transport accident in traffic accident, sequela"
+V2900XA,V29.00XA,V29,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle driver injured in collision with unspecified motor vehicles in nontraffic accident, initial encounter"
+V2900XD,V29.00XD,V29,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle driver injured in collision with unspecified motor vehicles in nontraffic accident, subsequent encounter"
+V2900XS,V29.00XS,V29,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle driver injured in collision with unspecified motor vehicles in nontraffic accident, sequela"
+V2909XA,V29.09XA,V29,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle driver injured in collision with other motor vehicles in nontraffic accident, initial encounter"
+V2909XD,V29.09XD,V29,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle driver injured in collision with other motor vehicles in nontraffic accident, subsequent encounter"
+V2909XS,V29.09XS,V29,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle driver injured in collision with other motor vehicles in nontraffic accident, sequela"
+V2910XA,V29.10XA,V29,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle passenger injured in collision with unspecified motor vehicles in nontraffic accident, initial encounter"
+V2910XD,V29.10XD,V29,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle passenger injured in collision with unspecified motor vehicles in nontraffic accident, subsequent encounter"
+V2910XS,V29.10XS,V29,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle passenger injured in collision with unspecified motor vehicles in nontraffic accident, sequela"
+V2919XA,V29.19XA,V29,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle passenger injured in collision with other motor vehicles in nontraffic accident, initial encounter"
+V2919XD,V29.19XD,V29,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle passenger injured in collision with other motor vehicles in nontraffic accident, subsequent encounter"
+V2919XS,V29.19XS,V29,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle passenger injured in collision with other motor vehicles in nontraffic accident, sequela"
+V2920XA,V29.20XA,V29,2016,2022,7,false,2016,2022,deleted,1,"Unspecified motorcycle rider injured in collision with unspecified motor vehicles in nontraffic accident, initial encounter"
+V2920XD,V29.20XD,V29,2016,2022,7,false,2016,2022,deleted,1,"Unspecified motorcycle rider injured in collision with unspecified motor vehicles in nontraffic accident, subsequent encounter"
+V2920XS,V29.20XS,V29,2016,2022,7,false,2016,2022,deleted,1,"Unspecified motorcycle rider injured in collision with unspecified motor vehicles in nontraffic accident, sequela"
+V2929XA,V29.29XA,V29,2016,2022,7,false,2016,2022,deleted,1,"Unspecified motorcycle rider injured in collision with other motor vehicles in nontraffic accident, initial encounter"
+V2929XD,V29.29XD,V29,2016,2022,7,false,2016,2022,deleted,1,"Unspecified motorcycle rider injured in collision with other motor vehicles in nontraffic accident, subsequent encounter"
+V2929XS,V29.29XS,V29,2016,2022,7,false,2016,2022,deleted,1,"Unspecified motorcycle rider injured in collision with other motor vehicles in nontraffic accident, sequela"
+V293XXA,V29.3XXA,V29,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle rider (driver) (passenger) injured in unspecified nontraffic accident, initial encounter"
+V293XXD,V29.3XXD,V29,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle rider (driver) (passenger) injured in unspecified nontraffic accident, subsequent encounter"
+V293XXS,V29.3XXS,V29,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle rider (driver) (passenger) injured in unspecified nontraffic accident, sequela"
+V2940XA,V29.40XA,V29,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle driver injured in collision with unspecified motor vehicles in traffic accident, initial encounter"
+V2940XD,V29.40XD,V29,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle driver injured in collision with unspecified motor vehicles in traffic accident, subsequent encounter"
+V2940XS,V29.40XS,V29,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle driver injured in collision with unspecified motor vehicles in traffic accident, sequela"
+V2949XA,V29.49XA,V29,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle driver injured in collision with other motor vehicles in traffic accident, initial encounter"
+V2949XD,V29.49XD,V29,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle driver injured in collision with other motor vehicles in traffic accident, subsequent encounter"
+V2949XS,V29.49XS,V29,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle driver injured in collision with other motor vehicles in traffic accident, sequela"
+V2950XA,V29.50XA,V29,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle passenger injured in collision with unspecified motor vehicles in traffic accident, initial encounter"
+V2950XD,V29.50XD,V29,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle passenger injured in collision with unspecified motor vehicles in traffic accident, subsequent encounter"
+V2950XS,V29.50XS,V29,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle passenger injured in collision with unspecified motor vehicles in traffic accident, sequela"
+V2959XA,V29.59XA,V29,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle passenger injured in collision with other motor vehicles in traffic accident, initial encounter"
+V2959XD,V29.59XD,V29,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle passenger injured in collision with other motor vehicles in traffic accident, subsequent encounter"
+V2959XS,V29.59XS,V29,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle passenger injured in collision with other motor vehicles in traffic accident, sequela"
+V2960XA,V29.60XA,V29,2016,2022,7,false,2016,2022,deleted,1,"Unspecified motorcycle rider injured in collision with unspecified motor vehicles in traffic accident, initial encounter"
+V2960XD,V29.60XD,V29,2016,2022,7,false,2016,2022,deleted,1,"Unspecified motorcycle rider injured in collision with unspecified motor vehicles in traffic accident, subsequent encounter"
+V2960XS,V29.60XS,V29,2016,2022,7,false,2016,2022,deleted,1,"Unspecified motorcycle rider injured in collision with unspecified motor vehicles in traffic accident, sequela"
+V2969XA,V29.69XA,V29,2016,2022,7,false,2016,2022,deleted,1,"Unspecified motorcycle rider injured in collision with other motor vehicles in traffic accident, initial encounter"
+V2969XD,V29.69XD,V29,2016,2022,7,false,2016,2022,deleted,1,"Unspecified motorcycle rider injured in collision with other motor vehicles in traffic accident, subsequent encounter"
+V2969XS,V29.69XS,V29,2016,2022,7,false,2016,2022,deleted,1,"Unspecified motorcycle rider injured in collision with other motor vehicles in traffic accident, sequela"
+V2981XA,V29.81XA,V29,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle rider (driver) (passenger) injured in transport accident with military vehicle, initial encounter"
+V2981XD,V29.81XD,V29,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle rider (driver) (passenger) injured in transport accident with military vehicle, subsequent encounter"
+V2981XS,V29.81XS,V29,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle rider (driver) (passenger) injured in transport accident with military vehicle, sequela"
+V2988XA,V29.88XA,V29,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle rider (driver) (passenger) injured in other specified transport accidents, initial encounter"
+V2988XD,V29.88XD,V29,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle rider (driver) (passenger) injured in other specified transport accidents, subsequent encounter"
+V2988XS,V29.88XS,V29,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle rider (driver) (passenger) injured in other specified transport accidents, sequela"
+V299XXA,V29.9XXA,V29,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle rider (driver) (passenger) injured in unspecified traffic accident, initial encounter"
+V299XXD,V29.9XXD,V29,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle rider (driver) (passenger) injured in unspecified traffic accident, subsequent encounter"
+V299XXS,V29.9XXS,V29,2016,2022,7,false,2016,2022,deleted,1,"Motorcycle rider (driver) (passenger) injured in unspecified traffic accident, sequela"
+V4701XA,V47.01XA,V47,2016,2016,1,false,2016,2016,deleted,1,"Driver of sport utility vehicle injured in collision with fixed or stationary object in nontraffic accident, initial encounter"
+V4701XD,V47.01XD,V47,2016,2016,1,false,2016,2016,deleted,1,"Driver of sport utility vehicle injured in collision with fixed or stationary object in nontraffic accident, subsequent encounter"
+V4701XS,V47.01XS,V47,2016,2016,1,false,2016,2016,deleted,1,"Driver of sport utility vehicle injured in collision with fixed or stationary object in nontraffic accident, sequela"
+V4702XA,V47.02XA,V47,2016,2016,1,false,2016,2016,deleted,1,"Driver of other type car injured in collision with fixed or stationary object in nontraffic accident, initial encounter"
+V4702XD,V47.02XD,V47,2016,2016,1,false,2016,2016,deleted,1,"Driver of other type car injured in collision with fixed or stationary object in nontraffic accident, subsequent encounter"
+V4702XS,V47.02XS,V47,2016,2016,1,false,2016,2016,deleted,1,"Driver of other type car injured in collision with fixed or stationary object in nontraffic accident, sequela"
+V4711XA,V47.11XA,V47,2016,2016,1,false,2016,2016,deleted,1,"Passenger of sport utility vehicle injured in collision with fixed or stationary object in nontraffic accident, initial encounter"
+V4711XD,V47.11XD,V47,2016,2016,1,false,2016,2016,deleted,1,"Passenger of sport utility vehicle injured in collision with fixed or stationary object in nontraffic accident, subsequent encounter"
+V4711XS,V47.11XS,V47,2016,2016,1,false,2016,2016,deleted,1,"Passenger of sport utility vehicle injured in collision with fixed or stationary object in nontraffic accident, sequela"
+V4712XA,V47.12XA,V47,2016,2016,1,false,2016,2016,deleted,1,"Passenger of other type car injured in collision with fixed or stationary object in nontraffic accident, initial encounter"
+V4712XD,V47.12XD,V47,2016,2016,1,false,2016,2016,deleted,1,"Passenger of other type car injured in collision with fixed or stationary object in nontraffic accident, subsequent encounter"
+V4712XS,V47.12XS,V47,2016,2016,1,false,2016,2016,deleted,1,"Passenger of other type car injured in collision with fixed or stationary object in nontraffic accident, sequela"
+V4731XA,V47.31XA,V47,2016,2016,1,false,2016,2016,deleted,1,"Unspecified occupant of sport utility vehicle injured in collision with fixed or stationary object in nontraffic accident, initial encounter"
+V4731XD,V47.31XD,V47,2016,2016,1,false,2016,2016,deleted,1,"Unspecified occupant of sport utility vehicle injured in collision with fixed or stationary object in nontraffic accident, subsequent encounter"
+V4731XS,V47.31XS,V47,2016,2016,1,false,2016,2016,deleted,1,"Unspecified occupant of sport utility vehicle injured in collision with fixed or stationary object in nontraffic accident, sequela"
+V4732XA,V47.32XA,V47,2016,2016,1,false,2016,2016,deleted,1,"Unspecified occupant of other type car injured in collision with fixed or stationary object in nontraffic accident, initial encounter"
+V4732XD,V47.32XD,V47,2016,2016,1,false,2016,2016,deleted,1,"Unspecified occupant of other type car injured in collision with fixed or stationary object in nontraffic accident, subsequent encounter"
+V4732XS,V47.32XS,V47,2016,2016,1,false,2016,2016,deleted,1,"Unspecified occupant of other type car injured in collision with fixed or stationary object in nontraffic accident, sequela"
+V4751XA,V47.51XA,V47,2016,2016,1,false,2016,2016,deleted,1,"Driver of sport utility vehicle injured in collision with fixed or stationary object in traffic accident, initial encounter"
+V4751XD,V47.51XD,V47,2016,2016,1,false,2016,2016,deleted,1,"Driver of sport utility vehicle injured in collision with fixed or stationary object in traffic accident, subsequent encounter"
+V4751XS,V47.51XS,V47,2016,2016,1,false,2016,2016,deleted,1,"Driver of sport utility vehicle injured in collision with fixed or stationary object in traffic accident, sequela"
+V4752XA,V47.52XA,V47,2016,2016,1,false,2016,2016,deleted,1,"Driver of other type car injured in collision with fixed or stationary object in traffic accident, initial encounter"
+V4752XD,V47.52XD,V47,2016,2016,1,false,2016,2016,deleted,1,"Driver of other type car injured in collision with fixed or stationary object in traffic accident, subsequent encounter"
+V4752XS,V47.52XS,V47,2016,2016,1,false,2016,2016,deleted,1,"Driver of other type car injured in collision with fixed or stationary object in traffic accident, sequela"
+V4761XA,V47.61XA,V47,2016,2016,1,false,2016,2016,deleted,1,"Passenger of sport utility vehicle injured in collision with fixed or stationary object in traffic accident, initial encounter"
+V4761XD,V47.61XD,V47,2016,2016,1,false,2016,2016,deleted,1,"Passenger of sport utility vehicle injured in collision with fixed or stationary object in traffic accident, subsequent encounter"
+V4761XS,V47.61XS,V47,2016,2016,1,false,2016,2016,deleted,1,"Passenger of sport utility vehicle injured in collision with fixed or stationary object in traffic accident, sequela"
+V4762XA,V47.62XA,V47,2016,2016,1,false,2016,2016,deleted,1,"Passenger of other type car injured in collision with fixed or stationary object in traffic accident, initial encounter"
+V4762XD,V47.62XD,V47,2016,2016,1,false,2016,2016,deleted,1,"Passenger of other type car injured in collision with fixed or stationary object in traffic accident, subsequent encounter"
+V4762XS,V47.62XS,V47,2016,2016,1,false,2016,2016,deleted,1,"Passenger of other type car injured in collision with fixed or stationary object in traffic accident, sequela"
+V4791XA,V47.91XA,V47,2016,2016,1,false,2016,2016,deleted,1,"Unspecified occupant of sport utility vehicle injured in collision with fixed or stationary object in traffic accident, initial encounter"
+V4791XD,V47.91XD,V47,2016,2016,1,false,2016,2016,deleted,1,"Unspecified occupant of sport utility vehicle injured in collision with fixed or stationary object in traffic accident, subsequent encounter"
+V4791XS,V47.91XS,V47,2016,2016,1,false,2016,2016,deleted,1,"Unspecified occupant of sport utility vehicle injured in collision with fixed or stationary object in traffic accident, sequela"
+V4792XA,V47.92XA,V47,2016,2016,1,false,2016,2016,deleted,1,"Unspecified occupant of other type car injured in collision with fixed or stationary object in traffic accident, initial encounter"
+V4792XD,V47.92XD,V47,2016,2016,1,false,2016,2016,deleted,1,"Unspecified occupant of other type car injured in collision with fixed or stationary object in traffic accident, subsequent encounter"
+V4792XS,V47.92XS,V47,2016,2016,1,false,2016,2016,deleted,1,"Unspecified occupant of other type car injured in collision with fixed or stationary object in traffic accident, sequela"
+W451XXA,W45.1XXA,W45,2016,2016,1,false,2016,2016,deleted,1,"Paper entering through skin, initial encounter"
+W451XXD,W45.1XXD,W45,2016,2016,1,false,2016,2016,deleted,1,"Paper entering through skin, subsequent encounter"
+W451XXS,W45.1XXS,W45,2016,2016,1,false,2016,2016,deleted,1,"Paper entering through skin, sequela"
+W452XXA,W45.2XXA,W45,2016,2016,1,false,2016,2016,deleted,1,"Lid of can entering through skin, initial encounter"
+W452XXD,W45.2XXD,W45,2016,2016,1,false,2016,2016,deleted,1,"Lid of can entering through skin, subsequent encounter"
+W452XXS,W45.2XXS,W45,2016,2016,1,false,2016,2016,deleted,1,"Lid of can entering through skin, sequela"
+Y0701,Y07.01,Y07,2016,2027,12,false,2016,2023,header,1,"Husband, perpetrator of maltreatment and neglect"
+Y0702,Y07.02,Y07,2016,2027,12,false,2016,2023,header,1,"Wife, perpetrator of maltreatment and neglect"
+Y0703,Y07.03,Y07,2016,2027,12,false,2016,2023,header,1,"Male partner, perpetrator of maltreatment and neglect"
+Y0704,Y07.04,Y07,2016,2027,12,false,2016,2023,header,1,"Female partner, perpetrator of maltreatment and neglect"
+Y771,Y77.1,Y77,2016,2027,12,false,2016,2020,header,1,Therapeutic (nonsurgical) and rehabilitative ophthalmic devices associated with adverse incidents
+Z048,Z04.8,Z04,2016,2027,12,false,2016,2018,header,1,Encounter for examination and observation for other specified reasons
+Z058,Z05.8,Z05,2017,2027,11,false,2017,2023,header,1,Observation and evaluation of newborn for other specified suspected condition ruled out
+Z134,Z13.4,Z13,2016,2027,12,false,2016,2018,header,1,Encounter for screening for certain developmental disorders in childhood
+Z2250,Z22.50,Z22,2016,2016,1,false,2016,2016,deleted,1,Carrier of unspecified viral hepatitis
+Z2251,Z22.51,Z22,2016,2016,1,false,2016,2016,deleted,1,Carrier of viral hepatitis B
+Z2252,Z22.52,Z22,2016,2016,1,false,2016,2016,deleted,1,Carrier of viral hepatitis C
+Z2259,Z22.59,Z22,2016,2016,1,false,2016,2016,deleted,1,Carrier of other viral hepatitis
+Z283,Z28.3,Z28,2016,2027,12,false,2016,2021,header,1,Underimmunization status
+Z298,Z29.8,Z29,2017,2027,11,false,2017,2023,header,1,Encounter for other specified prophylactic measures
+Z36,Z36,Z36,2016,2027,12,false,2016,2017,header,1,Encounter for antenatal screening of mother
+Z408,Z40.8,Z40,2016,2027,12,false,2016,2025,header,1,Encounter for other prophylactic surgery
+Z590,Z59.0,Z59,2016,2027,12,false,2016,2021,header,1,Homelessness
+Z591,Z59.1,Z59,2016,2027,12,false,2016,2023,header,1,Inadequate housing
+Z594,Z59.4,Z59,2016,2027,12,false,2016,2021,header,2,Lack of adequate food
+Z597,Z59.7,Z59,2016,2027,12,false,2016,2024,header,1,Insufficient social insurance and welfare support
+Z598,Z59.8,Z59,2016,2027,12,false,2016,2021,header,1,Other problems related to housing and economic circumstances
+Z5986,Z59.86,Z59,2023,2027,5,false,2023,2025,header,1,Financial insecurity
+Z681,Z68.1,Z68,2016,2027,12,false,2016,2026,header,3,"Body mass index [BMI] 19.9 or less, adult"
+Z8371,Z83.71,Z83,2016,2027,12,false,2016,2023,header,1,Family history of colonic polyps
+Z841,Z84.1,Z84,2016,2027,12,false,2016,2025,header,1,Family history of disorders of kidney and ureter
+Z86010,Z86.010,Z86,2016,2027,12,false,2016,2024,header,2,Personal history of colon polyps
+Z8776,Z87.76,Z87,2016,2027,12,false,2016,2022,header,1,"Personal history of (corrected) congenital malformations of integument, limbs and musculoskeletal system"
+Z87890,Z87.890,Z87,2016,2027,12,false,2016,2026,header,1,Personal history of sex reassignment
+Z91011,Z91.011,Z91,2016,2027,12,false,2016,2025,header,1,Allergy to milk products
+Z91012,Z91.012,Z91,2016,2027,12,false,2016,2025,header,1,Allergy to eggs
+Z9111,Z91.11,Z91,2016,2027,12,false,2016,2022,header,1,Patient's noncompliance with dietary regimen
+Z9114,Z91.14,Z91,2016,2027,12,false,2016,2023,header,1,Patient's other noncompliance with medication regimen
+Z9115,Z91.15,Z91,2016,2027,12,false,2016,2023,header,1,Patient's noncompliance with renal dialysis
+Z9119,Z91.19,Z91,2016,2027,12,false,2016,2022,header,1,Patient's noncompliance with other medical treatment and regimen
+Z915,Z91.5,Z91,2016,2027,12,false,2016,2021,header,1,Personal history of self-harm
+Z91A4,Z91.A4,Z91,2023,2027,5,false,2023,2023,header,1,Caregiver's other noncompliance with patient's medication regimen
+Z91A5,Z91.A5,Z91,2023,2027,5,false,2023,2023,header,1,Caregiver's noncompliance with patient's renal dialysis
+Z91A9,Z91.A9,Z91,2023,2027,5,false,2023,2023,header,1,Caregiver's noncompliance with patient's other medical treatment and regimen
+Z9889,Z98.89,Z98,2016,2027,12,false,2016,2016,header,1,Other specified postprocedural states

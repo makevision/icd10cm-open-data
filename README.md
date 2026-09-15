@@ -16,6 +16,8 @@ not required.
 |---|---|---|---|
 | Code counts by fiscal year | `icd10cm/code-counts/icd10cm-code-counts-fy2016-fy2027.{csv,json}` | 12 | How many ICD-10-CM codes exist each year, how many are valid for reporting, how many were added and removed |
 | FY2027 change lists | `icd10cm/fy2027-changes/{added,deleted,revised,billable-status-changes}.{csv,json}`, `summary.json` | 238 / 21 / 4 / 15 | Exactly which codes changed between the FY2026 and FY2027 order files |
+| Code lifespans | `icd10cm/code-lifespans/icd10cm-code-lifespans-fy2016-fy2027.{csv,json}` | 99,085 | For every code that has ever appeared: the fiscal year it arrived, the year it last appeared, the years it was valid for submission, and whether it still is |
+| Retired codes | `icd10cm/code-lifespans/retired-codes.{csv,json}` | 1,030 | The codes that were once reportable and are not now, split into deleted from the file and converted into non-billable parents |
 | Excludes1 notes | `icd10cm/excludes-notes/fy2027-excludes1.{csv,json}` | 5,411 | Every Excludes1 note line in the FY2027 tabular, with the codes it references parsed out |
 | Excludes2 notes | `icd10cm/excludes-notes/fy2027-excludes2.{csv,json}` | 2,529 | Same for Excludes2 |
 | Excludes census by chapter | `icd10cm/excludes-notes/fy{2026,2027}-excludes-by-chapter.{csv,json}` | 22 per year | Note counts, locations, and cross-chapter references per chapter |
@@ -49,6 +51,13 @@ printed (`A05.-`, `A04.0-A04.4`, `J09.X3`). Lines whose reference is prose ("cod
 site, such as:") or uses a construction the parser does not recognise ("E08-E13 with .42") have
 an empty `referencedCodes` field; 83 of 5,411 Excludes1 lines are in that state.
 `referencedCategories` is the set of 3-character categories those references fall in.
+
+**Retired.** A code that was valid for submission in some fiscal year and is not valid in the
+latest one. The lifespan files split this into two cases, because they behave differently on a
+claim: `deleted` means the code is gone from the order file, and `header` means the code is still
+in the file but has gained children, so a more specific code must be reported instead. Across
+FY2016 to FY2027 there are 619 of the first and 411 of the second, and no code has ever left an
+order file and reappeared in a later one.
 
 ## Caveats
 

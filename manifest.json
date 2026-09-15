@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07",
+  "generatedAt": "2026-09-15",
   "generator": "medcoder.ai scripts/build-open-data.ts",
   "license": "CC0-1.0",
   "datasets": [
@@ -22,6 +22,14 @@
     {
       "path": "icd10cm/fy2027-changes/billable-status-changes.csv",
       "rows": 15
+    },
+    {
+      "path": "icd10cm/code-lifespans/icd10cm-code-lifespans-fy2016-fy2027.csv",
+      "rows": 99085
+    },
+    {
+      "path": "icd10cm/code-lifespans/retired-codes.csv",
+      "rows": 1030
     },
     {
       "path": "icd10cm/excludes-notes/fy2027-excludes1.csv",
