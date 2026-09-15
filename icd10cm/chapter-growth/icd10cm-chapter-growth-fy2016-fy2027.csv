@@ -1,0 +1,265 @@
+fiscalYear,chapterId,chapterRange,chapterTitle,totalEntries,billableCodes
+2016,1,A00-B99,Certain infectious and parasitic diseases,1292,1056
+2016,2,C00-D49,Neoplasms,2025,1620
+2016,3,D50-D89,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,298,238
+2016,4,E00-E89,"Endocrine, nutritional and metabolic diseases",879,675
+2016,5,F01-F99,"Mental, Behavioral and Neurodevelopmental disorders",927,724
+2016,6,G00-G99,Diseases of the nervous system,792,591
+2016,7,H00-H59,Diseases of the eye and adnexa,3135,2432
+2016,8,H60-H95,Diseases of the ear and mastoid process,855,642
+2016,9,I00-I99,Diseases of the circulatory system,1587,1254
+2016,10,J00-J99,Diseases of the respiratory system,436,336
+2016,11,K00-K95,Diseases of the digestive system,896,706
+2016,12,L00-L99,Diseases of the skin and subcutaneous tissue,950,768
+2016,13,M00-M99,Diseases of the musculoskeletal system and connective tissue,8261,6336
+2016,14,N00-N99,Diseases of the genitourinary system,726,591
+2016,15,O00-O9A,"Pregnancy, childbirth and the puerperium",2687,2155
+2016,16,P00-P96,Certain conditions originating in the perinatal period,504,417
+2016,17,Q00-QA1,"Congenital malformations, deformations and chromosomal abnormalities",944,790
+2016,18,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings",792,639
+2016,19,S00-T88,"Injury, poisoning and certain other consequences of external causes",52574,39863
+2016,20,V00-Y99,External causes of morbidity,9629,6812
+2016,21,Z00-Z99,Factors influencing health status and contact with health services,1548,1178
+2016,22,U00-U85,Codes for special purposes (U00-U85),0,0
+2017,1,A00-B99,Certain infectious and parasitic diseases,1293,1057
+2017,2,C00-D49,Neoplasms,2039,1631
+2017,3,D50-D89,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,309,247
+2017,4,E00-E89,"Endocrine, nutritional and metabolic diseases",1171,900
+2017,5,F01-F99,"Mental, Behavioral and Neurodevelopmental disorders",940,733
+2017,6,G00-G99,Diseases of the nervous system,815,613
+2017,7,H00-H59,Diseases of the eye and adnexa,3247,2517
+2017,8,H60-H95,Diseases of the ear and mastoid process,875,656
+2017,9,I00-I99,Diseases of the circulatory system,1671,1329
+2017,10,J00-J99,Diseases of the respiratory system,443,341
+2017,11,K00-K95,Diseases of the digestive system,990,774
+2017,12,L00-L99,Diseases of the skin and subcutaneous tissue,957,774
+2017,13,M00-M99,Diseases of the musculoskeletal system and connective tissue,8450,6480
+2017,14,N00-N99,Diseases of the genitourinary system,792,640
+2017,15,O00-O9A,"Pregnancy, childbirth and the puerperium",2759,2214
+2017,16,P00-P96,Certain conditions originating in the perinatal period,506,419
+2017,17,Q00-QA1,"Congenital malformations, deformations and chromosomal abnormalities",966,808
+2017,18,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings",878,709
+2017,19,S00-T88,"Injury, poisoning and certain other consequences of external causes",53516,40619
+2017,20,V00-Y99,External causes of morbidity,9621,6810
+2017,21,Z00-Z99,Factors influencing health status and contact with health services,1592,1215
+2017,22,U00-U85,Codes for special purposes (U00-U85),0,0
+2018,1,A00-B99,Certain infectious and parasitic diseases,1295,1058
+2018,2,C00-D49,Neoplasms,2046,1636
+2018,3,D50-D89,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,309,247
+2018,4,E00-E89,"Endocrine, nutritional and metabolic diseases",1177,904
+2018,5,F01-F99,"Mental, Behavioral and Neurodevelopmental disorders",950,743
+2018,6,G00-G99,Diseases of the nervous system,818,616
+2018,7,H00-H59,Diseases of the eye and adnexa,3325,2564
+2018,8,H60-H95,Diseases of the ear and mastoid process,875,656
+2018,9,I00-I99,Diseases of the circulatory system,1693,1347
+2018,10,J00-J99,Diseases of the respiratory system,443,341
+2018,11,K00-K95,Diseases of the digestive system,1012,789
+2018,12,L00-L99,Diseases of the skin and subcutaneous tissue,1029,846
+2018,13,M00-M99,Diseases of the musculoskeletal system and connective tissue,8455,6484
+2018,14,N00-N99,Diseases of the genitourinary system,811,654
+2018,15,O00-O9A,"Pregnancy, childbirth and the puerperium",2804,2250
+2018,16,P00-P96,Certain conditions originating in the perinatal period,515,424
+2018,17,Q00-QA1,"Congenital malformations, deformations and chromosomal abnormalities",972,812
+2018,18,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings",881,712
+2018,19,S00-T88,"Injury, poisoning and certain other consequences of external causes",53406,40519
+2018,20,V00-Y99,External causes of morbidity,9693,6864
+2018,21,Z00-Z99,Factors influencing health status and contact with health services,1618,1238
+2018,22,U00-U85,Codes for special purposes (U00-U85),0,0
+2019,1,A00-B99,Certain infectious and parasitic diseases,1295,1058
+2019,2,C00-D49,Neoplasms,2094,1661
+2019,3,D50-D89,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,309,247
+2019,4,E00-E89,"Endocrine, nutritional and metabolic diseases",1183,908
+2019,5,F01-F99,"Mental, Behavioral and Neurodevelopmental disorders",955,747
+2019,6,G00-G99,Diseases of the nervous system,826,622
+2019,7,H00-H59,Diseases of the eye and adnexa,3372,2606
+2019,8,H60-H95,Diseases of the ear and mastoid process,875,656
+2019,9,I00-I99,Diseases of the circulatory system,1698,1350
+2019,10,J00-J99,Diseases of the respiratory system,443,341
+2019,11,K00-K95,Diseases of the digestive system,1028,799
+2019,12,L00-L99,Diseases of the skin and subcutaneous tissue,1029,846
+2019,13,M00-M99,Diseases of the musculoskeletal system and connective tissue,8459,6487
+2019,14,N00-N99,Diseases of the genitourinary system,830,669
+2019,15,O00-O9A,"Pregnancy, childbirth and the puerperium",2825,2267
+2019,16,P00-P96,Certain conditions originating in the perinatal period,541,443
+2019,17,Q00-QA1,"Congenital malformations, deformations and chromosomal abnormalities",979,817
+2019,18,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings",892,720
+2019,19,S00-T88,"Injury, poisoning and certain other consequences of external causes",53480,40570
+2019,20,V00-Y99,External causes of morbidity,9694,6865
+2019,21,Z00-Z99,Factors influencing health status and contact with health services,1637,1253
+2019,22,U00-U85,Codes for special purposes (U00-U85),0,0
+2020,1,A00-B99,Certain infectious and parasitic diseases,1295,1058
+2020,2,C00-D49,Neoplasms,2094,1661
+2020,3,D50-D89,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,314,251
+2020,4,E00-E89,"Endocrine, nutritional and metabolic diseases",1183,908
+2020,5,F01-F99,"Mental, Behavioral and Neurodevelopmental disorders",955,747
+2020,6,G00-G99,Diseases of the nervous system,826,622
+2020,7,H00-H59,Diseases of the eye and adnexa,3372,2606
+2020,8,H60-H95,Diseases of the ear and mastoid process,871,653
+2020,9,I00-I99,Diseases of the circulatory system,1734,1378
+2020,10,J00-J99,Diseases of the respiratory system,443,341
+2020,11,K00-K95,Diseases of the digestive system,1028,799
+2020,12,L00-L99,Diseases of the skin and subcutaneous tissue,1054,871
+2020,13,M00-M99,Diseases of the musculoskeletal system and connective tissue,8459,6487
+2020,14,N00-N99,Diseases of the genitourinary system,833,672
+2020,15,O00-O9A,"Pregnancy, childbirth and the puerperium",2825,2267
+2020,16,P00-P96,Certain conditions originating in the perinatal period,541,443
+2020,17,Q00-QA1,"Congenital malformations, deformations and chromosomal abnormalities",1010,838
+2020,18,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings",895,722
+2020,19,S00-T88,"Injury, poisoning and certain other consequences of external causes",53587,40654
+2020,20,V00-Y99,External causes of morbidity,9795,6940
+2020,21,Z00-Z99,Factors influencing health status and contact with health services,1651,1266
+2020,22,U00-U85,Codes for special purposes (U00-U85),0,0
+2021,1,A00-B99,Certain infectious and parasitic diseases,1302,1063
+2021,2,C00-D49,Neoplasms,2094,1661
+2021,3,D50-D89,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,362,291
+2021,4,E00-E89,"Endocrine, nutritional and metabolic diseases",1190,912
+2021,5,F01-F99,"Mental, Behavioral and Neurodevelopmental disorders",980,768
+2021,6,G00-G99,Diseases of the nervous system,853,641
+2021,7,H00-H59,Diseases of the eye and adnexa,3401,2628
+2021,8,H60-H95,Diseases of the ear and mastoid process,871,653
+2021,9,I00-I99,Diseases of the circulatory system,1734,1378
+2021,10,J00-J99,Diseases of the respiratory system,450,345
+2021,11,K00-K95,Diseases of the digestive system,1039,805
+2021,12,L00-L99,Diseases of the skin and subcutaneous tissue,1054,871
+2021,13,M00-M99,Diseases of the musculoskeletal system and connective tissue,8521,6541
+2021,14,N00-N99,Diseases of the genitourinary system,849,686
+2021,15,O00-O9A,"Pregnancy, childbirth and the puerperium",2830,2271
+2021,16,P00-P96,Certain conditions originating in the perinatal period,546,447
+2021,17,Q00-QA1,"Congenital malformations, deformations and chromosomal abnormalities",1009,837
+2021,18,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings",899,724
+2021,19,S00-T88,"Injury, poisoning and certain other consequences of external causes",53729,40759
+2021,20,V00-Y99,External causes of morbidity,9981,7064
+2021,21,Z00-Z99,Factors influencing health status and contact with health services,1655,1269
+2021,22,U00-U85,Codes for special purposes (U00-U85),3,2
+2022,1,A00-B99,Certain infectious and parasitic diseases,1303,1064
+2022,2,C00-D49,Neoplasms,2097,1664
+2022,3,D50-D89,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,368,295
+2022,4,E00-E89,"Endocrine, nutritional and metabolic diseases",1191,913
+2022,5,F01-F99,"Mental, Behavioral and Neurodevelopmental disorders",984,770
+2022,6,G00-G99,Diseases of the nervous system,864,650
+2022,7,H00-H59,Diseases of the eye and adnexa,3401,2628
+2022,8,H60-H95,Diseases of the ear and mastoid process,871,653
+2022,9,I00-I99,Diseases of the circulatory system,1735,1379
+2022,10,J00-J99,Diseases of the respiratory system,451,346
+2022,11,K00-K95,Diseases of the digestive system,1055,817
+2022,12,L00-L99,Diseases of the skin and subcutaneous tissue,1064,879
+2022,13,M00-M99,Diseases of the musculoskeletal system and connective tissue,8547,6563
+2022,14,N00-N99,Diseases of the genitourinary system,849,686
+2022,15,O00-O9A,"Pregnancy, childbirth and the puerperium",2830,2271
+2022,16,P00-P96,Certain conditions originating in the perinatal period,555,455
+2022,17,Q00-QA1,"Congenital malformations, deformations and chromosomal abnormalities",1009,837
+2022,18,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings",913,735
+2022,19,S00-T88,"Injury, poisoning and certain other consequences of external causes",53767,40786
+2022,20,V00-Y99,External causes of morbidity,9985,7067
+2022,21,Z00-Z99,Factors influencing health status and contact with health services,1684,1289
+2022,22,U00-U85,Codes for special purposes (U00-U85),5,3
+2023,1,A00-B99,Certain infectious and parasitic diseases,1305,1065
+2023,2,C00-D49,Neoplasms,2097,1664
+2023,3,D50-D89,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,389,312
+2023,4,E00-E89,"Endocrine, nutritional and metabolic diseases",1203,922
+2023,5,F01-F99,"Mental, Behavioral and Neurodevelopmental disorders",1086,849
+2023,6,G00-G99,Diseases of the nervous system,880,663
+2023,7,H00-H59,Diseases of the eye and adnexa,3401,2628
+2023,8,H60-H95,Diseases of the ear and mastoid process,871,653
+2023,9,I00-I99,Diseases of the circulatory system,1778,1412
+2023,10,J00-J99,Diseases of the respiratory system,452,347
+2023,11,K00-K95,Diseases of the digestive system,1056,818
+2023,12,L00-L99,Diseases of the skin and subcutaneous tissue,1064,879
+2023,13,M00-M99,Diseases of the musculoskeletal system and connective tissue,8589,6598
+2023,14,N00-N99,Diseases of the genitourinary system,1021,818
+2023,15,O00-O9A,"Pregnancy, childbirth and the puerperium",3016,2432
+2023,16,P00-P96,Certain conditions originating in the perinatal period,565,463
+2023,17,Q00-QA1,"Congenital malformations, deformations and chromosomal abnormalities",1025,850
+2023,18,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings",913,735
+2023,19,S00-T88,"Injury, poisoning and certain other consequences of external causes",53909,40890
+2023,20,V00-Y99,External causes of morbidity,10384,7307
+2023,21,Z00-Z99,Factors influencing health status and contact with health services,1736,1331
+2023,22,U00-U85,Codes for special purposes (U00-U85),5,3
+2024,1,A00-B99,Certain infectious and parasitic diseases,1307,1067
+2024,2,C00-D49,Neoplasms,2111,1675
+2024,3,D50-D89,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,397,320
+2024,4,E00-E89,"Endocrine, nutritional and metabolic diseases",1222,937
+2024,5,F01-F99,"Mental, Behavioral and Neurodevelopmental disorders",1086,849
+2024,6,G00-G99,Diseases of the nervous system,912,685
+2024,7,H00-H59,Diseases of the eye and adnexa,3447,2661
+2024,8,H60-H95,Diseases of the ear and mastoid process,871,653
+2024,9,I00-I99,Diseases of the circulatory system,1789,1419
+2024,10,J00-J99,Diseases of the respiratory system,461,353
+2024,11,K00-K95,Diseases of the digestive system,1076,833
+2024,12,L00-L99,Diseases of the skin and subcutaneous tissue,1064,879
+2024,13,M00-M99,Diseases of the musculoskeletal system and connective tissue,8633,6634
+2024,14,N00-N99,Diseases of the genitourinary system,1037,831
+2024,15,O00-O9A,"Pregnancy, childbirth and the puerperium",3023,2437
+2024,16,P00-P96,Certain conditions originating in the perinatal period,565,463
+2024,17,Q00-QA1,"Congenital malformations, deformations and chromosomal abnormalities",1051,870
+2024,18,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings",937,753
+2024,19,S00-T88,"Injury, poisoning and certain other consequences of external causes",53944,40914
+2024,20,V00-Y99,External causes of morbidity,10573,7441
+2024,21,Z00-Z99,Factors influencing health status and contact with health services,1785,1367
+2024,22,U00-U85,Codes for special purposes (U00-U85),5,3
+2025,1,A00-B99,Certain infectious and parasitic diseases,1307,1067
+2025,2,C00-D49,Neoplasms,2174,1724
+2025,3,D50-D89,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,398,321
+2025,4,E00-E89,"Endocrine, nutritional and metabolic diseases",1242,951
+2025,5,F01-F99,"Mental, Behavioral and Neurodevelopmental disorders",1112,871
+2025,6,G00-G99,Diseases of the nervous system,920,691
+2025,7,H00-H59,Diseases of the eye and adnexa,3447,2661
+2025,8,H60-H95,Diseases of the ear and mastoid process,871,653
+2025,9,I00-I99,Diseases of the circulatory system,1793,1423
+2025,10,J00-J99,Diseases of the respiratory system,471,360
+2025,11,K00-K95,Diseases of the digestive system,1109,857
+2025,12,L00-L99,Diseases of the skin and subcutaneous tissue,1072,884
+2025,13,M00-M99,Diseases of the musculoskeletal system and connective tissue,8673,6664
+2025,14,N00-N99,Diseases of the genitourinary system,1037,831
+2025,15,O00-O9A,"Pregnancy, childbirth and the puerperium",3023,2437
+2025,16,P00-P96,Certain conditions originating in the perinatal period,565,463
+2025,17,Q00-QA1,"Congenital malformations, deformations and chromosomal abnormalities",1055,873
+2025,18,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings",938,754
+2025,19,S00-T88,"Injury, poisoning and certain other consequences of external causes",53983,40941
+2025,20,V00-Y99,External causes of morbidity,10573,7441
+2025,21,Z00-Z99,Factors influencing health status and contact with health services,1816,1390
+2025,22,U00-U85,Codes for special purposes (U00-U85),5,3
+2026,1,A00-B99,Certain infectious and parasitic diseases,1309,1068
+2026,2,C00-D49,Neoplasms,2178,1727
+2026,3,D50-D89,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,401,323
+2026,4,E00-E89,"Endocrine, nutritional and metabolic diseases",1267,971
+2026,5,F01-F99,"Mental, Behavioral and Neurodevelopmental disorders",1112,871
+2026,6,G00-G99,Diseases of the nervous system,932,700
+2026,7,H00-H59,Diseases of the eye and adnexa,3466,2677
+2026,8,H60-H95,Diseases of the ear and mastoid process,871,653
+2026,9,I00-I99,Diseases of the circulatory system,1798,1427
+2026,10,J00-J99,Diseases of the respiratory system,471,360
+2026,11,K00-K95,Diseases of the digestive system,1109,857
+2026,12,L00-L99,Diseases of the skin and subcutaneous tissue,1206,1000
+2026,13,M00-M99,Diseases of the musculoskeletal system and connective tissue,8674,6665
+2026,14,N00-N99,Diseases of the genitourinary system,1044,836
+2026,15,O00-O9A,"Pregnancy, childbirth and the puerperium",3023,2437
+2026,16,P00-P96,Certain conditions originating in the perinatal period,565,463
+2026,17,Q00-QA1,"Congenital malformations, deformations and chromosomal abnormalities",1086,894
+2026,18,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings",962,773
+2026,19,S00-T88,"Injury, poisoning and certain other consequences of external causes",54261,41142
+2026,20,V00-Y99,External causes of morbidity,10602,7461
+2026,21,Z00-Z99,Factors influencing health status and contact with health services,1844,1411
+2026,22,U00-U85,Codes for special purposes (U00-U85),5,3
+2027,1,A00-B99,Certain infectious and parasitic diseases,1309,1068
+2027,2,C00-D49,Neoplasms,2181,1730
+2027,3,D50-D89,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,403,324
+2027,4,E00-E89,"Endocrine, nutritional and metabolic diseases",1270,973
+2027,5,F01-F99,"Mental, Behavioral and Neurodevelopmental disorders",1113,872
+2027,6,G00-G99,Diseases of the nervous system,932,700
+2027,7,H00-H59,Diseases of the eye and adnexa,3466,2677
+2027,8,H60-H95,Diseases of the ear and mastoid process,871,653
+2027,9,I00-I99,Diseases of the circulatory system,1807,1433
+2027,10,J00-J99,Diseases of the respiratory system,478,366
+2027,11,K00-K95,Diseases of the digestive system,1117,863
+2027,12,L00-L99,Diseases of the skin and subcutaneous tissue,1207,1001
+2027,13,M00-M99,Diseases of the musculoskeletal system and connective tissue,8707,6687
+2027,14,N00-N99,Diseases of the genitourinary system,1047,838
+2027,15,O00-O9A,"Pregnancy, childbirth and the puerperium",3079,2481
+2027,16,P00-P96,Certain conditions originating in the perinatal period,565,463
+2027,17,Q00-QA1,"Congenital malformations, deformations and chromosomal abnormalities",1095,900
+2027,18,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings",963,774
+2027,19,S00-T88,"Injury, poisoning and certain other consequences of external causes",54325,41187
+2027,20,V00-Y99,External causes of morbidity,10602,7461
+2027,21,Z00-Z99,Factors influencing health status and contact with health services,1861,1425
+2027,22,U00-U85,Codes for special purposes (U00-U85),5,3

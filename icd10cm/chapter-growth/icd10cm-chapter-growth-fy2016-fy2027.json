@@ -1,0 +1,2118 @@
+{
+  "generatedAt": "2026-09-15",
+  "description": "Order-file entries and valid (billable) codes per ICD-10-CM chapter, for every fiscal year from FY2016 to FY2027. Chapters are the site's canonical 22-chapter table (medcoder.ai chapter hub ranges).",
+  "rows": [
+    {
+      "fiscalYear": 2016,
+      "chapterId": "1",
+      "chapterRange": "A00-B99",
+      "chapterTitle": "Certain infectious and parasitic diseases",
+      "totalEntries": 1292,
+      "billableCodes": 1056
+    },
+    {
+      "fiscalYear": 2016,
+      "chapterId": "2",
+      "chapterRange": "C00-D49",
+      "chapterTitle": "Neoplasms",
+      "totalEntries": 2025,
+      "billableCodes": 1620
+    },
+    {
+      "fiscalYear": 2016,
+      "chapterId": "3",
+      "chapterRange": "D50-D89",
+      "chapterTitle": "Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism",
+      "totalEntries": 298,
+      "billableCodes": 238
+    },
+    {
+      "fiscalYear": 2016,
+      "chapterId": "4",
+      "chapterRange": "E00-E89",
+      "chapterTitle": "Endocrine, nutritional and metabolic diseases",
+      "totalEntries": 879,
+      "billableCodes": 675
+    },
+    {
+      "fiscalYear": 2016,
+      "chapterId": "5",
+      "chapterRange": "F01-F99",
+      "chapterTitle": "Mental, Behavioral and Neurodevelopmental disorders",
+      "totalEntries": 927,
+      "billableCodes": 724
+    },
+    {
+      "fiscalYear": 2016,
+      "chapterId": "6",
+      "chapterRange": "G00-G99",
+      "chapterTitle": "Diseases of the nervous system",
+      "totalEntries": 792,
+      "billableCodes": 591
+    },
+    {
+      "fiscalYear": 2016,
+      "chapterId": "7",
+      "chapterRange": "H00-H59",
+      "chapterTitle": "Diseases of the eye and adnexa",
+      "totalEntries": 3135,
+      "billableCodes": 2432
+    },
+    {
+      "fiscalYear": 2016,
+      "chapterId": "8",
+      "chapterRange": "H60-H95",
+      "chapterTitle": "Diseases of the ear and mastoid process",
+      "totalEntries": 855,
+      "billableCodes": 642
+    },
+    {
+      "fiscalYear": 2016,
+      "chapterId": "9",
+      "chapterRange": "I00-I99",
+      "chapterTitle": "Diseases of the circulatory system",
+      "totalEntries": 1587,
+      "billableCodes": 1254
+    },
+    {
+      "fiscalYear": 2016,
+      "chapterId": "10",
+      "chapterRange": "J00-J99",
+      "chapterTitle": "Diseases of the respiratory system",
+      "totalEntries": 436,
+      "billableCodes": 336
+    },
+    {
+      "fiscalYear": 2016,
+      "chapterId": "11",
+      "chapterRange": "K00-K95",
+      "chapterTitle": "Diseases of the digestive system",
+      "totalEntries": 896,
+      "billableCodes": 706
+    },
+    {
+      "fiscalYear": 2016,
+      "chapterId": "12",
+      "chapterRange": "L00-L99",
+      "chapterTitle": "Diseases of the skin and subcutaneous tissue",
+      "totalEntries": 950,
+      "billableCodes": 768
+    },
+    {
+      "fiscalYear": 2016,
+      "chapterId": "13",
+      "chapterRange": "M00-M99",
+      "chapterTitle": "Diseases of the musculoskeletal system and connective tissue",
+      "totalEntries": 8261,
+      "billableCodes": 6336
+    },
+    {
+      "fiscalYear": 2016,
+      "chapterId": "14",
+      "chapterRange": "N00-N99",
+      "chapterTitle": "Diseases of the genitourinary system",
+      "totalEntries": 726,
+      "billableCodes": 591
+    },
+    {
+      "fiscalYear": 2016,
+      "chapterId": "15",
+      "chapterRange": "O00-O9A",
+      "chapterTitle": "Pregnancy, childbirth and the puerperium",
+      "totalEntries": 2687,
+      "billableCodes": 2155
+    },
+    {
+      "fiscalYear": 2016,
+      "chapterId": "16",
+      "chapterRange": "P00-P96",
+      "chapterTitle": "Certain conditions originating in the perinatal period",
+      "totalEntries": 504,
+      "billableCodes": 417
+    },
+    {
+      "fiscalYear": 2016,
+      "chapterId": "17",
+      "chapterRange": "Q00-QA1",
+      "chapterTitle": "Congenital malformations, deformations and chromosomal abnormalities",
+      "totalEntries": 944,
+      "billableCodes": 790
+    },
+    {
+      "fiscalYear": 2016,
+      "chapterId": "18",
+      "chapterRange": "R00-R99",
+      "chapterTitle": "Symptoms, signs and abnormal clinical and laboratory findings",
+      "totalEntries": 792,
+      "billableCodes": 639
+    },
+    {
+      "fiscalYear": 2016,
+      "chapterId": "19",
+      "chapterRange": "S00-T88",
+      "chapterTitle": "Injury, poisoning and certain other consequences of external causes",
+      "totalEntries": 52574,
+      "billableCodes": 39863
+    },
+    {
+      "fiscalYear": 2016,
+      "chapterId": "20",
+      "chapterRange": "V00-Y99",
+      "chapterTitle": "External causes of morbidity",
+      "totalEntries": 9629,
+      "billableCodes": 6812
+    },
+    {
+      "fiscalYear": 2016,
+      "chapterId": "21",
+      "chapterRange": "Z00-Z99",
+      "chapterTitle": "Factors influencing health status and contact with health services",
+      "totalEntries": 1548,
+      "billableCodes": 1178
+    },
+    {
+      "fiscalYear": 2016,
+      "chapterId": "22",
+      "chapterRange": "U00-U85",
+      "chapterTitle": "Codes for special purposes (U00-U85)",
+      "totalEntries": 0,
+      "billableCodes": 0
+    },
+    {
+      "fiscalYear": 2017,
+      "chapterId": "1",
+      "chapterRange": "A00-B99",
+      "chapterTitle": "Certain infectious and parasitic diseases",
+      "totalEntries": 1293,
+      "billableCodes": 1057
+    },
+    {
+      "fiscalYear": 2017,
+      "chapterId": "2",
+      "chapterRange": "C00-D49",
+      "chapterTitle": "Neoplasms",
+      "totalEntries": 2039,
+      "billableCodes": 1631
+    },
+    {
+      "fiscalYear": 2017,
+      "chapterId": "3",
+      "chapterRange": "D50-D89",
+      "chapterTitle": "Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism",
+      "totalEntries": 309,
+      "billableCodes": 247
+    },
+    {
+      "fiscalYear": 2017,
+      "chapterId": "4",
+      "chapterRange": "E00-E89",
+      "chapterTitle": "Endocrine, nutritional and metabolic diseases",
+      "totalEntries": 1171,
+      "billableCodes": 900
+    },
+    {
+      "fiscalYear": 2017,
+      "chapterId": "5",
+      "chapterRange": "F01-F99",
+      "chapterTitle": "Mental, Behavioral and Neurodevelopmental disorders",
+      "totalEntries": 940,
+      "billableCodes": 733
+    },
+    {
+      "fiscalYear": 2017,
+      "chapterId": "6",
+      "chapterRange": "G00-G99",
+      "chapterTitle": "Diseases of the nervous system",
+      "totalEntries": 815,
+      "billableCodes": 613
+    },
+    {
+      "fiscalYear": 2017,
+      "chapterId": "7",
+      "chapterRange": "H00-H59",
+      "chapterTitle": "Diseases of the eye and adnexa",
+      "totalEntries": 3247,
+      "billableCodes": 2517
+    },
+    {
+      "fiscalYear": 2017,
+      "chapterId": "8",
+      "chapterRange": "H60-H95",
+      "chapterTitle": "Diseases of the ear and mastoid process",
+      "totalEntries": 875,
+      "billableCodes": 656
+    },
+    {
+      "fiscalYear": 2017,
+      "chapterId": "9",
+      "chapterRange": "I00-I99",
+      "chapterTitle": "Diseases of the circulatory system",
+      "totalEntries": 1671,
+      "billableCodes": 1329
+    },
+    {
+      "fiscalYear": 2017,
+      "chapterId": "10",
+      "chapterRange": "J00-J99",
+      "chapterTitle": "Diseases of the respiratory system",
+      "totalEntries": 443,
+      "billableCodes": 341
+    },
+    {
+      "fiscalYear": 2017,
+      "chapterId": "11",
+      "chapterRange": "K00-K95",
+      "chapterTitle": "Diseases of the digestive system",
+      "totalEntries": 990,
+      "billableCodes": 774
+    },
+    {
+      "fiscalYear": 2017,
+      "chapterId": "12",
+      "chapterRange": "L00-L99",
+      "chapterTitle": "Diseases of the skin and subcutaneous tissue",
+      "totalEntries": 957,
+      "billableCodes": 774
+    },
+    {
+      "fiscalYear": 2017,
+      "chapterId": "13",
+      "chapterRange": "M00-M99",
+      "chapterTitle": "Diseases of the musculoskeletal system and connective tissue",
+      "totalEntries": 8450,
+      "billableCodes": 6480
+    },
+    {
+      "fiscalYear": 2017,
+      "chapterId": "14",
+      "chapterRange": "N00-N99",
+      "chapterTitle": "Diseases of the genitourinary system",
+      "totalEntries": 792,
+      "billableCodes": 640
+    },
+    {
+      "fiscalYear": 2017,
+      "chapterId": "15",
+      "chapterRange": "O00-O9A",
+      "chapterTitle": "Pregnancy, childbirth and the puerperium",
+      "totalEntries": 2759,
+      "billableCodes": 2214
+    },
+    {
+      "fiscalYear": 2017,
+      "chapterId": "16",
+      "chapterRange": "P00-P96",
+      "chapterTitle": "Certain conditions originating in the perinatal period",
+      "totalEntries": 506,
+      "billableCodes": 419
+    },
+    {
+      "fiscalYear": 2017,
+      "chapterId": "17",
+      "chapterRange": "Q00-QA1",
+      "chapterTitle": "Congenital malformations, deformations and chromosomal abnormalities",
+      "totalEntries": 966,
+      "billableCodes": 808
+    },
+    {
+      "fiscalYear": 2017,
+      "chapterId": "18",
+      "chapterRange": "R00-R99",
+      "chapterTitle": "Symptoms, signs and abnormal clinical and laboratory findings",
+      "totalEntries": 878,
+      "billableCodes": 709
+    },
+    {
+      "fiscalYear": 2017,
+      "chapterId": "19",
+      "chapterRange": "S00-T88",
+      "chapterTitle": "Injury, poisoning and certain other consequences of external causes",
+      "totalEntries": 53516,
+      "billableCodes": 40619
+    },
+    {
+      "fiscalYear": 2017,
+      "chapterId": "20",
+      "chapterRange": "V00-Y99",
+      "chapterTitle": "External causes of morbidity",
+      "totalEntries": 9621,
+      "billableCodes": 6810
+    },
+    {
+      "fiscalYear": 2017,
+      "chapterId": "21",
+      "chapterRange": "Z00-Z99",
+      "chapterTitle": "Factors influencing health status and contact with health services",
+      "totalEntries": 1592,
+      "billableCodes": 1215
+    },
+    {
+      "fiscalYear": 2017,
+      "chapterId": "22",
+      "chapterRange": "U00-U85",
+      "chapterTitle": "Codes for special purposes (U00-U85)",
+      "totalEntries": 0,
+      "billableCodes": 0
+    },
+    {
+      "fiscalYear": 2018,
+      "chapterId": "1",
+      "chapterRange": "A00-B99",
+      "chapterTitle": "Certain infectious and parasitic diseases",
+      "totalEntries": 1295,
+      "billableCodes": 1058
+    },
+    {
+      "fiscalYear": 2018,
+      "chapterId": "2",
+      "chapterRange": "C00-D49",
+      "chapterTitle": "Neoplasms",
+      "totalEntries": 2046,
+      "billableCodes": 1636
+    },
+    {
+      "fiscalYear": 2018,
+      "chapterId": "3",
+      "chapterRange": "D50-D89",
+      "chapterTitle": "Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism",
+      "totalEntries": 309,
+      "billableCodes": 247
+    },
+    {
+      "fiscalYear": 2018,
+      "chapterId": "4",
+      "chapterRange": "E00-E89",
+      "chapterTitle": "Endocrine, nutritional and metabolic diseases",
+      "totalEntries": 1177,
+      "billableCodes": 904
+    },
+    {
+      "fiscalYear": 2018,
+      "chapterId": "5",
+      "chapterRange": "F01-F99",
+      "chapterTitle": "Mental, Behavioral and Neurodevelopmental disorders",
+      "totalEntries": 950,
+      "billableCodes": 743
+    },
+    {
+      "fiscalYear": 2018,
+      "chapterId": "6",
+      "chapterRange": "G00-G99",
+      "chapterTitle": "Diseases of the nervous system",
+      "totalEntries": 818,
+      "billableCodes": 616
+    },
+    {
+      "fiscalYear": 2018,
+      "chapterId": "7",
+      "chapterRange": "H00-H59",
+      "chapterTitle": "Diseases of the eye and adnexa",
+      "totalEntries": 3325,
+      "billableCodes": 2564
+    },
+    {
+      "fiscalYear": 2018,
+      "chapterId": "8",
+      "chapterRange": "H60-H95",
+      "chapterTitle": "Diseases of the ear and mastoid process",
+      "totalEntries": 875,
+      "billableCodes": 656
+    },
+    {
+      "fiscalYear": 2018,
+      "chapterId": "9",
+      "chapterRange": "I00-I99",
+      "chapterTitle": "Diseases of the circulatory system",
+      "totalEntries": 1693,
+      "billableCodes": 1347
+    },
+    {
+      "fiscalYear": 2018,
+      "chapterId": "10",
+      "chapterRange": "J00-J99",
+      "chapterTitle": "Diseases of the respiratory system",
+      "totalEntries": 443,
+      "billableCodes": 341
+    },
+    {
+      "fiscalYear": 2018,
+      "chapterId": "11",
+      "chapterRange": "K00-K95",
+      "chapterTitle": "Diseases of the digestive system",
+      "totalEntries": 1012,
+      "billableCodes": 789
+    },
+    {
+      "fiscalYear": 2018,
+      "chapterId": "12",
+      "chapterRange": "L00-L99",
+      "chapterTitle": "Diseases of the skin and subcutaneous tissue",
+      "totalEntries": 1029,
+      "billableCodes": 846
+    },
+    {
+      "fiscalYear": 2018,
+      "chapterId": "13",
+      "chapterRange": "M00-M99",
+      "chapterTitle": "Diseases of the musculoskeletal system and connective tissue",
+      "totalEntries": 8455,
+      "billableCodes": 6484
+    },
+    {
+      "fiscalYear": 2018,
+      "chapterId": "14",
+      "chapterRange": "N00-N99",
+      "chapterTitle": "Diseases of the genitourinary system",
+      "totalEntries": 811,
+      "billableCodes": 654
+    },
+    {
+      "fiscalYear": 2018,
+      "chapterId": "15",
+      "chapterRange": "O00-O9A",
+      "chapterTitle": "Pregnancy, childbirth and the puerperium",
+      "totalEntries": 2804,
+      "billableCodes": 2250
+    },
+    {
+      "fiscalYear": 2018,
+      "chapterId": "16",
+      "chapterRange": "P00-P96",
+      "chapterTitle": "Certain conditions originating in the perinatal period",
+      "totalEntries": 515,
+      "billableCodes": 424
+    },
+    {
+      "fiscalYear": 2018,
+      "chapterId": "17",
+      "chapterRange": "Q00-QA1",
+      "chapterTitle": "Congenital malformations, deformations and chromosomal abnormalities",
+      "totalEntries": 972,
+      "billableCodes": 812
+    },
+    {
+      "fiscalYear": 2018,
+      "chapterId": "18",
+      "chapterRange": "R00-R99",
+      "chapterTitle": "Symptoms, signs and abnormal clinical and laboratory findings",
+      "totalEntries": 881,
+      "billableCodes": 712
+    },
+    {
+      "fiscalYear": 2018,
+      "chapterId": "19",
+      "chapterRange": "S00-T88",
+      "chapterTitle": "Injury, poisoning and certain other consequences of external causes",
+      "totalEntries": 53406,
+      "billableCodes": 40519
+    },
+    {
+      "fiscalYear": 2018,
+      "chapterId": "20",
+      "chapterRange": "V00-Y99",
+      "chapterTitle": "External causes of morbidity",
+      "totalEntries": 9693,
+      "billableCodes": 6864
+    },
+    {
+      "fiscalYear": 2018,
+      "chapterId": "21",
+      "chapterRange": "Z00-Z99",
+      "chapterTitle": "Factors influencing health status and contact with health services",
+      "totalEntries": 1618,
+      "billableCodes": 1238
+    },
+    {
+      "fiscalYear": 2018,
+      "chapterId": "22",
+      "chapterRange": "U00-U85",
+      "chapterTitle": "Codes for special purposes (U00-U85)",
+      "totalEntries": 0,
+      "billableCodes": 0
+    },
+    {
+      "fiscalYear": 2019,
+      "chapterId": "1",
+      "chapterRange": "A00-B99",
+      "chapterTitle": "Certain infectious and parasitic diseases",
+      "totalEntries": 1295,
+      "billableCodes": 1058
+    },
+    {
+      "fiscalYear": 2019,
+      "chapterId": "2",
+      "chapterRange": "C00-D49",
+      "chapterTitle": "Neoplasms",
+      "totalEntries": 2094,
+      "billableCodes": 1661
+    },
+    {
+      "fiscalYear": 2019,
+      "chapterId": "3",
+      "chapterRange": "D50-D89",
+      "chapterTitle": "Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism",
+      "totalEntries": 309,
+      "billableCodes": 247
+    },
+    {
+      "fiscalYear": 2019,
+      "chapterId": "4",
+      "chapterRange": "E00-E89",
+      "chapterTitle": "Endocrine, nutritional and metabolic diseases",
+      "totalEntries": 1183,
+      "billableCodes": 908
+    },
+    {
+      "fiscalYear": 2019,
+      "chapterId": "5",
+      "chapterRange": "F01-F99",
+      "chapterTitle": "Mental, Behavioral and Neurodevelopmental disorders",
+      "totalEntries": 955,
+      "billableCodes": 747
+    },
+    {
+      "fiscalYear": 2019,
+      "chapterId": "6",
+      "chapterRange": "G00-G99",
+      "chapterTitle": "Diseases of the nervous system",
+      "totalEntries": 826,
+      "billableCodes": 622
+    },
+    {
+      "fiscalYear": 2019,
+      "chapterId": "7",
+      "chapterRange": "H00-H59",
+      "chapterTitle": "Diseases of the eye and adnexa",
+      "totalEntries": 3372,
+      "billableCodes": 2606
+    },
+    {
+      "fiscalYear": 2019,
+      "chapterId": "8",
+      "chapterRange": "H60-H95",
+      "chapterTitle": "Diseases of the ear and mastoid process",
+      "totalEntries": 875,
+      "billableCodes": 656
+    },
+    {
+      "fiscalYear": 2019,
+      "chapterId": "9",
+      "chapterRange": "I00-I99",
+      "chapterTitle": "Diseases of the circulatory system",
+      "totalEntries": 1698,
+      "billableCodes": 1350
+    },
+    {
+      "fiscalYear": 2019,
+      "chapterId": "10",
+      "chapterRange": "J00-J99",
+      "chapterTitle": "Diseases of the respiratory system",
+      "totalEntries": 443,
+      "billableCodes": 341
+    },
+    {
+      "fiscalYear": 2019,
+      "chapterId": "11",
+      "chapterRange": "K00-K95",
+      "chapterTitle": "Diseases of the digestive system",
+      "totalEntries": 1028,
+      "billableCodes": 799
+    },
+    {
+      "fiscalYear": 2019,
+      "chapterId": "12",
+      "chapterRange": "L00-L99",
+      "chapterTitle": "Diseases of the skin and subcutaneous tissue",
+      "totalEntries": 1029,
+      "billableCodes": 846
+    },
+    {
+      "fiscalYear": 2019,
+      "chapterId": "13",
+      "chapterRange": "M00-M99",
+      "chapterTitle": "Diseases of the musculoskeletal system and connective tissue",
+      "totalEntries": 8459,
+      "billableCodes": 6487
+    },
+    {
+      "fiscalYear": 2019,
+      "chapterId": "14",
+      "chapterRange": "N00-N99",
+      "chapterTitle": "Diseases of the genitourinary system",
+      "totalEntries": 830,
+      "billableCodes": 669
+    },
+    {
+      "fiscalYear": 2019,
+      "chapterId": "15",
+      "chapterRange": "O00-O9A",
+      "chapterTitle": "Pregnancy, childbirth and the puerperium",
+      "totalEntries": 2825,
+      "billableCodes": 2267
+    },
+    {
+      "fiscalYear": 2019,
+      "chapterId": "16",
+      "chapterRange": "P00-P96",
+      "chapterTitle": "Certain conditions originating in the perinatal period",
+      "totalEntries": 541,
+      "billableCodes": 443
+    },
+    {
+      "fiscalYear": 2019,
+      "chapterId": "17",
+      "chapterRange": "Q00-QA1",
+      "chapterTitle": "Congenital malformations, deformations and chromosomal abnormalities",
+      "totalEntries": 979,
+      "billableCodes": 817
+    },
+    {
+      "fiscalYear": 2019,
+      "chapterId": "18",
+      "chapterRange": "R00-R99",
+      "chapterTitle": "Symptoms, signs and abnormal clinical and laboratory findings",
+      "totalEntries": 892,
+      "billableCodes": 720
+    },
+    {
+      "fiscalYear": 2019,
+      "chapterId": "19",
+      "chapterRange": "S00-T88",
+      "chapterTitle": "Injury, poisoning and certain other consequences of external causes",
+      "totalEntries": 53480,
+      "billableCodes": 40570
+    },
+    {
+      "fiscalYear": 2019,
+      "chapterId": "20",
+      "chapterRange": "V00-Y99",
+      "chapterTitle": "External causes of morbidity",
+      "totalEntries": 9694,
+      "billableCodes": 6865
+    },
+    {
+      "fiscalYear": 2019,
+      "chapterId": "21",
+      "chapterRange": "Z00-Z99",
+      "chapterTitle": "Factors influencing health status and contact with health services",
+      "totalEntries": 1637,
+      "billableCodes": 1253
+    },
+    {
+      "fiscalYear": 2019,
+      "chapterId": "22",
+      "chapterRange": "U00-U85",
+      "chapterTitle": "Codes for special purposes (U00-U85)",
+      "totalEntries": 0,
+      "billableCodes": 0
+    },
+    {
+      "fiscalYear": 2020,
+      "chapterId": "1",
+      "chapterRange": "A00-B99",
+      "chapterTitle": "Certain infectious and parasitic diseases",
+      "totalEntries": 1295,
+      "billableCodes": 1058
+    },
+    {
+      "fiscalYear": 2020,
+      "chapterId": "2",
+      "chapterRange": "C00-D49",
+      "chapterTitle": "Neoplasms",
+      "totalEntries": 2094,
+      "billableCodes": 1661
+    },
+    {
+      "fiscalYear": 2020,
+      "chapterId": "3",
+      "chapterRange": "D50-D89",
+      "chapterTitle": "Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism",
+      "totalEntries": 314,
+      "billableCodes": 251
+    },
+    {
+      "fiscalYear": 2020,
+      "chapterId": "4",
+      "chapterRange": "E00-E89",
+      "chapterTitle": "Endocrine, nutritional and metabolic diseases",
+      "totalEntries": 1183,
+      "billableCodes": 908
+    },
+    {
+      "fiscalYear": 2020,
+      "chapterId": "5",
+      "chapterRange": "F01-F99",
+      "chapterTitle": "Mental, Behavioral and Neurodevelopmental disorders",
+      "totalEntries": 955,
+      "billableCodes": 747
+    },
+    {
+      "fiscalYear": 2020,
+      "chapterId": "6",
+      "chapterRange": "G00-G99",
+      "chapterTitle": "Diseases of the nervous system",
+      "totalEntries": 826,
+      "billableCodes": 622
+    },
+    {
+      "fiscalYear": 2020,
+      "chapterId": "7",
+      "chapterRange": "H00-H59",
+      "chapterTitle": "Diseases of the eye and adnexa",
+      "totalEntries": 3372,
+      "billableCodes": 2606
+    },
+    {
+      "fiscalYear": 2020,
+      "chapterId": "8",
+      "chapterRange": "H60-H95",
+      "chapterTitle": "Diseases of the ear and mastoid process",
+      "totalEntries": 871,
+      "billableCodes": 653
+    },
+    {
+      "fiscalYear": 2020,
+      "chapterId": "9",
+      "chapterRange": "I00-I99",
+      "chapterTitle": "Diseases of the circulatory system",
+      "totalEntries": 1734,
+      "billableCodes": 1378
+    },
+    {
+      "fiscalYear": 2020,
+      "chapterId": "10",
+      "chapterRange": "J00-J99",
+      "chapterTitle": "Diseases of the respiratory system",
+      "totalEntries": 443,
+      "billableCodes": 341
+    },
+    {
+      "fiscalYear": 2020,
+      "chapterId": "11",
+      "chapterRange": "K00-K95",
+      "chapterTitle": "Diseases of the digestive system",
+      "totalEntries": 1028,
+      "billableCodes": 799
+    },
+    {
+      "fiscalYear": 2020,
+      "chapterId": "12",
+      "chapterRange": "L00-L99",
+      "chapterTitle": "Diseases of the skin and subcutaneous tissue",
+      "totalEntries": 1054,
+      "billableCodes": 871
+    },
+    {
+      "fiscalYear": 2020,
+      "chapterId": "13",
+      "chapterRange": "M00-M99",
+      "chapterTitle": "Diseases of the musculoskeletal system and connective tissue",
+      "totalEntries": 8459,
+      "billableCodes": 6487
+    },
+    {
+      "fiscalYear": 2020,
+      "chapterId": "14",
+      "chapterRange": "N00-N99",
+      "chapterTitle": "Diseases of the genitourinary system",
+      "totalEntries": 833,
+      "billableCodes": 672
+    },
+    {
+      "fiscalYear": 2020,
+      "chapterId": "15",
+      "chapterRange": "O00-O9A",
+      "chapterTitle": "Pregnancy, childbirth and the puerperium",
+      "totalEntries": 2825,
+      "billableCodes": 2267
+    },
+    {
+      "fiscalYear": 2020,
+      "chapterId": "16",
+      "chapterRange": "P00-P96",
+      "chapterTitle": "Certain conditions originating in the perinatal period",
+      "totalEntries": 541,
+      "billableCodes": 443
+    },
+    {
+      "fiscalYear": 2020,
+      "chapterId": "17",
+      "chapterRange": "Q00-QA1",
+      "chapterTitle": "Congenital malformations, deformations and chromosomal abnormalities",
+      "totalEntries": 1010,
+      "billableCodes": 838
+    },
+    {
+      "fiscalYear": 2020,
+      "chapterId": "18",
+      "chapterRange": "R00-R99",
+      "chapterTitle": "Symptoms, signs and abnormal clinical and laboratory findings",
+      "totalEntries": 895,
+      "billableCodes": 722
+    },
+    {
+      "fiscalYear": 2020,
+      "chapterId": "19",
+      "chapterRange": "S00-T88",
+      "chapterTitle": "Injury, poisoning and certain other consequences of external causes",
+      "totalEntries": 53587,
+      "billableCodes": 40654
+    },
+    {
+      "fiscalYear": 2020,
+      "chapterId": "20",
+      "chapterRange": "V00-Y99",
+      "chapterTitle": "External causes of morbidity",
+      "totalEntries": 9795,
+      "billableCodes": 6940
+    },
+    {
+      "fiscalYear": 2020,
+      "chapterId": "21",
+      "chapterRange": "Z00-Z99",
+      "chapterTitle": "Factors influencing health status and contact with health services",
+      "totalEntries": 1651,
+      "billableCodes": 1266
+    },
+    {
+      "fiscalYear": 2020,
+      "chapterId": "22",
+      "chapterRange": "U00-U85",
+      "chapterTitle": "Codes for special purposes (U00-U85)",
+      "totalEntries": 0,
+      "billableCodes": 0
+    },
+    {
+      "fiscalYear": 2021,
+      "chapterId": "1",
+      "chapterRange": "A00-B99",
+      "chapterTitle": "Certain infectious and parasitic diseases",
+      "totalEntries": 1302,
+      "billableCodes": 1063
+    },
+    {
+      "fiscalYear": 2021,
+      "chapterId": "2",
+      "chapterRange": "C00-D49",
+      "chapterTitle": "Neoplasms",
+      "totalEntries": 2094,
+      "billableCodes": 1661
+    },
+    {
+      "fiscalYear": 2021,
+      "chapterId": "3",
+      "chapterRange": "D50-D89",
+      "chapterTitle": "Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism",
+      "totalEntries": 362,
+      "billableCodes": 291
+    },
+    {
+      "fiscalYear": 2021,
+      "chapterId": "4",
+      "chapterRange": "E00-E89",
+      "chapterTitle": "Endocrine, nutritional and metabolic diseases",
+      "totalEntries": 1190,
+      "billableCodes": 912
+    },
+    {
+      "fiscalYear": 2021,
+      "chapterId": "5",
+      "chapterRange": "F01-F99",
+      "chapterTitle": "Mental, Behavioral and Neurodevelopmental disorders",
+      "totalEntries": 980,
+      "billableCodes": 768
+    },
+    {
+      "fiscalYear": 2021,
+      "chapterId": "6",
+      "chapterRange": "G00-G99",
+      "chapterTitle": "Diseases of the nervous system",
+      "totalEntries": 853,
+      "billableCodes": 641
+    },
+    {
+      "fiscalYear": 2021,
+      "chapterId": "7",
+      "chapterRange": "H00-H59",
+      "chapterTitle": "Diseases of the eye and adnexa",
+      "totalEntries": 3401,
+      "billableCodes": 2628
+    },
+    {
+      "fiscalYear": 2021,
+      "chapterId": "8",
+      "chapterRange": "H60-H95",
+      "chapterTitle": "Diseases of the ear and mastoid process",
+      "totalEntries": 871,
+      "billableCodes": 653
+    },
+    {
+      "fiscalYear": 2021,
+      "chapterId": "9",
+      "chapterRange": "I00-I99",
+      "chapterTitle": "Diseases of the circulatory system",
+      "totalEntries": 1734,
+      "billableCodes": 1378
+    },
+    {
+      "fiscalYear": 2021,
+      "chapterId": "10",
+      "chapterRange": "J00-J99",
+      "chapterTitle": "Diseases of the respiratory system",
+      "totalEntries": 450,
+      "billableCodes": 345
+    },
+    {
+      "fiscalYear": 2021,
+      "chapterId": "11",
+      "chapterRange": "K00-K95",
+      "chapterTitle": "Diseases of the digestive system",
+      "totalEntries": 1039,
+      "billableCodes": 805
+    },
+    {
+      "fiscalYear": 2021,
+      "chapterId": "12",
+      "chapterRange": "L00-L99",
+      "chapterTitle": "Diseases of the skin and subcutaneous tissue",
+      "totalEntries": 1054,
+      "billableCodes": 871
+    },
+    {
+      "fiscalYear": 2021,
+      "chapterId": "13",
+      "chapterRange": "M00-M99",
+      "chapterTitle": "Diseases of the musculoskeletal system and connective tissue",
+      "totalEntries": 8521,
+      "billableCodes": 6541
+    },
+    {
+      "fiscalYear": 2021,
+      "chapterId": "14",
+      "chapterRange": "N00-N99",
+      "chapterTitle": "Diseases of the genitourinary system",
+      "totalEntries": 849,
+      "billableCodes": 686
+    },
+    {
+      "fiscalYear": 2021,
+      "chapterId": "15",
+      "chapterRange": "O00-O9A",
+      "chapterTitle": "Pregnancy, childbirth and the puerperium",
+      "totalEntries": 2830,
+      "billableCodes": 2271
+    },
+    {
+      "fiscalYear": 2021,
+      "chapterId": "16",
+      "chapterRange": "P00-P96",
+      "chapterTitle": "Certain conditions originating in the perinatal period",
+      "totalEntries": 546,
+      "billableCodes": 447
+    },
+    {
+      "fiscalYear": 2021,
+      "chapterId": "17",
+      "chapterRange": "Q00-QA1",
+      "chapterTitle": "Congenital malformations, deformations and chromosomal abnormalities",
+      "totalEntries": 1009,
+      "billableCodes": 837
+    },
+    {
+      "fiscalYear": 2021,
+      "chapterId": "18",
+      "chapterRange": "R00-R99",
+      "chapterTitle": "Symptoms, signs and abnormal clinical and laboratory findings",
+      "totalEntries": 899,
+      "billableCodes": 724
+    },
+    {
+      "fiscalYear": 2021,
+      "chapterId": "19",
+      "chapterRange": "S00-T88",
+      "chapterTitle": "Injury, poisoning and certain other consequences of external causes",
+      "totalEntries": 53729,
+      "billableCodes": 40759
+    },
+    {
+      "fiscalYear": 2021,
+      "chapterId": "20",
+      "chapterRange": "V00-Y99",
+      "chapterTitle": "External causes of morbidity",
+      "totalEntries": 9981,
+      "billableCodes": 7064
+    },
+    {
+      "fiscalYear": 2021,
+      "chapterId": "21",
+      "chapterRange": "Z00-Z99",
+      "chapterTitle": "Factors influencing health status and contact with health services",
+      "totalEntries": 1655,
+      "billableCodes": 1269
+    },
+    {
+      "fiscalYear": 2021,
+      "chapterId": "22",
+      "chapterRange": "U00-U85",
+      "chapterTitle": "Codes for special purposes (U00-U85)",
+      "totalEntries": 3,
+      "billableCodes": 2
+    },
+    {
+      "fiscalYear": 2022,
+      "chapterId": "1",
+      "chapterRange": "A00-B99",
+      "chapterTitle": "Certain infectious and parasitic diseases",
+      "totalEntries": 1303,
+      "billableCodes": 1064
+    },
+    {
+      "fiscalYear": 2022,
+      "chapterId": "2",
+      "chapterRange": "C00-D49",
+      "chapterTitle": "Neoplasms",
+      "totalEntries": 2097,
+      "billableCodes": 1664
+    },
+    {
+      "fiscalYear": 2022,
+      "chapterId": "3",
+      "chapterRange": "D50-D89",
+      "chapterTitle": "Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism",
+      "totalEntries": 368,
+      "billableCodes": 295
+    },
+    {
+      "fiscalYear": 2022,
+      "chapterId": "4",
+      "chapterRange": "E00-E89",
+      "chapterTitle": "Endocrine, nutritional and metabolic diseases",
+      "totalEntries": 1191,
+      "billableCodes": 913
+    },
+    {
+      "fiscalYear": 2022,
+      "chapterId": "5",
+      "chapterRange": "F01-F99",
+      "chapterTitle": "Mental, Behavioral and Neurodevelopmental disorders",
+      "totalEntries": 984,
+      "billableCodes": 770
+    },
+    {
+      "fiscalYear": 2022,
+      "chapterId": "6",
+      "chapterRange": "G00-G99",
+      "chapterTitle": "Diseases of the nervous system",
+      "totalEntries": 864,
+      "billableCodes": 650
+    },
+    {
+      "fiscalYear": 2022,
+      "chapterId": "7",
+      "chapterRange": "H00-H59",
+      "chapterTitle": "Diseases of the eye and adnexa",
+      "totalEntries": 3401,
+      "billableCodes": 2628
+    },
+    {
+      "fiscalYear": 2022,
+      "chapterId": "8",
+      "chapterRange": "H60-H95",
+      "chapterTitle": "Diseases of the ear and mastoid process",
+      "totalEntries": 871,
+      "billableCodes": 653
+    },
+    {
+      "fiscalYear": 2022,
+      "chapterId": "9",
+      "chapterRange": "I00-I99",
+      "chapterTitle": "Diseases of the circulatory system",
+      "totalEntries": 1735,
+      "billableCodes": 1379
+    },
+    {
+      "fiscalYear": 2022,
+      "chapterId": "10",
+      "chapterRange": "J00-J99",
+      "chapterTitle": "Diseases of the respiratory system",
+      "totalEntries": 451,
+      "billableCodes": 346
+    },
+    {
+      "fiscalYear": 2022,
+      "chapterId": "11",
+      "chapterRange": "K00-K95",
+      "chapterTitle": "Diseases of the digestive system",
+      "totalEntries": 1055,
+      "billableCodes": 817
+    },
+    {
+      "fiscalYear": 2022,
+      "chapterId": "12",
+      "chapterRange": "L00-L99",
+      "chapterTitle": "Diseases of the skin and subcutaneous tissue",
+      "totalEntries": 1064,
+      "billableCodes": 879
+    },
+    {
+      "fiscalYear": 2022,
+      "chapterId": "13",
+      "chapterRange": "M00-M99",
+      "chapterTitle": "Diseases of the musculoskeletal system and connective tissue",
+      "totalEntries": 8547,
+      "billableCodes": 6563
+    },
+    {
+      "fiscalYear": 2022,
+      "chapterId": "14",
+      "chapterRange": "N00-N99",
+      "chapterTitle": "Diseases of the genitourinary system",
+      "totalEntries": 849,
+      "billableCodes": 686
+    },
+    {
+      "fiscalYear": 2022,
+      "chapterId": "15",
+      "chapterRange": "O00-O9A",
+      "chapterTitle": "Pregnancy, childbirth and the puerperium",
+      "totalEntries": 2830,
+      "billableCodes": 2271
+    },
+    {
+      "fiscalYear": 2022,
+      "chapterId": "16",
+      "chapterRange": "P00-P96",
+      "chapterTitle": "Certain conditions originating in the perinatal period",
+      "totalEntries": 555,
+      "billableCodes": 455
+    },
+    {
+      "fiscalYear": 2022,
+      "chapterId": "17",
+      "chapterRange": "Q00-QA1",
+      "chapterTitle": "Congenital malformations, deformations and chromosomal abnormalities",
+      "totalEntries": 1009,
+      "billableCodes": 837
+    },
+    {
+      "fiscalYear": 2022,
+      "chapterId": "18",
+      "chapterRange": "R00-R99",
+      "chapterTitle": "Symptoms, signs and abnormal clinical and laboratory findings",
+      "totalEntries": 913,
+      "billableCodes": 735
+    },
+    {
+      "fiscalYear": 2022,
+      "chapterId": "19",
+      "chapterRange": "S00-T88",
+      "chapterTitle": "Injury, poisoning and certain other consequences of external causes",
+      "totalEntries": 53767,
+      "billableCodes": 40786
+    },
+    {
+      "fiscalYear": 2022,
+      "chapterId": "20",
+      "chapterRange": "V00-Y99",
+      "chapterTitle": "External causes of morbidity",
+      "totalEntries": 9985,
+      "billableCodes": 7067
+    },
+    {
+      "fiscalYear": 2022,
+      "chapterId": "21",
+      "chapterRange": "Z00-Z99",
+      "chapterTitle": "Factors influencing health status and contact with health services",
+      "totalEntries": 1684,
+      "billableCodes": 1289
+    },
+    {
+      "fiscalYear": 2022,
+      "chapterId": "22",
+      "chapterRange": "U00-U85",
+      "chapterTitle": "Codes for special purposes (U00-U85)",
+      "totalEntries": 5,
+      "billableCodes": 3
+    },
+    {
+      "fiscalYear": 2023,
+      "chapterId": "1",
+      "chapterRange": "A00-B99",
+      "chapterTitle": "Certain infectious and parasitic diseases",
+      "totalEntries": 1305,
+      "billableCodes": 1065
+    },
+    {
+      "fiscalYear": 2023,
+      "chapterId": "2",
+      "chapterRange": "C00-D49",
+      "chapterTitle": "Neoplasms",
+      "totalEntries": 2097,
+      "billableCodes": 1664
+    },
+    {
+      "fiscalYear": 2023,
+      "chapterId": "3",
+      "chapterRange": "D50-D89",
+      "chapterTitle": "Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism",
+      "totalEntries": 389,
+      "billableCodes": 312
+    },
+    {
+      "fiscalYear": 2023,
+      "chapterId": "4",
+      "chapterRange": "E00-E89",
+      "chapterTitle": "Endocrine, nutritional and metabolic diseases",
+      "totalEntries": 1203,
+      "billableCodes": 922
+    },
+    {
+      "fiscalYear": 2023,
+      "chapterId": "5",
+      "chapterRange": "F01-F99",
+      "chapterTitle": "Mental, Behavioral and Neurodevelopmental disorders",
+      "totalEntries": 1086,
+      "billableCodes": 849
+    },
+    {
+      "fiscalYear": 2023,
+      "chapterId": "6",
+      "chapterRange": "G00-G99",
+      "chapterTitle": "Diseases of the nervous system",
+      "totalEntries": 880,
+      "billableCodes": 663
+    },
+    {
+      "fiscalYear": 2023,
+      "chapterId": "7",
+      "chapterRange": "H00-H59",
+      "chapterTitle": "Diseases of the eye and adnexa",
+      "totalEntries": 3401,
+      "billableCodes": 2628
+    },
+    {
+      "fiscalYear": 2023,
+      "chapterId": "8",
+      "chapterRange": "H60-H95",
+      "chapterTitle": "Diseases of the ear and mastoid process",
+      "totalEntries": 871,
+      "billableCodes": 653
+    },
+    {
+      "fiscalYear": 2023,
+      "chapterId": "9",
+      "chapterRange": "I00-I99",
+      "chapterTitle": "Diseases of the circulatory system",
+      "totalEntries": 1778,
+      "billableCodes": 1412
+    },
+    {
+      "fiscalYear": 2023,
+      "chapterId": "10",
+      "chapterRange": "J00-J99",
+      "chapterTitle": "Diseases of the respiratory system",
+      "totalEntries": 452,
+      "billableCodes": 347
+    },
+    {
+      "fiscalYear": 2023,
+      "chapterId": "11",
+      "chapterRange": "K00-K95",
+      "chapterTitle": "Diseases of the digestive system",
+      "totalEntries": 1056,
+      "billableCodes": 818
+    },
+    {
+      "fiscalYear": 2023,
+      "chapterId": "12",
+      "chapterRange": "L00-L99",
+      "chapterTitle": "Diseases of the skin and subcutaneous tissue",
+      "totalEntries": 1064,
+      "billableCodes": 879
+    },
+    {
+      "fiscalYear": 2023,
+      "chapterId": "13",
+      "chapterRange": "M00-M99",
+      "chapterTitle": "Diseases of the musculoskeletal system and connective tissue",
+      "totalEntries": 8589,
+      "billableCodes": 6598
+    },
+    {
+      "fiscalYear": 2023,
+      "chapterId": "14",
+      "chapterRange": "N00-N99",
+      "chapterTitle": "Diseases of the genitourinary system",
+      "totalEntries": 1021,
+      "billableCodes": 818
+    },
+    {
+      "fiscalYear": 2023,
+      "chapterId": "15",
+      "chapterRange": "O00-O9A",
+      "chapterTitle": "Pregnancy, childbirth and the puerperium",
+      "totalEntries": 3016,
+      "billableCodes": 2432
+    },
+    {
+      "fiscalYear": 2023,
+      "chapterId": "16",
+      "chapterRange": "P00-P96",
+      "chapterTitle": "Certain conditions originating in the perinatal period",
+      "totalEntries": 565,
+      "billableCodes": 463
+    },
+    {
+      "fiscalYear": 2023,
+      "chapterId": "17",
+      "chapterRange": "Q00-QA1",
+      "chapterTitle": "Congenital malformations, deformations and chromosomal abnormalities",
+      "totalEntries": 1025,
+      "billableCodes": 850
+    },
+    {
+      "fiscalYear": 2023,
+      "chapterId": "18",
+      "chapterRange": "R00-R99",
+      "chapterTitle": "Symptoms, signs and abnormal clinical and laboratory findings",
+      "totalEntries": 913,
+      "billableCodes": 735
+    },
+    {
+      "fiscalYear": 2023,
+      "chapterId": "19",
+      "chapterRange": "S00-T88",
+      "chapterTitle": "Injury, poisoning and certain other consequences of external causes",
+      "totalEntries": 53909,
+      "billableCodes": 40890
+    },
+    {
+      "fiscalYear": 2023,
+      "chapterId": "20",
+      "chapterRange": "V00-Y99",
+      "chapterTitle": "External causes of morbidity",
+      "totalEntries": 10384,
+      "billableCodes": 7307
+    },
+    {
+      "fiscalYear": 2023,
+      "chapterId": "21",
+      "chapterRange": "Z00-Z99",
+      "chapterTitle": "Factors influencing health status and contact with health services",
+      "totalEntries": 1736,
+      "billableCodes": 1331
+    },
+    {
+      "fiscalYear": 2023,
+      "chapterId": "22",
+      "chapterRange": "U00-U85",
+      "chapterTitle": "Codes for special purposes (U00-U85)",
+      "totalEntries": 5,
+      "billableCodes": 3
+    },
+    {
+      "fiscalYear": 2024,
+      "chapterId": "1",
+      "chapterRange": "A00-B99",
+      "chapterTitle": "Certain infectious and parasitic diseases",
+      "totalEntries": 1307,
+      "billableCodes": 1067
+    },
+    {
+      "fiscalYear": 2024,
+      "chapterId": "2",
+      "chapterRange": "C00-D49",
+      "chapterTitle": "Neoplasms",
+      "totalEntries": 2111,
+      "billableCodes": 1675
+    },
+    {
+      "fiscalYear": 2024,
+      "chapterId": "3",
+      "chapterRange": "D50-D89",
+      "chapterTitle": "Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism",
+      "totalEntries": 397,
+      "billableCodes": 320
+    },
+    {
+      "fiscalYear": 2024,
+      "chapterId": "4",
+      "chapterRange": "E00-E89",
+      "chapterTitle": "Endocrine, nutritional and metabolic diseases",
+      "totalEntries": 1222,
+      "billableCodes": 937
+    },
+    {
+      "fiscalYear": 2024,
+      "chapterId": "5",
+      "chapterRange": "F01-F99",
+      "chapterTitle": "Mental, Behavioral and Neurodevelopmental disorders",
+      "totalEntries": 1086,
+      "billableCodes": 849
+    },
+    {
+      "fiscalYear": 2024,
+      "chapterId": "6",
+      "chapterRange": "G00-G99",
+      "chapterTitle": "Diseases of the nervous system",
+      "totalEntries": 912,
+      "billableCodes": 685
+    },
+    {
+      "fiscalYear": 2024,
+      "chapterId": "7",
+      "chapterRange": "H00-H59",
+      "chapterTitle": "Diseases of the eye and adnexa",
+      "totalEntries": 3447,
+      "billableCodes": 2661
+    },
+    {
+      "fiscalYear": 2024,
+      "chapterId": "8",
+      "chapterRange": "H60-H95",
+      "chapterTitle": "Diseases of the ear and mastoid process",
+      "totalEntries": 871,
+      "billableCodes": 653
+    },
+    {
+      "fiscalYear": 2024,
+      "chapterId": "9",
+      "chapterRange": "I00-I99",
+      "chapterTitle": "Diseases of the circulatory system",
+      "totalEntries": 1789,
+      "billableCodes": 1419
+    },
+    {
+      "fiscalYear": 2024,
+      "chapterId": "10",
+      "chapterRange": "J00-J99",
+      "chapterTitle": "Diseases of the respiratory system",
+      "totalEntries": 461,
+      "billableCodes": 353
+    },
+    {
+      "fiscalYear": 2024,
+      "chapterId": "11",
+      "chapterRange": "K00-K95",
+      "chapterTitle": "Diseases of the digestive system",
+      "totalEntries": 1076,
+      "billableCodes": 833
+    },
+    {
+      "fiscalYear": 2024,
+      "chapterId": "12",
+      "chapterRange": "L00-L99",
+      "chapterTitle": "Diseases of the skin and subcutaneous tissue",
+      "totalEntries": 1064,
+      "billableCodes": 879
+    },
+    {
+      "fiscalYear": 2024,
+      "chapterId": "13",
+      "chapterRange": "M00-M99",
+      "chapterTitle": "Diseases of the musculoskeletal system and connective tissue",
+      "totalEntries": 8633,
+      "billableCodes": 6634
+    },
+    {
+      "fiscalYear": 2024,
+      "chapterId": "14",
+      "chapterRange": "N00-N99",
+      "chapterTitle": "Diseases of the genitourinary system",
+      "totalEntries": 1037,
+      "billableCodes": 831
+    },
+    {
+      "fiscalYear": 2024,
+      "chapterId": "15",
+      "chapterRange": "O00-O9A",
+      "chapterTitle": "Pregnancy, childbirth and the puerperium",
+      "totalEntries": 3023,
+      "billableCodes": 2437
+    },
+    {
+      "fiscalYear": 2024,
+      "chapterId": "16",
+      "chapterRange": "P00-P96",
+      "chapterTitle": "Certain conditions originating in the perinatal period",
+      "totalEntries": 565,
+      "billableCodes": 463
+    },
+    {
+      "fiscalYear": 2024,
+      "chapterId": "17",
+      "chapterRange": "Q00-QA1",
+      "chapterTitle": "Congenital malformations, deformations and chromosomal abnormalities",
+      "totalEntries": 1051,
+      "billableCodes": 870
+    },
+    {
+      "fiscalYear": 2024,
+      "chapterId": "18",
+      "chapterRange": "R00-R99",
+      "chapterTitle": "Symptoms, signs and abnormal clinical and laboratory findings",
+      "totalEntries": 937,
+      "billableCodes": 753
+    },
+    {
+      "fiscalYear": 2024,
+      "chapterId": "19",
+      "chapterRange": "S00-T88",
+      "chapterTitle": "Injury, poisoning and certain other consequences of external causes",
+      "totalEntries": 53944,
+      "billableCodes": 40914
+    },
+    {
+      "fiscalYear": 2024,
+      "chapterId": "20",
+      "chapterRange": "V00-Y99",
+      "chapterTitle": "External causes of morbidity",
+      "totalEntries": 10573,
+      "billableCodes": 7441
+    },
+    {
+      "fiscalYear": 2024,
+      "chapterId": "21",
+      "chapterRange": "Z00-Z99",
+      "chapterTitle": "Factors influencing health status and contact with health services",
+      "totalEntries": 1785,
+      "billableCodes": 1367
+    },
+    {
+      "fiscalYear": 2024,
+      "chapterId": "22",
+      "chapterRange": "U00-U85",
+      "chapterTitle": "Codes for special purposes (U00-U85)",
+      "totalEntries": 5,
+      "billableCodes": 3
+    },
+    {
+      "fiscalYear": 2025,
+      "chapterId": "1",
+      "chapterRange": "A00-B99",
+      "chapterTitle": "Certain infectious and parasitic diseases",
+      "totalEntries": 1307,
+      "billableCodes": 1067
+    },
+    {
+      "fiscalYear": 2025,
+      "chapterId": "2",
+      "chapterRange": "C00-D49",
+      "chapterTitle": "Neoplasms",
+      "totalEntries": 2174,
+      "billableCodes": 1724
+    },
+    {
+      "fiscalYear": 2025,
+      "chapterId": "3",
+      "chapterRange": "D50-D89",
+      "chapterTitle": "Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism",
+      "totalEntries": 398,
+      "billableCodes": 321
+    },
+    {
+      "fiscalYear": 2025,
+      "chapterId": "4",
+      "chapterRange": "E00-E89",
+      "chapterTitle": "Endocrine, nutritional and metabolic diseases",
+      "totalEntries": 1242,
+      "billableCodes": 951
+    },
+    {
+      "fiscalYear": 2025,
+      "chapterId": "5",
+      "chapterRange": "F01-F99",
+      "chapterTitle": "Mental, Behavioral and Neurodevelopmental disorders",
+      "totalEntries": 1112,
+      "billableCodes": 871
+    },
+    {
+      "fiscalYear": 2025,
+      "chapterId": "6",
+      "chapterRange": "G00-G99",
+      "chapterTitle": "Diseases of the nervous system",
+      "totalEntries": 920,
+      "billableCodes": 691
+    },
+    {
+      "fiscalYear": 2025,
+      "chapterId": "7",
+      "chapterRange": "H00-H59",
+      "chapterTitle": "Diseases of the eye and adnexa",
+      "totalEntries": 3447,
+      "billableCodes": 2661
+    },
+    {
+      "fiscalYear": 2025,
+      "chapterId": "8",
+      "chapterRange": "H60-H95",
+      "chapterTitle": "Diseases of the ear and mastoid process",
+      "totalEntries": 871,
+      "billableCodes": 653
+    },
+    {
+      "fiscalYear": 2025,
+      "chapterId": "9",
+      "chapterRange": "I00-I99",
+      "chapterTitle": "Diseases of the circulatory system",
+      "totalEntries": 1793,
+      "billableCodes": 1423
+    },
+    {
+      "fiscalYear": 2025,
+      "chapterId": "10",
+      "chapterRange": "J00-J99",
+      "chapterTitle": "Diseases of the respiratory system",
+      "totalEntries": 471,
+      "billableCodes": 360
+    },
+    {
+      "fiscalYear": 2025,
+      "chapterId": "11",
+      "chapterRange": "K00-K95",
+      "chapterTitle": "Diseases of the digestive system",
+      "totalEntries": 1109,
+      "billableCodes": 857
+    },
+    {
+      "fiscalYear": 2025,
+      "chapterId": "12",
+      "chapterRange": "L00-L99",
+      "chapterTitle": "Diseases of the skin and subcutaneous tissue",
+      "totalEntries": 1072,
+      "billableCodes": 884
+    },
+    {
+      "fiscalYear": 2025,
+      "chapterId": "13",
+      "chapterRange": "M00-M99",
+      "chapterTitle": "Diseases of the musculoskeletal system and connective tissue",
+      "totalEntries": 8673,
+      "billableCodes": 6664
+    },
+    {
+      "fiscalYear": 2025,
+      "chapterId": "14",
+      "chapterRange": "N00-N99",
+      "chapterTitle": "Diseases of the genitourinary system",
+      "totalEntries": 1037,
+      "billableCodes": 831
+    },
+    {
+      "fiscalYear": 2025,
+      "chapterId": "15",
+      "chapterRange": "O00-O9A",
+      "chapterTitle": "Pregnancy, childbirth and the puerperium",
+      "totalEntries": 3023,
+      "billableCodes": 2437
+    },
+    {
+      "fiscalYear": 2025,
+      "chapterId": "16",
+      "chapterRange": "P00-P96",
+      "chapterTitle": "Certain conditions originating in the perinatal period",
+      "totalEntries": 565,
+      "billableCodes": 463
+    },
+    {
+      "fiscalYear": 2025,
+      "chapterId": "17",
+      "chapterRange": "Q00-QA1",
+      "chapterTitle": "Congenital malformations, deformations and chromosomal abnormalities",
+      "totalEntries": 1055,
+      "billableCodes": 873
+    },
+    {
+      "fiscalYear": 2025,
+      "chapterId": "18",
+      "chapterRange": "R00-R99",
+      "chapterTitle": "Symptoms, signs and abnormal clinical and laboratory findings",
+      "totalEntries": 938,
+      "billableCodes": 754
+    },
+    {
+      "fiscalYear": 2025,
+      "chapterId": "19",
+      "chapterRange": "S00-T88",
+      "chapterTitle": "Injury, poisoning and certain other consequences of external causes",
+      "totalEntries": 53983,
+      "billableCodes": 40941
+    },
+    {
+      "fiscalYear": 2025,
+      "chapterId": "20",
+      "chapterRange": "V00-Y99",
+      "chapterTitle": "External causes of morbidity",
+      "totalEntries": 10573,
+      "billableCodes": 7441
+    },
+    {
+      "fiscalYear": 2025,
+      "chapterId": "21",
+      "chapterRange": "Z00-Z99",
+      "chapterTitle": "Factors influencing health status and contact with health services",
+      "totalEntries": 1816,
+      "billableCodes": 1390
+    },
+    {
+      "fiscalYear": 2025,
+      "chapterId": "22",
+      "chapterRange": "U00-U85",
+      "chapterTitle": "Codes for special purposes (U00-U85)",
+      "totalEntries": 5,
+      "billableCodes": 3
+    },
+    {
+      "fiscalYear": 2026,
+      "chapterId": "1",
+      "chapterRange": "A00-B99",
+      "chapterTitle": "Certain infectious and parasitic diseases",
+      "totalEntries": 1309,
+      "billableCodes": 1068
+    },
+    {
+      "fiscalYear": 2026,
+      "chapterId": "2",
+      "chapterRange": "C00-D49",
+      "chapterTitle": "Neoplasms",
+      "totalEntries": 2178,
+      "billableCodes": 1727
+    },
+    {
+      "fiscalYear": 2026,
+      "chapterId": "3",
+      "chapterRange": "D50-D89",
+      "chapterTitle": "Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism",
+      "totalEntries": 401,
+      "billableCodes": 323
+    },
+    {
+      "fiscalYear": 2026,
+      "chapterId": "4",
+      "chapterRange": "E00-E89",
+      "chapterTitle": "Endocrine, nutritional and metabolic diseases",
+      "totalEntries": 1267,
+      "billableCodes": 971
+    },
+    {
+      "fiscalYear": 2026,
+      "chapterId": "5",
+      "chapterRange": "F01-F99",
+      "chapterTitle": "Mental, Behavioral and Neurodevelopmental disorders",
+      "totalEntries": 1112,
+      "billableCodes": 871
+    },
+    {
+      "fiscalYear": 2026,
+      "chapterId": "6",
+      "chapterRange": "G00-G99",
+      "chapterTitle": "Diseases of the nervous system",
+      "totalEntries": 932,
+      "billableCodes": 700
+    },
+    {
+      "fiscalYear": 2026,
+      "chapterId": "7",
+      "chapterRange": "H00-H59",
+      "chapterTitle": "Diseases of the eye and adnexa",
+      "totalEntries": 3466,
+      "billableCodes": 2677
+    },
+    {
+      "fiscalYear": 2026,
+      "chapterId": "8",
+      "chapterRange": "H60-H95",
+      "chapterTitle": "Diseases of the ear and mastoid process",
+      "totalEntries": 871,
+      "billableCodes": 653
+    },
+    {
+      "fiscalYear": 2026,
+      "chapterId": "9",
+      "chapterRange": "I00-I99",
+      "chapterTitle": "Diseases of the circulatory system",
+      "totalEntries": 1798,
+      "billableCodes": 1427
+    },
+    {
+      "fiscalYear": 2026,
+      "chapterId": "10",
+      "chapterRange": "J00-J99",
+      "chapterTitle": "Diseases of the respiratory system",
+      "totalEntries": 471,
+      "billableCodes": 360
+    },
+    {
+      "fiscalYear": 2026,
+      "chapterId": "11",
+      "chapterRange": "K00-K95",
+      "chapterTitle": "Diseases of the digestive system",
+      "totalEntries": 1109,
+      "billableCodes": 857
+    },
+    {
+      "fiscalYear": 2026,
+      "chapterId": "12",
+      "chapterRange": "L00-L99",
+      "chapterTitle": "Diseases of the skin and subcutaneous tissue",
+      "totalEntries": 1206,
+      "billableCodes": 1000
+    },
+    {
+      "fiscalYear": 2026,
+      "chapterId": "13",
+      "chapterRange": "M00-M99",
+      "chapterTitle": "Diseases of the musculoskeletal system and connective tissue",
+      "totalEntries": 8674,
+      "billableCodes": 6665
+    },
+    {
+      "fiscalYear": 2026,
+      "chapterId": "14",
+      "chapterRange": "N00-N99",
+      "chapterTitle": "Diseases of the genitourinary system",
+      "totalEntries": 1044,
+      "billableCodes": 836
+    },
+    {
+      "fiscalYear": 2026,
+      "chapterId": "15",
+      "chapterRange": "O00-O9A",
+      "chapterTitle": "Pregnancy, childbirth and the puerperium",
+      "totalEntries": 3023,
+      "billableCodes": 2437
+    },
+    {
+      "fiscalYear": 2026,
+      "chapterId": "16",
+      "chapterRange": "P00-P96",
+      "chapterTitle": "Certain conditions originating in the perinatal period",
+      "totalEntries": 565,
+      "billableCodes": 463
+    },
+    {
+      "fiscalYear": 2026,
+      "chapterId": "17",
+      "chapterRange": "Q00-QA1",
+      "chapterTitle": "Congenital malformations, deformations and chromosomal abnormalities",
+      "totalEntries": 1086,
+      "billableCodes": 894
+    },
+    {
+      "fiscalYear": 2026,
+      "chapterId": "18",
+      "chapterRange": "R00-R99",
+      "chapterTitle": "Symptoms, signs and abnormal clinical and laboratory findings",
+      "totalEntries": 962,
+      "billableCodes": 773
+    },
+    {
+      "fiscalYear": 2026,
+      "chapterId": "19",
+      "chapterRange": "S00-T88",
+      "chapterTitle": "Injury, poisoning and certain other consequences of external causes",
+      "totalEntries": 54261,
+      "billableCodes": 41142
+    },
+    {
+      "fiscalYear": 2026,
+      "chapterId": "20",
+      "chapterRange": "V00-Y99",
+      "chapterTitle": "External causes of morbidity",
+      "totalEntries": 10602,
+      "billableCodes": 7461
+    },
+    {
+      "fiscalYear": 2026,
+      "chapterId": "21",
+      "chapterRange": "Z00-Z99",
+      "chapterTitle": "Factors influencing health status and contact with health services",
+      "totalEntries": 1844,
+      "billableCodes": 1411
+    },
+    {
+      "fiscalYear": 2026,
+      "chapterId": "22",
+      "chapterRange": "U00-U85",
+      "chapterTitle": "Codes for special purposes (U00-U85)",
+      "totalEntries": 5,
+      "billableCodes": 3
+    },
+    {
+      "fiscalYear": 2027,
+      "chapterId": "1",
+      "chapterRange": "A00-B99",
+      "chapterTitle": "Certain infectious and parasitic diseases",
+      "totalEntries": 1309,
+      "billableCodes": 1068
+    },
+    {
+      "fiscalYear": 2027,
+      "chapterId": "2",
+      "chapterRange": "C00-D49",
+      "chapterTitle": "Neoplasms",
+      "totalEntries": 2181,
+      "billableCodes": 1730
+    },
+    {
+      "fiscalYear": 2027,
+      "chapterId": "3",
+      "chapterRange": "D50-D89",
+      "chapterTitle": "Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism",
+      "totalEntries": 403,
+      "billableCodes": 324
+    },
+    {
+      "fiscalYear": 2027,
+      "chapterId": "4",
+      "chapterRange": "E00-E89",
+      "chapterTitle": "Endocrine, nutritional and metabolic diseases",
+      "totalEntries": 1270,
+      "billableCodes": 973
+    },
+    {
+      "fiscalYear": 2027,
+      "chapterId": "5",
+      "chapterRange": "F01-F99",
+      "chapterTitle": "Mental, Behavioral and Neurodevelopmental disorders",
+      "totalEntries": 1113,
+      "billableCodes": 872
+    },
+    {
+      "fiscalYear": 2027,
+      "chapterId": "6",
+      "chapterRange": "G00-G99",
+      "chapterTitle": "Diseases of the nervous system",
+      "totalEntries": 932,
+      "billableCodes": 700
+    },
+    {
+      "fiscalYear": 2027,
+      "chapterId": "7",
+      "chapterRange": "H00-H59",
+      "chapterTitle": "Diseases of the eye and adnexa",
+      "totalEntries": 3466,
+      "billableCodes": 2677
+    },
+    {
+      "fiscalYear": 2027,
+      "chapterId": "8",
+      "chapterRange": "H60-H95",
+      "chapterTitle": "Diseases of the ear and mastoid process",
+      "totalEntries": 871,
+      "billableCodes": 653
+    },
+    {
+      "fiscalYear": 2027,
+      "chapterId": "9",
+      "chapterRange": "I00-I99",
+      "chapterTitle": "Diseases of the circulatory system",
+      "totalEntries": 1807,
+      "billableCodes": 1433
+    },
+    {
+      "fiscalYear": 2027,
+      "chapterId": "10",
+      "chapterRange": "J00-J99",
+      "chapterTitle": "Diseases of the respiratory system",
+      "totalEntries": 478,
+      "billableCodes": 366
+    },
+    {
+      "fiscalYear": 2027,
+      "chapterId": "11",
+      "chapterRange": "K00-K95",
+      "chapterTitle": "Diseases of the digestive system",
+      "totalEntries": 1117,
+      "billableCodes": 863
+    },
+    {
+      "fiscalYear": 2027,
+      "chapterId": "12",
+      "chapterRange": "L00-L99",
+      "chapterTitle": "Diseases of the skin and subcutaneous tissue",
+      "totalEntries": 1207,
+      "billableCodes": 1001
+    },
+    {
+      "fiscalYear": 2027,
+      "chapterId": "13",
+      "chapterRange": "M00-M99",
+      "chapterTitle": "Diseases of the musculoskeletal system and connective tissue",
+      "totalEntries": 8707,
+      "billableCodes": 6687
+    },
+    {
+      "fiscalYear": 2027,
+      "chapterId": "14",
+      "chapterRange": "N00-N99",
+      "chapterTitle": "Diseases of the genitourinary system",
+      "totalEntries": 1047,
+      "billableCodes": 838
+    },
+    {
+      "fiscalYear": 2027,
+      "chapterId": "15",
+      "chapterRange": "O00-O9A",
+      "chapterTitle": "Pregnancy, childbirth and the puerperium",
+      "totalEntries": 3079,
+      "billableCodes": 2481
+    },
+    {
+      "fiscalYear": 2027,
+      "chapterId": "16",
+      "chapterRange": "P00-P96",
+      "chapterTitle": "Certain conditions originating in the perinatal period",
+      "totalEntries": 565,
+      "billableCodes": 463
+    },
+    {
+      "fiscalYear": 2027,
+      "chapterId": "17",
+      "chapterRange": "Q00-QA1",
+      "chapterTitle": "Congenital malformations, deformations and chromosomal abnormalities",
+      "totalEntries": 1095,
+      "billableCodes": 900
+    },
+    {
+      "fiscalYear": 2027,
+      "chapterId": "18",
+      "chapterRange": "R00-R99",
+      "chapterTitle": "Symptoms, signs and abnormal clinical and laboratory findings",
+      "totalEntries": 963,
+      "billableCodes": 774
+    },
+    {
+      "fiscalYear": 2027,
+      "chapterId": "19",
+      "chapterRange": "S00-T88",
+      "chapterTitle": "Injury, poisoning and certain other consequences of external causes",
+      "totalEntries": 54325,
+      "billableCodes": 41187
+    },
+    {
+      "fiscalYear": 2027,
+      "chapterId": "20",
+      "chapterRange": "V00-Y99",
+      "chapterTitle": "External causes of morbidity",
+      "totalEntries": 10602,
+      "billableCodes": 7461
+    },
+    {
+      "fiscalYear": 2027,
+      "chapterId": "21",
+      "chapterRange": "Z00-Z99",
+      "chapterTitle": "Factors influencing health status and contact with health services",
+      "totalEntries": 1861,
+      "billableCodes": 1425
+    },
+    {
+      "fiscalYear": 2027,
+      "chapterId": "22",
+      "chapterRange": "U00-U85",
+      "chapterTitle": "Codes for special purposes (U00-U85)",
+      "totalEntries": 5,
+      "billableCodes": 3
+    }
+  ]
+}

@@ -52,6 +52,10 @@
       "rows": 1030
     },
     {
+      "path": "icd10cm/chapter-growth/icd10cm-chapter-growth-fy2016-fy2027.csv",
+      "rows": 264
+    },
+    {
       "path": "icd10cm/excludes-notes/fy2027-excludes1.csv",
       "rows": 5411
     },

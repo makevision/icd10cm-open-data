@@ -16,6 +16,7 @@ not required.
 |---|---|---|---|
 | Code counts by fiscal year | `icd10cm/code-counts/icd10cm-code-counts-fy2016-fy2027.{csv,json}` | 12 | How many ICD-10-CM codes exist each year, how many are valid for reporting, how many were added and removed |
 | FY2027 change lists | `icd10cm/fy2027-changes/{added,deleted,revised,billable-status-changes}.{csv,json}`, `summary.json` | 238 / 21 / 4 / 15 | Exactly which codes changed between the FY2026 and FY2027 order files |
+| Chapter growth | `icd10cm/chapter-growth/icd10cm-chapter-growth-fy2016-fy2027.{csv,json}` | 264 | Order-file entries and valid codes per ICD-10-CM chapter, for every fiscal year FY2016 to FY2027 -- which chapters grew, and by how much |
 | Annual change lists | `icd10cm/annual-changes/{added,deleted,revised,billable-status-changes}.{csv,json}`, `summary.csv/json` | 7,348 / 682 / 1,265 / 413 | The FY2027-changes diff run for every fiscal-year pair from FY2017 to FY2027, tagged by fiscal year, so one file covers eleven years of additions, deletions, revisions and billable-status flips instead of one |
 | Code lifespans | `icd10cm/code-lifespans/icd10cm-code-lifespans-fy2016-fy2027.{csv,json}` | 99,085 | For every code that has ever appeared: the fiscal year it arrived, the year it last appeared, the years it was valid for submission, and whether it still is |
 | Retired codes | `icd10cm/code-lifespans/retired-codes.{csv,json}` | 1,030 | The codes that were once reportable and are not now, split into deleted from the file and converted into non-billable parents |
@@ -59,6 +60,12 @@ claim: `deleted` means the code is gone from the order file, and `header` means 
 in the file but has gained children, so a more specific code must be reported instead. Across
 FY2016 to FY2027 there are 619 of the first and 411 of the second, and no code has ever left an
 order file and reappeared in a later one.
+
+**Chapter growth, Chapter 17.** The published range for Chapter 17 is `Q00-QA1`, not the `Q00-Q99`
+still shown on medcoder.ai's own Chapter 17 hub page as of this writing. CMS added categories QA0
+and QA1 (neurodevelopmental disorders tied to specific genes) under Chapter 17 without renumbering
+it; the individual code pages for QA0/QA1 correctly breadcrumb to Chapter 17, so this pack uses the
+boundary CMS actually assigned, not the stale one still on the hub page.
 
 ## Caveats
 
